@@ -1,0 +1,801 @@
+hotel_id,nearby_restaurants_name,rating,reviews,distance
+72572,Planet Java Diner,4.5,117,.04
+72572,Cafe Paloma,4.5,100,.04
+72572,Delicatus,4.5,114,.04
+72572,Damn The Weather,4,78,.06
+73821,Little Miss Bbq,4.5,354,.59
+73821,Denny's,4,48,.31
+73821,Arizona Sandwich Company,4.5,25,.64
+73821,Yvonne's Cafe,5,7,.78
+73855,Hanny's,4.5,264,.07
+73855,Compass Arizona Grill,4,346,.01
+73855,Nook Kitchen,4.5,52,.11
+73855,The Kettle Black Kitchen and Pub,4,70,.09
+73943,T. Cook's,4.5,635,.00
+73943,The Henry,4,323,.93
+73943,O.H.S.O. Eatery & nanoBrewery,4,240,.76
+73943,Over Easy,4,176,.87
+73950,Little Miss Bbq,4.5,354,.60
+73950,Denny's,4,48,.25
+73950,Arizona Sandwich Company,4.5,25,.59
+73950,Yvonne's Cafe,5,7,.73
+73957,Aunt Chilada's Squaw Peak,4,380,.32
+73957,Tutti Santi,4.5,61,.19
+73957,Babbo Italian Eatery,4.5,113,.79
+73957,Thirteenorth Grille,4.5,65,.54
+74583,Little Miss Bbq,4.5,354,.48
+74583,Denny's,4,48,.27
+74583,Arizona Sandwich Company,4.5,25,.68
+74583,Yvonne's Cafe,5,7,.82
+74626,Farm at South Mountain,4.5,168,.41
+74626,Morning Glory Cafe,4.5,72,.40
+74626,Quiessence,4,140,.39
+74626,The Legacy Golf Resort Restaurant,4,63,.13
+76083,Granville,4,18,.19
+76083,Absolutely Phobulous,4,16,.10
+76083,Real Food Daily - West Hollywood,4.5,111,.17
+76083,Esterel,4,46,.03
+77270,California Pizza Kitchen,4.5,569,.08
+77270,Johnny Rockets,4,841,.09
+77270,Cabo Wabo Cantina,3.5,242,.07
+77270,Starbucks,4,108,.07
+77629,Barcelona,4.5,519,.30
+77629,The Abbey,4.5,145,.38
+77629,The Publick House,4,215,.38
+77629,Stoked Wood Fired Pizza Co.,4.5,31,.42
+77638,Penguin Pizza,4.5,70,.31
+77638,The Mission Bar & Grill,4,87,.32
+77638,Longwood,4,100,.02
+77638,Clover Food Lab (LMA),4.5,14,.17
+77714,Redbird,4.5,175,.08
+77714,BadmaashLA,4,82,.11
+77714,Justice Urban Tavern,4,126,.03
+77714,Curry House,4,58,.05
+77775,Frida Mexican Cuisine,3,7,.30
+77775,Napa Valley Grille,4,233,.34
+77775,Panini Cafe,4.5,54,.30
+77775,STK Los Angeles,4,67,.31
+77804,Otium Restaurant,4,259,.13
+77804,Blue Cow Kitchen & Bar,4,132,.09
+77804,Noe Restaurant & Bar,4,192,.03
+77804,Nick & Stef's Steakhouse,4,155,.14
+77827,Getty Center Restaurant,4.5,553,.48
+77827,The Cafe,4,136,.49
+77827,West Restaurant and Lounge,4,140,.08
+77827,Belwood Bakery,4.5,26,.56
+77866,Water Grill,4.5,708,.10
+77866,Perch,4.5,673,.11
+77866,Pitchoun!,4.5,175,.05
+77866,Le Pain Quotidien,4.5,42,.07
+77944,Aliki's Greek Taverna,4.5,304,.24
+77944,Zpizza,4,115,.24
+77944,Denny's - Century Blvd.,4,642,.52
+77944,JW's Steakhouse,4.5,130,.21
+78682,The Front Yard,4.5,400,.03
+78682,Vivian's Millenium Cafe,4.5,131,.35
+78682,Rustic Spoon,4.5,24,.42
+78682,Stout burgers and beers,4.5,98,.42
+78688,The Six,4,56,.21
+78688,Iroha,4.5,74,.21
+78688,Pagliacci's,4.5,29,.32
+78688,Five Guys,4.5,32,.17
+78694,Wolfgang Puck Bistro,4,201,.19
+78694,Miceli's,4,147,.21
+78694,Saddle Ranch Chop House,4,391,.12
+78694,Mel's Diner,4,122,.22
+79500,Big Kahuna Pizza,4.5,214,.18
+79500,Joe's Grill Express,4.5,30,.22
+79500,Mitch's Fish Market & Sushi Bar,4.5,68,.36
+79500,Starbucks,4,30,.16
+80275,Bubba Gump Shrimp Co,4,3332,.10
+80275,Hooters of Bayside,4,950,.13
+80275,Five Guys Burgers and Fries,4,123,.13
+80275,Tuyo Restaurant,4,141,.13
+80747,Jeanne D'arc,4.5,462,.12
+80747,Top of the Mark,4,969,.05
+80747,Roxanne Cafe,4,793,.12
+80747,Uncle Vito's Pizzeria,4,1182,.11
+80756,Pearl's Deluxe Burgers,4.5,733,.07
+80756,Resolute,5,6,.05
+80756,Mensho Tokyo,4.5,50,.04
+80756,Olympic Flame Cafe,4,124,.06
+80771,Johnny Foley's,4,1096,.04
+80771,Bartlett Hall,4,323,.04
+80771,Tad's Steakhouse,4,689,.03
+80771,Dojima-Ann,4,318,.02
+80774,The Cheesecake Factory,4,5319,.04
+80774,Daily Grill,4,1261,.04
+80774,The Cheesecake Factory,4,444,.05
+80774,Eno Wine Bar,4.5,288,.04
+80786,Johnny Foley's,4,1096,.05
+80786,Pinecrest Diner,4,1349,.03
+80786,Daily Grill,4,1262,.04
+80786,Cafe Mason,4,1016,.02
+80788,Tommy's Joynt,4,574,.08
+80788,Mel's Drive-In - Van Ness,4,412,.07
+80788,Jane on Larkin,4.5,46,.12
+80788,De Afghanan Kabob House,4.5,29,.02
+80793,Johnny Foley's,4,1096,.02
+80793,The Old Siam Thai Restaurant,4,499,.05
+80793,Cafe Mason,4,1016,.05
+80793,Kin Khao,4,311,.06
+80802,Taylor Street Coffee Shop,4.5,1014,.03
+80802,La Marsa,5,41,.07
+80802,Tratto,4,145,.05
+80802,Urban Tavern,3.5,381,.04
+80836,The Owl Tree Bar,4,39,.07
+80836,Honey Honey Cafe & Crepery,4.5,1387,.08
+80836,Sanraku Japanese Restaurant,4.5,875,.07
+80836,Ryoko's Japanese Restaurant & Bar,4.5,533,.07
+80879,bar agricole,4,129,.16
+80879,Halu,4.5,11,.14
+80879,Wicked Grounds,4.5,12,.18
+80879,Kama Sushi,4.5,19,.10
+80920,The Old Siam Thai Restaurant,4,499,.06
+80920,Kin Khao,4,311,.05
+80920,Puccini & Pinetti,4,961,.07
+80920,Little Delhi Restaurant,4,358,.01
+80930,Leopold's,4.5,141,.21
+80930,Helmand Palace,4.5,117,.20
+80930,The New Spot On Polk,5,17,.20
+80930,Bobo's Steakhouse,4,336,.05
+80937,Jeanne D'arc,4.5,462,.00
+80937,Roxanne Cafe,4,793,.02
+80937,Uncle Vito's Pizzeria,4,1182,.01
+80937,Maru Sushi,4,406,.03
+80983,B. Patisserie,4.5,168,.31
+80983,Garibaldi's on Presidio,4.5,156,.34
+80983,Scopo Divino,5,25,.30
+80983,Eliza's,4.5,65,.31
+80987,Roma Antica,5,25,.06
+80987,Yukol Place Thai Cuisine,4.5,67,.03
+80987,Pluto's Fresh Food for a Hungry Universe,4.5,74,.08
+80987,Viva Goa,4,92,.06
+80990,Gaspar Brasserie,4,109,.01
+80990,Bread and Cocoa,4,229,.01
+80990,Rickhouse,4.5,62,.06
+80990,Aquitaine WIne Bistro,4.5,60,.01
+80999,E&O Kitchen and Bar,4,780,.08
+80999,Sears Fine Foods,4,3118,.08
+80999,Campton Place Restaurant,4.5,306,.02
+80999,Bouche,4.5,322,.07
+81004,Cafe Claude,4,562,.10
+81004,Cafe De La Presse,4,1215,.06
+81004,Ramen Underground,4.5,141,.09
+81004,Parallel 37,4.5,219,.10
+81019,Pinecrest Diner,4,1349,.05
+81019,Daily Grill,4,1262,.01
+81019,Cafe Mason,4,1016,.06
+81019,Eno Wine Bar,4.5,289,.02
+81022,Boulevard,4.5,1623,.07
+81022,Yank Sing,4.5,717,.07
+81022,Ozumo,4,657,.00
+81022,Perry's on the Embarcadero,4,365,.02
+81035,Sam's Diner,4.5,516,.08
+81035,Ananda Fuara,4.5,120,.12
+81035,Gyro King,4,92,.09
+81035,Cadillac Bar & Grill,4,42,.10
+81038,Sam Wo,4,107,.06
+81038,Alfred's Steakhouse,4,309,.03
+81038,Mangia Tutti Ristorante,4.5,64,.06
+81038,Enjoy Vegetarian Restaurant,4,67,.06
+81042,Eight Am,4.5,603,.06
+81042,The Baked Bear - Custom Ice Cream Sandwiches,4.5,140,.08
+81042,The Codmother Fish & Chips,4.5,1050,.10
+81042,Carmel Pizza Company,4.5,330,.09
+81049,Crustacean,4,360,.05
+81049,Ruth's Chris Steak House,4.5,420,.05
+81049,Ben Thai Cafe,5,39,.09
+81049,The Grubstake,4,167,.05
+81082,Eight Am,4.5,603,.06
+81082,The Baked Bear - Custom Ice Cream Sandwiches,4.5,140,.07
+81082,Norman's Ice Cream and Freezes,4.5,268,.07
+81082,Joanie's Happy Days Diner,4.5,590,.06
+81103,Philz Coffee,4.5,23,.01
+81103,One Market Restaurant,4,497,.06
+81103,Ziggy's Burgers,4,146,.05
+81103,Osha Thai Restaurant,4,217,.06
+81110,E&O Kitchen and Bar,4,780,.05
+81110,Campton Place Restaurant,4.5,306,.02
+81110,Bouche,4.5,322,.08
+81110,Hops and Hominy,4,361,.05
+81141,Eight Am,4.5,603,.10
+81141,Hollywood Cafe,4.5,3292,.10
+81141,The Baked Bear - Custom Ice Cream Sandwiches,4.5,140,.12
+81141,The Codmother Fish & Chips,4.5,1050,.12
+81165,The Old Siam Thai Restaurant,4,499,.06
+81165,Kin Khao,4,311,.03
+81165,Puccini & Pinetti,4,961,.01
+81165,Tad's Steakhouse,4,689,.05
+81169,Amber,4.5,774,.07
+81169,The View Lounge,4.5,342,.04
+81169,Super Duper Burgers,4.5,187,.06
+81169,Mel's Drive-In - Mission St.,4,889,.05
+81170,Tocaya Organica,4.5,108,.06
+81170,Menotti's Coffee Stop,4.5,61,.02
+81170,Larry's,4,247,.04
+81170,mao's kitchen,4,167,.07
+81177,Harris' Steakhouse,4.5,717,.05
+81177,Lord Stanley,4.5,58,.06
+81177,The Bell Tower,4.5,83,.08
+81177,Nick's Crispy Taco's,4,106,.07
+81204,Hidden Vine,4.5,56,.02
+81204,Starbucks,4.5,42,.01
+81204,Cafe Me,5,21,.07
+81204,Sai's Restaurant,4.5,28,.06
+81241,Sam's Diner,4.5,515,.03
+81241,Ananda Fuara,4.5,120,.08
+81241,Gyro King,4,92,.04
+81241,Cadillac Bar & Grill,4,42,.10
+81246,Sightglass Coffee,4.5,136,.03
+81246,Rocco's Cafe,4.5,181,.08
+81246,Basil - Thai Restaurant & Bar,4,127,.13
+81246,Vive La Tarte,5,26,.12
+81249,Roam Artisan Burgers,4.5,353,.25
+81249,Pane e Vino,4.5,151,.23
+81249,Bobo's Steakhouse,4,336,.05
+81249,Bobo's Burger Bar,4.5,27,.08
+81251,Tommy's Joynt,4,574,.03
+81251,Mel's Drive-In - Van Ness,4,412,.01
+81251,Village Pizzeria,4.5,68,.14
+81251,De Afghanan Kabob House,4.5,29,.05
+81315,Amber,4.5,774,.06
+81315,The View Lounge,4.5,342,.01
+81315,Super Duper Burgers,4.5,187,.03
+81315,Mel's Drive-In - Mission St.,4,889,.07
+81367,Cliff House,4.5,1545,.27
+81367,Sutro's,4,248,.27
+81367,The Bistro at Cliff House,4,165,.27
+81367,Louis' Restaurant,4,242,.19
+81375,Frankie’s Pier 43,4,40,.14
+81375,Hollywood Cafe,4.5,3292,.14
+81375,Darren's Cafe,4.5,380,.14
+81375,Bistro Boudin,4,3594,.11
+81377,Jeanne D'arc,4.5,462,.07
+81377,Farallon,4,1157,.07
+81377,Sears Fine Foods,4,3118,.01
+81377,Scala's Bistro,4,1804,.01
+81394,Farallon,4,1156,.06
+81394,Colibri Mexican Bistro,4,1041,.06
+81394,Akiko's Sushi Bar and Restaurant,4.5,374,.06
+81394,Pinecrest Diner,4,1349,.06
+81409,Farallon,4,1157,.01
+81409,Sears Fine Foods,4,3118,.05
+81409,Cesario's,4,512,.07
+81409,Akiko's Sushi Bar and Restaurant,4.5,374,.06
+81416,Octavia,4.5,118,.11
+81416,Waraku,4.5,71,.21
+81416,Village Pizzeria,4.5,67,.20
+81416,Wayo Sushi Restaurant,4.5,26,.20
+81444,The Owl Tree Bar,4,39,.07
+81444,Farallon,4,1157,.06
+81444,Colibri Mexican Bistro,4,1041,.07
+81444,Cesario's,4,512,.06
+81461,Farallon,4,1156,.06
+81461,The Cheesecake Factory,4,5319,.07
+81461,Morton's - The Steakhouse,4,1180,.04
+81461,Daily Grill,4,1262,.04
+81466,Frankie’s Pier 43,4,40,.08
+81466,Boudin Sourdough Bakery & Cafe,4.5,1399,.10
+81466,Darren's Cafe,4.5,380,.08
+81466,Bistro Boudin,4,3595,.05
+81480,Home Plate,4.5,434,.10
+81480,Mel's Drive-In - Lombard,4,882,.05
+81480,Ristorante Parma,4.5,172,.08
+81480,Atelier Crenn,4.5,198,.09
+1223830,Zuni Cafe,4,892,.11
+1223830,Espetus Churrascaria,4.5,285,.08
+1223830,Burma Love,4.5,116,.17
+1223830,It's Tops Coffee Shop,4,55,.08
+81503,Home Plate,4.5,434,.04
+81503,Blackwood,4.5,191,.05
+81503,Ristorante Parma,4.5,172,.03
+81503,Isa,4.5,232,.04
+81511,A16,4,530,.27
+81511,Presidio Social Club,4,287,.11
+81511,Causwells,4.5,64,.29
+81511,Mamacita Restaurant & Bar,4,230,.31
+81514,E&O Kitchen and Bar,4,780,.06
+81514,Hops and Hominy,4,361,.08
+81514,Cafe Claude,4,562,.07
+81514,Cafe De La Presse,4,1215,.01
+81520,Johnny Foley's,4,1096,.06
+81520,John's Grill,4,1932,.05
+81520,Puccini & Pinetti,4,961,.05
+81520,Tad's Steakhouse,4,689,.01
+81531,Jeanne D'arc,4.5,461,.06
+81531,Roxanne Cafe,4,793,.04
+81531,Uncle Vito's Pizzeria,4,1182,.04
+81531,Bouche,4.5,322,.05
+81553,Taqueria San Bruno,4.5,43,.69
+81553,Houlihan's,3.5,291,.21
+81553,Denny's,3.5,169,.44
+81553,The Brass Elephant,4,41,.07
+81669,The Grove,4.5,954,.10
+81669,Mourad,4.5,278,.10
+81669,Thirsty Bear Brewing Company,4,443,.05
+81669,Fogo de Chao Brazilian Steakhouse,4.5,131,.02
+81765,Raffaello Ristorante,4.5,179,.37
+81765,Happy Diner,4.5,57,.10
+81765,Grinder Restaurant San Pedro,4,81,.16
+81765,Green Onion,4.5,64,.06
+81768,Raffaello Ristorante,4.5,179,.30
+81768,Sushi 21,4,16,.03
+81768,Ono Hawaii BBQ,4,19,.14
+81768,San Pedro Deli and Cafe,4.5,8,.35
+81782,Zuni Cafe,4,892,.01
+81782,Rich Table,4.5,234,.12
+81782,Espetus Churrascaria,4.5,285,.04
+81782,Minas Brazilian Restaurant & Cachacaria,4,89,.10
+81803,Pearl's Deluxe Burgers,4.5,733,.14
+81803,Liholiho Yacht Club,4.5,224,.07
+81803,farm:table,4,162,.12
+81803,Thad's Cozy,4.5,38,.03
+81976,E&O Kitchen and Bar,4,780,.07
+81976,Cafe Claude,4,562,.07
+81976,Cafe De La Presse,4,1215,.00
+81976,Akikos Restaurant & Sushi Bar,4.5,145,.05
+81985,The Owl Tree Bar,4,39,.07
+81985,Honey Honey Cafe & Crepery,4.5,1387,.06
+81985,Colibri Mexican Bistro,4,1041,.06
+81985,La Marsa,5,41,.04
+82114,A16,4,530,.12
+82114,Causwells,4.5,64,.14
+82114,Mamacita Restaurant & Bar,4,230,.15
+82114,Chestnut Street Coffee Roastery,4.5,34,.14
+82116,A16,4,530,.11
+82116,Causwells,4.5,64,.12
+82116,Mamacita Restaurant & Bar,4,231,.14
+82116,Chestnut Street Coffee Roastery,4.5,34,.13
+82578,Canter's Deli,4,611,.26
+82578,TART,4,189,.23
+82578,Swingers,4,233,.01
+82578,Plan Check Kitchen,4.5,60,.21
+84440,Sandwich Express,4.5,5,.35
+84440,Pho So 1,4.5,7,.26
+84440,Great Wall Chinese Restaurant,4,9,.33
+84440,A&W Restaurant,4,6,.30
+84502,25 Degrees,4.5,669,.20
+84502,Magic Castle,4.5,344,.05
+84502,Chado Tea Room,4.5,69,.19
+84502,Jinya Ramen Express,4.5,28,.21
+84522,Getty Center Restaurant,4.5,553,.51
+84522,The Cafe,4,136,.52
+84522,West Restaurant and Lounge,4,140,.03
+84522,Belwood Bakery,4.5,26,.60
+84561,Joan's on Third,4.5,458,.07
+84561,Son of a Gun,4.5,166,.03
+84561,C.O.D. Seafood House & Raw Bar,4.5,30,.04
+84561,Wokcano,3.5,23,.04
+84993,El Carajo,4.5,341,.75
+84993,Vizcaya Museum Cafe,4,121,.84
+84993,Monty's Coconut Grove,3.5,602,.99
+84993,Latin America Cafeteria,3.5,15,.99
+85005,Miranda Cuisine & Bar,4.5,62,.28
+85005,Pollo Tropical,4,233,.26
+85005,Airport Cafe & Liquors,4.5,66,.41
+85005,Burger King,4,159,.26
+85007,Caribe Cafe Restaurant,4.5,33,.75
+85007,Wendy's,4,68,.34
+85007,Palomilla Grill,4,45,.84
+85007,Iron Side Cafe,4.5,21,.55
+85027,The Capital Grille,4.5,1095,.09
+85027,Whole Foods Market,4.5,473,.11
+85027,Zuma,4.5,3012,.12
+85027,Area 31,4,1011,.08
+85029,Farfalle,4.5,443,.17
+85029,Toro Toro Restaurant & Bar,4.5,2338,.01
+85029,Il Gabbiano,4.5,975,.08
+85029,Bluewater Restaurant,4.5,158,.04
+85031,Primo's Restaurant & Lounge,4,267,.07
+85031,Catch Grill & Bar,4,384,.03
+85031,Pizza Pazza,4.5,119,.29
+85031,Los Gauchitos,4,142,.03
+85046,Primo's Restaurant & Lounge,4,267,.08
+85046,Mignonette Downtown,4.5,190,.34
+85046,Catch Grill & Bar,4,384,.03
+85046,Pizza Pazza,4.5,119,.28
+85147,El Tropico Cuban Cuisine,4,303,.21
+85147,Beach Bar at Newport Pier,4,321,.07
+85147,Kitchen 305,4,475,.02
+85147,Chayhana Oasis,4.5,82,.21
+85192,Miranda Cuisine & Bar,4.5,62,.30
+85192,Pollo Tropical,4,233,.26
+85192,Airport Cafe & Liquors,4.5,66,.49
+85192,Burger King,4,159,.24
+85205,El Palacio De Los Jugos,4.5,335,.77
+85205,Casa Juan Restaurant,4,405,.21
+85205,94th Aero Squadron,4,472,.34
+85205,Pollo Tropical,4,124,.40
+86951,Hau Tree Lanai,4,1132,.02
+86951,Tiki's Grill & Bar,4,3561,.62
+86951,Tucker & Bevvy Picnic Food,4.5,358,.58
+86951,Teddy's Bigger Burgers,4.5,1734,.58
+86957,The Signature Prime Steak & Seafood,4,202,.02
+86957,Teddy's Bigger Burgers,4.5,81,.13
+86957,Shokudo,4,181,.10
+86957,Gen Korean BBQ House,4,32,.16
+86959,Chuck's Cellar,4,426,.13
+86959,Tanaka of Tokyo East,4,233,.13
+86959,Hawaiian Crown Plantation,4.5,72,.13
+86959,HI Steaks,4,216,.06
+86978,Arancino di Mare,4,1048,.08
+86978,Tiki's Grill & Bar,4,3561,.02
+86978,Tucker & Bevvy Picnic Food,4.5,358,.05
+86978,Sansei Seafood Restaurant & Sushi Bar,4,761,.03
+86983,Kai Coffee Hawaii,4.5,401,.07
+86983,Eggs'n Things Waikiki Beach Eggspress,3.5,1829,.03
+86983,Hyatt Regency Waikiki Beach Resort and Spa,4.5,150,.06
+86983,Furusato Japanese Restaurant,4,258,.04
+87008,goofy cafe & dine,4.5,1158,.21
+87008,Chart House,4,818,.09
+87008,Tropical Tribe,4.5,154,.10
+87008,Red Lobster,4,850,.07
+87015,Waikiki Brewing Company,4.5,282,.11
+87015,Cheeseburger Waikiki,4,1192,.09
+87015,Tony Roma's,4,627,.12
+87015,Chiba Ken,4.5,177,.12
+87016,Lappert's Ice Cream,4.5,934,.06
+87016,goofy cafe & dine,4.5,1158,.17
+87016,Cinnamon's at the Ilikai,4,626,.18
+87016,Round Table Pizza,4,741,.06
+87017,Big Kahuna Pizza,4.5,214,.17
+87017,Joe's Grill Express,4.5,30,.51
+87017,Starbucks,4,30,.14
+87017,Plaza Cafe,4,42,.28
+87018,goofy cafe & dine,4.5,1158,.08
+87018,Tropical Tribe,4.5,154,.09
+87018,Red Lobster,4,850,.12
+87018,Wailana Coffee House,4,1750,.09
+87024,Marukame Udon Waikiki,4.5,2747,.09
+87024,Kona Coffee Purveyors,4.5,112,.11
+87024,Surf N Turf Tacos,4,331,.09
+87024,Seaside Bar & Grill,3.5,622,.11
+87031,Musubi Cafe Iyasume,4.5,557,.03
+87031,Me B-B-Q,4.5,836,.02
+87031,Blue Water Shrimp & Seafood Market,4,419,.06
+87031,Lovin Oven,4.5,165,.01
+87044,Chuck's Cellar,4,426,.01
+87044,Rock Island Cafe,4,418,.07
+87044,Lovin Oven,4.5,165,.08
+87044,Tanaka of Tokyo East,4,233,.01
+87052,Steak Shack,4.5,1215,.04
+87052,House Without a Key,4.5,1872,.08
+87052,Roy's Waikiki Beach,4.5,2917,.09
+87052,Orchids,4.5,1244,.05
+87072,Kings,5,86,.21
+87072,Patacon Pisao,4.5,71,.47
+87072,Famous Dave's,4,174,.22
+87072,Miyako Doral Japanese Restaurant,4.5,174,.48
+87076,El Pollo Inka Miami,4.5,381,.10
+87076,Ocio,4.5,14,.40
+87076,Mozzarella,4,105,.57
+87076,EL Arepazo 2,3.5,63,.54
+87084,Sushi Maki,4,206,.17
+87084,Clubhouse One,4,209,.20
+87084,Corona Beach House,4,95,.22
+87084,The Clover Irish Pub,3.5,145,.19
+87091,La Mariana Restaurant & Bar,4.5,437,.85
+87091,Joe's Grill Express,4.5,30,.64
+87091,Mitch's Fish Market & Sushi Bar,4.5,68,.51
+87091,Regal Bakery,4.5,22,.56
+87097,Hy's Steak House - Waikiki,4.5,929,.08
+87097,Musubi Cafe Iyasume,4.5,557,.03
+87097,Me B-B-Q,4.5,836,.04
+87097,Blue Water Shrimp & Seafood Market,4,419,.02
+87099,Whole Foods Market,4.5,473,.09
+87099,Fratelli Milano,4.5,442,.09
+87099,Camila's Restaurants,4,497,.08
+87099,La Granja,4,179,.03
+87102,Beachhouse at the Moana,4.5,752,.01
+87102,Hula Grill Waikiki,4.5,3191,.06
+87102,Duke's Waikiki,4.5,11286,.06
+87102,Honolulu Coffee,4.5,565,.04
+87104,Beachhouse at the Moana,4.5,752,.07
+87104,Honolulu Coffee,4.5,565,.03
+87104,The Beach Bar,4,520,.07
+87104,The Veranda,4,519,.07
+87108,House Without a Key,4.5,1873,.09
+87108,Roy's Waikiki Beach,4.5,2917,.13
+87108,Orchids,4.5,1244,.12
+87108,Azure,4.5,680,.12
+87111,Musubi Cafe Iyasume,4.5,557,.12
+87111,Arancino di Mare,4,1048,.09
+87111,Blue Water Shrimp & Seafood Market,4,419,.11
+87111,M.A.C. 24/7,4,1181,.12
+87115,Latin Cafe 2000,4,671,.06
+87115,Catch of the Day,4,764,.09
+87115,Madrid Tapas y Vinos,4.5,178,.24
+87115,La Rosa,4.5,324,.18
+87149,Hy's Steak House - Waikiki,4.5,929,.14
+87149,Chuck's Cellar,4,424,.15
+87149,Tanaka of Tokyo East,4,233,.14
+87149,Hawaiian Crown Plantation,4.5,72,.13
+89033,Eat,4.5,897,.08
+89033,Nola Poboys,4.5,476,.15
+89033,Meauxbar Bistro,4.5,232,.07
+89033,Dreamy Weenies,4.5,171,.11
+89049,Southern Candymakers,4.5,820,.03
+89049,"Mr. Ed's Oyster Bar & Fish House, French Quarter",4.5,723,.05
+89049,Evangeline,4.5,288,.03
+89049,Beachbum Berry's Latitude 29,4.5,151,.02
+89083,The Ruby Slipper Cafe,4.5,2617,.08
+89083,Commerce Restaurant,4.5,525,.02
+89083,Luke,4.5,2076,.10
+89083,Trenasse,4.5,297,.08
+89091,Johnny Sanchez,4.5,353,.07
+89091,Juan's Flying Burrito,4.5,162,.05
+89091,Walk-On's,4,444,.13
+89091,Reginelli's Pizzeria,4.5,179,.08
+89101,Jimmy J's Cafe,4.5,1418,.05
+89101,Palace Cafe,4,2504,.07
+89101,Huck Finn's Cafe,4,1518,.05
+89101,Daisy Dukes,4,2477,.06
+89115,Sucre - French Quarter,4.5,382,.08
+89115,Brennan's Restaurant,4.5,1888,.06
+89115,Camellia Grill in the French Quarter,4.5,999,.07
+89115,K-Paul's Louisiana Kitchen,4.5,2098,.05
+89118,Irene's Cuisine,4.5,1884,.04
+89118,Le Croissant d'Or,4.5,754,.07
+89118,Angeline,4.5,242,.01
+89118,French Market Restaurant,4,1152,.06
+89119,Emeril's Delmonico,4.5,1007,.17
+89119,Seed,4.5,274,.10
+89119,VooDoo BBQ & Grill New Orleans,4,517,.09
+89119,Samuel's Blind Pelican,4,659,.10
+89148,Criollo Restaurant,4.5,753,.02
+89148,Mr. B's Bistro,4.5,4523,.01
+89148,Carousel Bar,4.5,1583,.01
+89148,The Pelican Club,4.5,785,.06
+89150,The Ruby Slipper Cafe,4.5,2616,.06
+89150,Commerce Restaurant,4.5,525,.02
+89150,Chophouse New Orleans,4.5,680,.08
+89150,Bon Ton Cafe,4.5,878,.09
+89158,Restaurant August,4.5,1947,.03
+89158,Chophouse New Orleans,4.5,680,.11
+89158,Bon Ton Cafe,4.5,878,.11
+89158,Ruth's Chris Steak House,4.5,536,.11
+89568,Mistral,4.5,868,.14
+89568,Flour Bakery & Cafe,4.5,521,.17
+89568,Barcelona,4.5,291,.17
+89568,The Friendly Toast,4.5,279,.16
+89575,James Hook & Company,4.5,1374,.10
+89575,Meritage Restaurant + Wine Bar,4.5,238,.00
+89575,Rowes Wharf Sea Grille,4,337,.01
+89575,Fin Point,4.5,52,.18
+89585,Ostra,4.5,777,.12
+89585,Maggiano's Little Italy,4.5,1077,.11
+89585,Legal Sea Foods,4,1215,.09
+89585,Bistro du Midi,4.5,480,.07
+89620,Legal Sea Foods,4,345,.30
+89620,Legal Seafood,4.5,65,.30
+89620,Legal Test Kitchen,4,239,.45
+89620,Harborside Grill,4,152,.01
+90015,Steak Shack,4.5,1215,.08
+90015,House Without a Key,4.5,1873,.04
+90015,Roy's Waikiki Beach,4.5,2917,.09
+90015,Orchids,4.5,1244,.01
+90017,Waikiki Brewing Company,4.5,282,.03
+90017,Cheeseburger Waikiki,4,1192,.05
+90017,Wailana Coffee House,4,1750,.14
+90017,Tony Roma's,4,625,.09
+93034,GW Fins,4.5,5994,.05
+93034,Restaurant R'evolution,4.5,1549,.02
+93034,Desire Oyster Bar,4.5,1602,.02
+93034,Oceana Grill,4.5,10243,.04
+93047,GW Fins,4.5,5994,.07
+93047,Desire Oyster Bar,4.5,1602,.07
+93047,Oceana Grill,4.5,10247,.05
+93047,Bayona,4.5,1344,.06
+93051,Court of Two Sisters,4,3774,.08
+93051,Channing Tatum's Saints and Sinners,4,687,.06
+93051,Vacherie,4.5,448,.00
+93051,Willie's Chicken Shack,4,396,.06
+93164,Grand Isle Restaurant,4,693,.11
+93164,Ruth's Chris Steak House,4.5,536,.13
+93164,Gordon Biersch Brewery,4,875,.11
+93164,Drago's Seafood Restaurant,4,3447,.01
+93340,Nerai,4.5,508,.01
+93340,Monkey Bar,4,493,.00
+93340,Aquavit,4.5,481,.06
+93340,Cellini,4,331,.00
+93457,Ippudo,4.5,957,.06
+93457,Bibble & Sip,4.5,193,.03
+93457,Maria Pia,4,571,.05
+93457,McHale's Bar & Grill,4.5,369,.04
+93459,New Orleans Coffee & Beignet Co.,4.5,161,.35
+93459,Mahony's Po-Boy Shop,4,408,.38
+93459,New Orleans Hamburger & Seafood Company,4,369,.34
+93459,Cavan,4.5,78,.35
+93589,Le Bernardin,4.5,2891,.05
+93589,Ruth's Chris Steak House,4.5,1197,.01
+93589,Ellen's Stardust Diner,4,15926,.06
+93589,Bar Americain,4,1631,.06
+94330,Ocean Prime - Boston,4.5,255,.15
+94330,Del Frisco's Double Eagle Steak House - Boston,4,757,.15
+94330,Tamo Bistro & Bar,4,237,.02
+94330,Legal Test Kitchen,4,699,.13
+94344,Bostonia Public House,4.5,622,.04
+94344,Black Rose,4,768,.02
+94344,Ned Devines Faneuil Hall,4,409,.07
+94344,Granary Tavern,4,516,.07
+94350,The Cheesecake Factory,4,1856,.16
+94350,Thornton's Restaurant,4,656,.13
+94350,Flour Bakery + Cafe,4.5,25,.17
+94350,P.F. Chang's,3.5,231,.15
+94399,Luke's Lobster Downtown Crossing,4.5,67,.09
+94399,Milk Street Cafe,4.5,61,.05
+94399,The Merchant,4,117,.07
+94399,Ogawa Coffee,4.5,54,.04
+98606,Meso Maya,4.5,893,.24
+98606,Dakota's Steakhouse,4.5,371,.06
+98606,El Fenix Famous Mexican Restaurant,4,610,.24
+98606,Savor,4,163,.26
+98629,"Truluck's Seafood, Steak, and Crab House",4.5,764,.08
+98629,The Capital Grille,4.5,371,.07
+98629,Ocean Prime,4.5,312,.08
+98629,Fearing's Restaurant,4.5,525,.14
+98639,The Grill On The Alley,4.5,184,.33
+98639,The Oceanaire Seafood Room,4,399,.33
+98639,Mi Cocina Galleria,4,200,.39
+98639,Second Floor Regionally Inspired Kitchen,4,80,.35
+98641,Grand Lux Cafe,4,397,.49
+98641,The Grill On The Alley,4.5,184,.40
+98641,The Oceanaire Seafood Room,4,399,.44
+98641,Mi Cocina Galleria,4,200,.43
+98644,Saltgrass Steak House,4,282,.56
+98644,In-N-Out Burger,4,143,.48
+98644,Burger Bueno,4.5,40,.38
+98644,Jack in the Box,4,18,.49
+98679,Five Sixty,4.5,721,.05
+98679,Cindi's New York Delicatessen,4.5,252,.13
+98679,Bob's Steak & Chop House,4.5,301,.33
+98679,Texas Spice,4.5,499,.27
+98710,Rodeo Goat,4.5,518,.65
+98710,Original Market Diner,4.5,241,.27
+98710,Mama's Daughter's Diner,4.5,201,.63
+98710,Ser,4,277,.34
+98719,Rodeo Goat,4.5,518,.25
+98719,Meddlesome Moth,4.5,518,.39
+98719,Original Market Diner,4.5,241,.41
+98719,Mama's Daughter's Diner,4.5,201,.42
+98726,Texas de Brazil,4.5,257,.22
+98726,Nick & Sam's,4.5,530,.40
+98726,Katy Trail Ice House,4,189,.24
+98726,The Mansion Restaurant at Rosewood Mansion on Turtle Creek,4.5,416,.02
+98727,Cosmic Cafe,4,177,.09
+98727,Parigi,4.5,122,.16
+98727,Bellini's italian Cafe and Pizza,4.5,66,.15
+98727,Street's Fine Chicken,4,53,.12
+98728,Grand Lux Cafe,4,397,.07
+98728,The Grill On The Alley,4.5,184,.05
+98728,The Oceanaire Seafood Room,4,399,.01
+98728,Mi Cocina Galleria,4,200,.06
+98731,Rodeo Goat,4.5,518,.31
+98731,Meddlesome Moth,4.5,518,.51
+98731,Original Market Diner,4.5,241,.40
+98731,Mama's Daughter's Diner,4.5,201,.35
+99371,Hillstone Midtown,4.5,361,.07
+99371,Fabio Cucina Italiana,4,158,.06
+99371,Ground Central Coffee Company,4.5,86,.04
+99371,Obao,4,160,.05
+100504,Tulio Ristorante,4.5,1011,.07
+100504,Purple Cafe and Wine Bar,4.5,1497,.09
+100504,Shuckers,4.5,726,.07
+100504,The Georgian,4.5,323,.08
+100505,Dahlia Bakery,4.5,614,.05
+100505,Assaggio Ristorante,4.5,732,.05
+100505,Serious Pie,4.5,1581,.08
+100505,Lola,4.5,1691,.07
+100506,Purple Cafe and Wine Bar,4.5,1497,.06
+100506,Shuckers,4.5,726,.06
+100506,Capital Grille-Seattle,4.5,478,.07
+100506,The Georgian,4.5,323,.07
+100507,Le Panier,4.5,1391,.04
+100507,Beecher's Handmade Cheese,4.5,1823,.04
+100507,Pike Place Chowder,4.5,3239,.04
+100507,Bacco Cafe,4.5,751,.02
+100509,Shiro's,4.5,390,.09
+100509,Macrina Bakery,4.5,393,.04
+100509,El Gaucho Seattle,4.5,496,.03
+100509,The Grill From Ipanema,4,222,.09
+100527,Tulio Ristorante,4.5,1011,.06
+100527,MOD Pizza,4.5,367,.09
+100527,Shuckers,4.5,726,.09
+100527,The Georgian,4.5,323,.07
+100537,Taylor Shellfish Oyster Bar,4.5,232,.06
+100537,Mecca Cafe,4,255,.06
+100537,Ten Mercer,4.5,154,.09
+100537,Queen Anne Racha Noodles and Thai,4.5,47,.06
+100540,Toulouse Petit Kitchen & Lounge,4.5,1358,.02
+100540,Mecca Cafe,4,255,.06
+100540,Ten Mercer,4.5,154,.03
+100540,Peso's Kitchen & Lounge,4,285,.01
+100544,Bacco Cafe,4.5,751,.10
+100544,Biscuit Bitch,4.5,790,.07
+100544,Moore Coffee Shop,4.5,169,.02
+100544,Le Pichet,4.5,512,.06
+100554,Tulio Ristorante,4.5,1011,.09
+100554,The Georgian,4.5,323,.16
+100554,Vovito Expresso Gelato Bar,4,83,.13
+100554,Trace Seattle,4,141,.14
+100561,Tilikum Place Cafe,4.5,581,.23
+100561,Zeek's Pizza,4.5,485,.21
+100561,Five Point Cafe,4,687,.22
+100561,Golden Singha,4,135,.22
+100562,The Cheesecake Factory,4,1210,.08
+100562,Loulay Kitchen & Bar,4,397,.02
+100562,Palomino,4,406,.07
+100562,Elephant & Castle,4,302,.07
+100565,Dahlia Bakery,4.5,614,.02
+100565,Andaluca,4.5,616,.11
+100565,Assaggio Ristorante,4.5,732,.02
+100565,Serious Pie,4.5,1581,.03
+100567,Six Seven Restaurant & Lounge,4.5,931,.03
+100567,Anthony's Pier 66 & Bell Street Diner,4,1167,.22
+100567,Macrina Bakery,4.5,393,.22
+100567,El Gaucho Seattle,4.5,496,.19
+100569,Vito's,4,106,.06
+100569,Italian Family Pizza,4.5,26,.08
+100569,The Rhododendron Cafe,4,52,.06
+100569,Sugar Bakery,4.5,31,.05
+100574,Tilikum Place Cafe,4.5,581,.20
+100574,Zeek's Pizza,4.5,485,.18
+100574,Five Point Cafe,4,687,.18
+100574,Golden Singha,4,135,.19
+100577,Din Tai Fung,4.5,546,.18
+100577,Mamma Melina Ristorante,4.5,205,.16
+100577,Joey Kitchen,4.5,121,.18
+100577,Piatti,4,124,.20
+100581,Portage Bay Cafe,4.5,392,.04
+100581,Trinity Market and Deli,4.5,38,.12
+100581,Schultzy's Sausage,4,62,.21
+100581,Pineapple Cafe,3.5,49,.11
+100584,Serious Pie,4.5,202,.25
+100584,Serious Biscuit,4.5,75,.25
+100584,Flying Fish,4,288,.26
+100584,Re:public,4,60,.26
+100585,Tulio Ristorante,4.5,1011,.01
+100585,Purple Cafe and Wine Bar,4.5,1497,.13
+100585,Shuckers,4.5,726,.08
+100585,The Georgian,4.5,323,.07
+100597,Copperleaf Restaurant at Cedarbrook Lodge,4.5,553,.31
+100597,Sharps Roasthouse,4,1032,.15
+100597,Mango Thai Cusine & Bar,4,407,.09
+100597,Dave's Diner & Brews,4,788,.15
+100602,Basil's Kitchen,4,72,.01
+100602,Jollibee,4,34,.56
+100602,Odin Brewing Company,4.5,26,.40
+100602,California Pizza Kitchen,4,51,.48
+100603,Copperleaf Restaurant at Cedarbrook Lodge,4.5,553,.75
+100603,Sharps Roasthouse,4,1032,.64
+100603,Mango Thai Cusine & Bar,4,407,.56
+100603,Dave's Diner & Brews,4,788,.45
+100617,Spencer's for Steaks and Chops - Hilton Airport Seattle,4,276,.01
+100617,Gregory's Bar & Grill at the Red Lion Hotel Seattle Airport,3.5,166,.35
+100617,Qdoba,4,54,.35
+100617,Vino Volo,4,75,.36
+100619,Sharps Roasthouse,4,1032,.22
+100619,Mango Thai Cusine & Bar,4,407,.30
+100619,Spencer's for Steaks and Chops - Hilton Airport Seattle,4,276,.29
+100619,Gregory's Bar & Grill at the Red Lion Hotel Seattle Airport,3.5,166,.05
+109367,Original Market Diner,4.5,241,.60
+109367,Ser,4,277,.71
+109367,The Slow Bone,4.5,171,.68
+109367,Sonny Bryan's Smokehouse,4,358,.83
+109412,Kenny's Wood Fired Grill,4.5,1102,.19
+109412,Ida Claire,4,345,.23
+109412,Arthur's Restaurant,4.5,162,.23
+109412,Cinco Tacos,4,42,.20
+109413,The French Room,4.5,671,.02
+109413,Chop House Burger,4.5,284,.04
+109413,CBD Provisions,4.5,299,.08
+109413,Iron Cactus Mexican Grill and Margarita Bar,4,776,.03
+109426,YO Ranch Steakhouse,4.5,944,.10
+109426,Ellen's,4.5,720,.10
+109426,RJ Mexican Cuisine,4,350,.09
+109426,Spaghetti Warehouse,3.5,339,.07
+109452,Pappadeaux Seafood Kitchen,4.5,966,.54
+109452,Gas Monkey Bar N' Grill,4,977,.33
+109452,Humperdinks Brewpub,4,120,.54
+109452,Olive Garden,4,86,.34

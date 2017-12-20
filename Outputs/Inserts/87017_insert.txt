@@ -1,0 +1,221 @@
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "dgtravels" , 
+"Date" : new Date("2009-01-07"), 
+"Overall" : 1, 
+"Value" : 1, 
+"Room" : 2, 
+"Location" : 3,
+"Cleanliness" : 1, 
+"Checkin/frontdesk" : 3, 
+"Service" : 1, 
+"BService" :1, 
+"SentimentRate" : -0.042, 
+"Sentiment" : "mixed" ,
+"Reviews" :Not so nice Overpriced for what you get. Our room had a backed up bathtub and ants. Shuttle to airport was a plus, but not worth the money we paid for the room. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "kapohokine" , 
+"Date" : new Date("2009-01-07"), 
+"Overall" : 3, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 4, 
+"Service" : 3, 
+"BService" :3, 
+"SentimentRate" : 0.379, 
+"Sentiment" : "positive" ,
+"Reviews" :"Just passing through It's an airport hotel. It tells you in the name. And it sits just a few miles from one of the most famous beaches on the planet fronted by some of the priciest resort hotels. When taken in context, this hotel works. It is a ten minute walk (not recommended) from the airport, or a 90 second complimentary shuttle ride. The wait for the shuttle was 45 minutes, but the walk is still not recommended. Although I did consider taking a $1.50 cab after waiting for the first 30 minutes. Ohana has put some money into this property, and it shows. I had to stay there for business four years ago, and the difference in the quality of the rooms was obvious to me. Brightly painted with pleasant and comfortable decor. The room was very clean and the bed was comfortable. The A/C, which dated back to the Eisenhower years on my previous visits, was updated to a brand new and efficiently quiet unit. Amenities were minimal, but everything worked, check in was easy and quick. My mainland flight arrived too late to catch the last interisland, so I stayed the one night and it was a very pleasant experience at a minimal cost. If I were looking for a vacation experience, I would not look here as there is so much choice by the beach, but for a simple inexpensive way to put yourself right outside the airport for a flight, it's really all I could have asked for and I was very pleasantly surprised. My upcoming trip involves a similarly late arrival to HNL, and I have made another overnight reservation here. I went online to book my room and discovered that they even have a pool. Maybe I should have booked that second night? "}])
+
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "My_kids_momWisconsin" , 
+"Date" : new Date("2008-11-16"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 5, 
+"Service" : 5, 
+"BService" :-1, 
+"SentimentRate" : 0.490, 
+"Sentiment" : "positive" ,
+"Reviews" :"Best Buffet Breakfast       Breakfast buffet"}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "rabitz" , 
+"Date" : new Date("2008-11-08"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" : 3,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 4, 
+"Service" : 4, 
+"BService" :5, 
+"SentimentRate" : 0.424, 
+"Sentiment" : "positive" ,
+"Reviews" :"Nice Surprise near the Honolulu Airport We stayed one night at the Ohana in order to get an early flight the next day out of the Honolulu AIrport. We were very pleased by the cleanliness and the comfort of this hotel. The shuttle runs 24 hours a day, every 30 minutes (and/or will come to the airport when you arrive - you call them once you get your baggage). They are a block away from Starbucks, pizza, and Asian. The rooms were clean and pretty and there is internet access in the lounge and in the rooms. Even though the surrounding area in industrial, it's a great value and close to everything, being right on the NImitz Highway, the gateway to Honolulu and Waikiki. You spend enough money in Hawaii - why not stay at the Ohana and save?"}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "Bombalurina" , 
+"Date" : new Date("2008-10-30"), 
+"Overall" : 2, 
+"Value" : 2, 
+"Room" : 3, 
+"Location" : 4,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 2, 
+"Service" : 2, 
+"BService" :-1, 
+"SentimentRate" : -0.182, 
+"Sentiment" : "negative" ,
+"Reviews" :"Not worth the tarrif.. Rude reception I stayed at the Ohana for a night on my way home. I had already been in Honolulu for 6 nights at the start of my trip staying at the Hawaii Prince (I wish I'd stayed there again!). I chose the Ohana for its convinence to the airport. I arrived in Honolulu at 3pm and departed on a flight back to Australia at 8am the next morning. Checkin took forever as there was only one person on the front desk. The room was fine. Basic and clean. The remote for my television didn't work. It took two calls to get someone to come and replace it. The restaurant wasn't open when I got there... and the hotel doesn't offer room service. The hotel is convinient, but don't expect great service."}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "matson28" , 
+"Date" : new Date("2008-09-28"), 
+"Overall" : 1, 
+"Value" : -1, 
+"Room" : -1, 
+"Location" : -1,
+"Cleanliness" : -1, 
+"Checkin/frontdesk" : -1, 
+"Service" : -1, 
+"BService" :-1, 
+"SentimentRate" : -0.209, 
+"Sentiment" : "negative" ,
+"Reviews" :"Would'nt Stay there Again After a long day of traveling all we wanted was a bed and food.The onsite Restaurant is only open certain days of the week and was not open on a Friday night. They did offer us a free shuttle to their sister Hotel down the road. all it was offering for Dinner was a Seafood Buffett. That does not suit everyone as we had a child with allergy to seafood. They did give us a list of a few local take outs. These we did not find in the dark. We ended up ordering Pizza to the room. No utensils to eat or drink with. We purchased a bottle of wine at the onsite shop and disposable cups and then they wanted to charge us $20 for a bottle opener.Room was clean but noise from the freeway and the air conditioner unbearable. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "Tackos" , 
+"Date" : new Date("2008-08-29"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 4, 
+"Location" : 5,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 4, 
+"Service" :4, 
+"BService" :4, 
+"SentimentRate" : 0.641, 
+"Sentiment" : "ppositive" ,
+"Reviews" :"Lovely and Charming Needed a place near the airport to stay over night with my connection flight to Lana'i the next moring.Shuttle bus is provided for free every half hour, 24h a day, from the airport to the hotel. About a 7 minute drive. The hotel is lovely, good value for money. I booked only about 5 days before coming and paid $133 for one night. Room seems to have been refurbished recently. Very nice.Wi Fi is available in the lounges and plug in, in the rooms. All free of charge.Breakfast was ok, nothing special but your typical continental.Taxi into down town Honolulu cost $25 so not too expensive either. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "hiwayindasun" , 
+"Date" : new Date("2008-08-22"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 4, 
+"Location" : 4,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 4, 
+"Service" :5, 
+"BService" :-1, 
+"SentimentRate" : 0.382, 
+"Sentiment" : "ppositive" ,
+"Reviews" :"overnighter I stayed at Ohana the night before my wedding and felt very comfortable staying there. The price was very much to my likings and I hardly noticed the noice eventhough the hotel is right next to the freeway. I would recommend my friend and family to stay at the Ohana Honolulu Airport Hotel."}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "BigP" , 
+"Date" : new Date("2008-07-21"), 
+"Overall" : 3, 
+"Value" : 3, 
+"Room" : 4, 
+"Location" : 3,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 2, 
+"Service" :3, 
+"BService" :-1, 
+"SentimentRate" : 0.300, 
+"Sentiment" : "ppositive" ,
+"Reviews" :"If You Must As another reviewer recently noted, there is little or no reason to stay at the Ohana Airport Hotel in Honolulu unless one has an early morning flight the following morning. The hotel sits in the middle of an industrial center surrounded by freeways in all directions and constant noise. Nearby restaurants are non-existent and though there are a few fast-food establishments within several blocks, they leave much to be desired. The hotel's rooms are not uncomfortable (but hard to find in what appears to be a rabbit warren/maze of halls) and the front desk staff the evening my wife and I stayed were just one step up from being rude and totally disinterested in our comfort after a long day. On the other hand, the shuttle to and from the hotel is convenient and technically free (though there is a large sign which openly suggests that the drivers want to be tipped for their services). There is a complimentary breakfast beginning at 6:30 AM but it is of little use to most folks with early flights.Considering the expense of the rooms at the Ohana Airport Hotel, one has to really be in need to a very early get-up time to want to stay there even for one night. But if you must .... "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "Travel-Enthousiast" , 
+"Date" : new Date("2008-05-16"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 4, 
+"Location" : 3,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 5, 
+"Service" :-1, 
+"BService" :-1, 
+"SentimentRate" : 0.115, 
+"Sentiment" : "mixed" ,
+"Reviews" :"Great hotel if you have an early or late flight       Hotel Room 2 "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "MattBLondon_England" , 
+"Date" : new Date("2008-05-11"), 
+"Overall" : 3, 
+"Value" : 3, 
+"Room" : 3, 
+"Location" : 4,
+"Cleanliness" : 3, 
+"Checkin/frontdesk" : 4, 
+"Service" :4, 
+"BService" :3, 
+"SentimentRate" : 0.015, 
+"Sentiment" : "mixed" ,
+"Reviews" :"Best place to stay if you have an early flight This is an ideal place if you have a very early flight like we did, although there is absolutely no other reason to stay here - it overlooks the freeways and is quite expensive compared to the Waikiki hotels. But we had to be at the airport for 6am and the hotel has a free shuttle service, which was the main reason for our stay. That was very trouble-free - there were no other people in our shuttle at all and it only took 5 minutes. Much better than getting an earlier taxi from Waikiki."}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "rendres" , 
+"Date" : new Date("2008-05-24"), 
+"Overall" : 3, 
+"Value" : 4, 
+"Room" : 3, 
+"Location" : 3,
+"Cleanliness" : 3, 
+"Checkin/frontdesk" : 4, 
+"Service" :4, 
+"BService" :-1, 
+"SentimentRate" : 0.506, 
+"Sentiment" : "positive" ,
+"Reviews" :"Met Our Needs We spent one night here between flights. The 24 hour free airport shuttle they run made it perfect. The room was clean and the staff was friendly. We even received a free continental breakfast they did not even advertise. This hotel was perfect for our needs. "}])
+
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87017, 
+"Author" : "TheCooksSaltLakeCity" , 
+"Date" : new Date("2008-05-07"), 
+"Overall" : 3, 
+"Value" : -1, 
+"Room" : -1, 
+"Location" : -1,
+"Cleanliness" : -1, 
+"Checkin/frontdesk" : -1, 
+"Service" :-1, 
+"BService" :-1, 
+"SentimentRate" : 0.037, 
+"Sentiment" : "mixed" ,
+"Reviews" :"Good Hotel for Airport Purposes We needed a hotel for one night by the airport and this hotel did the job. The room was ready early in the morning after we left the cruise ship. It is a large hotel with many rooms similar to a Holiday Inn. It is fairly old but the rooms are in good condition. Their is a shuttle to the airport every half hour and only 5 minute away. It is also near all of the car rental returns on Nintze Highway. The rate was still over $125 but everything in Honolulu is expensive! "}])

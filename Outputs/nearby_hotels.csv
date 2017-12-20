@@ -1,0 +1,746 @@
+hotel_id,nearby_hotel_name,rating,reviews,distance
+72572,Motif Seattle,4,508,.58
+72572,Kimpton Alexis Hotel,4.5,2092,.25
+72572,Sheraton Seattle Hotel,4,4663,.63
+72572,The Fairmont Olympic Seattle,4.5,3135,.47
+73821,Courtyard Phoenix Airport,4,299,.10
+73821,"Country Inn & Suites by Carlson, Phoenix Airport",4,401,.18
+73821,GreenTree Inn & Suites Phoenix Sky Harbor,4,627,1.14
+73821,Holiday Inn Hotel & Suites Phoenix Airport,4.5,363,.44
+73855,Sheraton Grand Phoenix,4.5,1618,.19
+73855,Westin Phoenix Downtown,4.5,839,.16
+73855,Renaissance Phoenix Downtown Hotel,4.5,887,.09
+73855,Kimpton Hotel Palomar Phoenix,4.5,1077,.18
+73943,"The Phoenician, Scottsdale",4.5,2189,1.14
+73943,Embassy Suites by Hilton Scottsdale Resort,4.5,452,2.53
+73943,Omni Scottsdale Resort & Spa at Montelucia,4.5,2560,1.82
+73943,The Canyon Suites at The Phoenician,5,436,.99
+73950,"Country Inn & Suites by Carlson, Phoenix Airport",4,401,.15
+73950,Hilton Phoenix Airport,4,1456,.06
+73950,GreenTree Inn & Suites Phoenix Sky Harbor,4,627,1.09
+73950,Holiday Inn Hotel & Suites Phoenix Airport,4.5,363,.39
+73957,"Arizona Biltmore, A Waldorf Astoria Resort",4.5,2059,2.23
+73957,Best Western InnSuites Phoenix Hotel & Suites,4,1006,.39
+73957,Omni Scottsdale Resort & Spa at Montelucia,4.5,2560,4.45
+73957,Pointe Hilton Tapatio Cliffs Resort,4,657,3.34
+74583,La Quinta Inn Phoenix Sky Harbor Airport,4,710,.29
+74583,Hilton Phoenix Airport,4,1456,.18
+74583,GreenTree Inn & Suites Phoenix Sky Harbor,4,627,.99
+74583,Holiday Inn Hotel & Suites Phoenix Airport,4.5,363,.29
+74626,Hilton Phoenix Airport,4,1456,3.46
+74626,Arizona Grand Resort & Spa,4,2890,2.80
+74626,Drury Inn & Suites Phoenix Airport,4.5,660,1.97
+74626,Hilton Garden Inn Phoenix Airport,4,793,2.12
+76083,"SLS Hotel, A Luxury Collection Hotel, Beverly Hills",4,1878,.44
+76083,Le Montrose Suite Hotel,4,1001,.98
+76083,Elan Hotel,4.5,1405,.17
+76083,Four Seasons Hotel Los Angeles at Beverly Hills,4.5,1422,.72
+77270,Holiday Inn Express Hotel & Suites Hollywood Hotel Walk of Fame,4,1968,.24
+77270,The Hollywood Roosevelt,4.5,2039,.17
+77270,Loews Hollywood Hotel,4.5,3859,.07
+77270,Hollywood Celebrity Hotel,4,2173,.05
+77629,DoubleTree Suites by Hilton Boston-Cambridge,4,1862,1.83
+77629,Courtyard by Marriott Boston Brookline,4,494,1.05
+77629,Hotel Commonwealth,4.5,4523,2.50
+77638,The Verb Hotel,4.5,2309,.66
+77638,Residence Inn by Marriott Boston Back Bay/Fenway,4.5,1609,.59
+77638,Hotel Commonwealth,4.5,4523,.90
+77714,Omni Los Angeles at California Plaza,4.5,3866,.46
+77714,The L.A. Hotel Downtown,4,1197,.79
+77714,The Standard Downtown,3.5,1271,.81
+77714,The Westin Bonaventure Hotel & Suites,4,2935,.76
+77775,The Beverly Hilton,4,3746,1.46
+77775,W Los Angeles - West Beverly Hills,4,564,.30
+77775,InterContinental Los Angeles Century City,4.5,2058,1.52
+77804,The L.A. Hotel Downtown,4,1197,.34
+77804,The Standard Downtown,3.5,1271,.41
+77804,The Westin Bonaventure Hotel & Suites,4,2935,.30
+77804,Hilton Checkers Los Angeles,4,1314,.29
+77827,Kimpton Hotel Palomar Los Angeles Beverly Hills,4,1712,2.04
+77827,The Beverly Hilton,4,3746,3.27
+77827,W Los Angeles - West Beverly Hills,4,564,1.75
+77827,Hotel Angeleno,4,1810,.08
+77866,Omni Los Angeles at California Plaza,4.5,3866,.28
+77866,The L.A. Hotel Downtown,4,1197,.42
+77866,The Westin Bonaventure Hotel & Suites,4,2935,.28
+77866,The Standard Downtown,3.5,1271,.22
+77944,Sheraton Gateway Los Angeles,4,677,.36
+77944,Hilton Los Angeles Airport,3.5,4995,.33
+77944,Crowne Plaza Los Angeles International Airport Hotel,4,1930,.29
+77944,Los Angeles Airport Marriott,4,2762,.25
+78682,Hilton Los Angeles/Universal City,4,3875,.90
+78682,Sheraton Universal Hotel,3.5,1703,.76
+78682,Nite Inn at Universal City,3,184,.62
+78682,BLVD Hotel & Spa,4,437,.53
+78688,Hilton Los Angeles/Universal City,4,3875,3.16
+78688,Mikado Hotel,3.5,228,.83
+78688,Studio City Court Yard Hotel,3.5,290,.16
+78688,The Garland,4.5,3165,2.43
+78694,Sheraton Universal Hotel,3.5,1703,.14
+78694,Loews Hollywood Hotel,4.5,3859,2.54
+78694,The Garland,4.5,3165,.90
+78694,BLVD Hotel & Spa,4,435,.43
+79500,Pacific Marina Inn Airport,2.5,459,.86
+79500,Airport Honolulu Hotel,3.5,1054,.29
+80275,Miami Marriott Biscayne Bay,4,3205,.90
+80275,Hampton Inn & Suites by Hilton - Miami Brickell Downtown,4.5,3443,1.14
+80275,InterContinental Miami,4.5,6445,.41
+80275,Hilton Miami Downtown,4,3790,.90
+80747,InterContinental Mark Hopkins San Francisco,4,2564,.05
+80747,San Francisco Marriott Union Square,4,1840,.18
+80747,Fairmont San Francisco,4.5,3432,.07
+80747,Kimpton Sir Francis Drake Hotel,4,3359,.19
+80756,Hilton San Francisco Union Square,3.5,2826,.17
+80756,The Alise - A Staypineapple Hotel,4.5,600,.04
+80756,Clift Hotel San Francisco,4,3603,.13
+80756,"The Marker San Francisco, A Joie de Vivre Hotel",4.5,2839,.12
+80771,Hotel Fusion,3.5,1293,.05
+80771,The Westin St. Francis San Francisco on Union Square,4,5698,.11
+80771,Hilton Parc 55 San Francisco,4,2607,.08
+80771,Hotel Nikko San Francisco,4,3746,.06
+80774,The Westin St. Francis San Francisco on Union Square,4,5698,.05
+80774,Hilton Parc 55 San Francisco,4,2607,.14
+80774,Hotel Nikko San Francisco,4,3746,.09
+80774,Villa Florence,3.5,1901,.03
+80786,Hilton San Francisco Union Square,3.5,2826,.11
+80786,The Westin St. Francis San Francisco on Union Square,4,5698,.07
+80786,Hilton Parc 55 San Francisco,4,2607,.13
+80786,Hotel Nikko San Francisco,4,3746,.05
+80788,"Hotel Carlton, a Joie de Vivre hotel",4,2932,.19
+80788,Alexis Park San Francisco,3,139,.10
+80788,The Opal San Francisco,3.5,1161,.06
+80788,Motel 6 San Francisco Downtown,3,242,.12
+80793,Hilton San Francisco Union Square,3.5,2826,.10
+80793,Hotel Fusion,3.5,1294,.06
+80793,The Westin St. Francis San Francisco on Union Square,4,5698,.12
+80793,Hilton Parc 55 San Francisco,4,2607,.07
+80802,Hilton San Francisco Union Square,3.5,2826,.06
+80802,Clift Hotel San Francisco,4,3603,.05
+80802,Hotel Nikko San Francisco,4,3746,.12
+80802,"The Marker San Francisco, A Joie de Vivre Hotel",4.5,2839,.06
+80836,Sheehan Hotel,3,1,.04
+80836,Marines Memorial Club Hotel,4.5,782,.03
+80836,The Westin St. Francis San Francisco on Union Square,4,5698,.14
+80836,Hotel Rex San Francisco,4.5,1714,.07
+80879,Hilton San Francisco Union Square,3.5,2826,.88
+80879,San Francisco Inn,3.5,153,.03
+80879,Hilton Parc 55 San Francisco,4,2607,.86
+80879,Hotel Nikko San Francisco,4,3746,.92
+80920,Hilton San Francisco Union Square,3.5,2826,.10
+80920,Hotel Fusion,3.5,1294,.09
+80920,Hilton Parc 55 San Francisco,4,2607,.06
+80920,Hotel Nikko San Francisco,4,3746,.11
+80930,Pier 2620 Hotel Fisherman's Wharf,4,1557,.54
+80930,Lombard Motor Inn,4,614,.05
+80930,"Argonaut Hotel, A Noble House Hotel",4.5,5887,.49
+80937,The Orchard Hotel,4.5,2878,.04
+80937,San Francisco Marriott Union Square,4,1840,.06
+80937,Fairmont San Francisco,4.5,3432,.19
+80937,Kimpton Sir Francis Drake Hotel,4,3359,.07
+80983,Travelodge at the Presidio San Francisco,4,1170,.47
+80983,"Laurel Inn, a Joie de Vivre hotel",4.5,84,.37
+80983,"Hotel Kabuki, a Joie de Vivre hotel",4,2145,.93
+80987,Hotel Drisco,5,1501,.50
+80987,Cow Hollow Inn and Suites,4,1179,.17
+80990,Omni San Francisco Hotel,4.5,5433,.23
+80990,Grand Hyatt San Francisco,4,4881,.20
+80990,The Westin St. Francis San Francisco on Union Square,4,5698,.31
+80990,Palace Hotel,4.5,1346,.15
+80999,Taj Campton Place,4.5,1262,.02
+80999,San Francisco Marriott Union Square,4,1840,.06
+80999,The Westin St. Francis San Francisco on Union Square,4,5698,.14
+80999,Kimpton Sir Francis Drake Hotel,4,3359,.07
+81004,Omni San Francisco Hotel,4.5,5433,.18
+81004,San Francisco Marriott Union Square,4,1840,.20
+81004,Fairmont San Francisco,4.5,3432,.26
+81004,"The Ritz-Carlton, San Francisco",4.5,1227,.06
+81019,Hilton San Francisco Union Square,3.5,2826,.15
+81019,The Westin St. Francis San Francisco on Union Square,4,5698,.04
+81019,Hilton Parc 55 San Francisco,4,2607,.15
+81019,Hotel Nikko San Francisco,4,3746,.08
+81022,Omni San Francisco Hotel,4.5,5433,.62
+81022,Hyatt Regency San Francisco,4,4613,.24
+81022,"Hotel Vitale, a Joie de Vivre hotel",4.5,1730,.08
+81022,Palace Hotel,4.5,1346,.64
+81035,Hilton Parc 55 San Francisco,4,2607,.59
+81035,Hotel Whitcomb,3.5,3134,.05
+81038,Omni San Francisco Hotel,4.5,5433,.15
+81038,InterContinental Mark Hopkins San Francisco,4,2564,.41
+81038,Fairmont San Francisco,4.5,3432,.38
+81038,Club Quarters Hotel in San Francisco,4.5,2512,.21
+81042,Holiday Inn Express Hotel & Suites San Francisco Fisherman's Wharf,4,2622,.10
+81042,Hotel Zoe San Francisco,4.5,271,.21
+81042,Pier 2620 Hotel Fisherman's Wharf,4,1557,.10
+81042,"Argonaut Hotel, A Noble House Hotel",4.5,5887,.14
+81049,The Alise - A Staypineapple Hotel,4.5,600,.52
+81049,"Hotel Carlton, a Joie de Vivre hotel",4,2932,.25
+81082,Holiday Inn Express Hotel & Suites San Francisco Fisherman's Wharf,4,2623,.13
+81082,Hotel Zoe San Francisco,4.5,272,.25
+81082,Pier 2620 Hotel Fisherman's Wharf,4,1557,.15
+81082,"Argonaut Hotel, A Noble House Hotel",4.5,5887,.10
+81103,Omni San Francisco Hotel,4.5,5433,.41
+81103,Loews Regency San Francisco,4.5,525,.27
+81103,Club Quarters Hotel in San Francisco,4.5,2512,.26
+81103,Palace Hotel,4.5,1346,.53
+81110,Grand Hyatt San Francisco,4,4881,.02
+81110,San Francisco Marriott Union Square,4,1840,.09
+81110,The Westin St. Francis San Francisco on Union Square,4,5698,.15
+81110,Kimpton Sir Francis Drake Hotel,4,3359,.09
+81141,Holiday Inn Express Hotel & Suites San Francisco Fisherman's Wharf,4,2623,.09
+81141,Hotel Zoe San Francisco,4.5,272,.18
+81141,Pier 2620 Hotel Fisherman's Wharf,4,1557,.04
+81141,"Argonaut Hotel, A Noble House Hotel",4.5,5887,.19
+81165,Hotel Fusion,3.5,1294,.01
+81165,The Westin St. Francis San Francisco on Union Square,4,5698,.17
+81165,Hilton Parc 55 San Francisco,4,2607,.02
+81165,Hotel Nikko San Francisco,4,3746,.06
+81169,The Westin St. Francis San Francisco on Union Square,4,5698,.28
+81169,San Francisco Marriott Marquis,4,5812,.04
+81169,Hilton Parc 55 San Francisco,4,2607,.21
+81169,Hotel Nikko San Francisco,4,3746,.25
+81170,Inn at Venice Beach,4.5,798,.64
+81170,Venice On The Beach Hotel,4,553,.54
+81170,Venice Beach Suites & Hotel,4,522,.16
+81170,Lincoln Inn,2.5,16,1.34
+81177,"Hotel Carlton, a Joie de Vivre hotel",4,2932,.55
+81177,Inn on Broadway,3,491,.10
+81177,Fairmont San Francisco,4.5,3432,.67
+81177,Castle Inn,4,849,.04
+81204,Loews Regency San Francisco,4.5,525,.19
+81204,Omni San Francisco Hotel,4.5,5433,.20
+81204,Fairmont San Francisco,4.5,3432,.57
+81204,Club Quarters Hotel in San Francisco,4.5,2512,.01
+81241,SOMA Park Inn - Civic Center,3,162,.14
+81241,Holiday Inn Civic Center (San Francisco),3.5,1223,.05
+81241,Hilton Parc 55 San Francisco,4,2607,.59
+81246,Hilton San Francisco Union Square,3.5,2826,.58
+81246,InterContinental San Francisco,4.5,3021,.39
+81246,Hilton Parc 55 San Francisco,4,2607,.54
+81246,Hotel Nikko San Francisco,4,3746,.60
+81249,Pier 2620 Hotel Fisherman's Wharf,4,1557,.62
+81249,Comfort Inn by the Bay,3.5,1189,.10
+81249,Lombard Motor Inn,4,614,.05
+81249,Buena Vista Motor Inn,3.5,776,.05
+81251,The Monarch Hotel,2.5,426,.06
+81251,"Hotel Carlton, a Joie de Vivre hotel",4,2932,.24
+81251,Hotel EPIK,4,136,.18
+81251,Motel 6 San Francisco Downtown,3,242,.18
+81315,The Park Central San Francisco,4,3679,.13
+81315,Hotel Zelos San Francisco,4,747,.07
+81315,The Westin St. Francis San Francisco on Union Square,4,5698,.29
+81315,Hotel Nikko San Francisco,4,3746,.27
+81367,The Metro Hotel,4.5,506,3.95
+81367,Hotel Drisco,5,1501,3.71
+81367,Coventry Motor Inn,4.5,1591,4.40
+81367,Beck's Motor Lodge,4.5,426,4.35
+81375,Hotel Zephyr,4,2333,.06
+81375,Holiday Inn Express Hotel & Suites San Francisco Fisherman's Wharf,4,2623,.16
+81375,Hotel Zoe San Francisco,4.5,271,.07
+81375,Pier 2620 Hotel Fisherman's Wharf,4,1557,.22
+81377,Grand Hyatt San Francisco,4,4881,.07
+81377,Chancellor Hotel on Union Square,4.5,5341,.03
+81377,San Francisco Marriott Union Square,4,1840,.02
+81377,The Westin St. Francis San Francisco on Union Square,4,5698,.10
+81394,Hotel Zeppelin San Francisco,4,536,.03
+81394,The Westin St. Francis San Francisco on Union Square,4,5698,.09
+81394,Clift Hotel San Francisco,4,3603,.09
+81394,"The Marker San Francisco, A Joie de Vivre Hotel",4.5,2839,.10
+81409,San Francisco Marriott Union Square,4,1840,.08
+81409,The Westin St. Francis San Francisco on Union Square,4,5698,.06
+81409,Hotel Nikko San Francisco,4,3746,.16
+81409,Kimpton Sir Francis Drake Hotel,4,3359,.06
+81416,"Hotel Carlton, a Joie de Vivre hotel",4,2932,.41
+81416,The Opal San Francisco,3.5,1161,.26
+81416,"Hotel Kabuki, a Joie de Vivre hotel",4,2145,.21
+81416,Queen Anne Hotel,4,659,.06
+81444,Hotel Zeppelin San Francisco,4,536,.03
+81444,San Francisco Marriott Union Square,4,1840,.13
+81444,The Westin St. Francis San Francisco on Union Square,4,5698,.10
+81444,Hotel Nikko San Francisco,4,3746,.16
+81461,San Francisco Marriott Union Square,4,1840,.12
+81461,Handlery Union Square Hotel,4,4091,.04
+81461,Hotel Nikko San Francisco,4,3746,.12
+81461,Kimpton Sir Francis Drake Hotel,4,3359,.10
+81466,Hotel Zephyr,4,2333,.07
+81466,Holiday Inn Express Hotel & Suites San Francisco Fisherman's Wharf,4,2623,.13
+81466,Hotel Zoe San Francisco,4.5,272,.11
+81466,Pier 2620 Hotel Fisherman's Wharf,4,1557,.21
+81480,Cow Hollow Inn and Suites,4,1178,.06
+81480,"Hotel Del Sol, a Joie de Vivre hotel",4,1132,.19
+81480,Coventry Motor Inn,4.5,1590,.25
+1223830,The Metro Hotel,4.5,506,.83
+1223830,Edwardian San Francisco Hotel,3.5,353,.11
+81503,Chelsea Motor Inn,4,715,.14
+81503,Cow Hollow Inn and Suites,4,1179,.05
+81503,"Hotel Del Sol, a Joie de Vivre hotel",4,1132,.24
+81503,Coventry Motor Inn,4.5,1590,.29
+81511,Hotel Drisco,5,1501,.47
+81511,Inn at Golden Gate,3.5,219,.03
+81514,Orchard Garden Hotel,4.5,1528,.03
+81514,Grand Hyatt San Francisco,4,4881,.12
+81514,San Francisco Marriott Union Square,4,1840,.17
+81514,Fairmont San Francisco,4.5,3432,.30
+81520,Hotel Fusion,3.5,1294,.04
+81520,The Westin St. Francis San Francisco on Union Square,4,5698,.13
+81520,Hilton Parc 55 San Francisco,4,2607,.06
+81520,Hotel Nikko San Francisco,4,3746,.07
+81531,The Orchard Hotel,4.5,2878,.02
+81531,San Francisco Marriott Union Square,4,1840,.07
+81531,Fairmont San Francisco,4.5,3432,.19
+81531,Kimpton Sir Francis Drake Hotel,4,3359,.09
+81553,Embassy Suites by Hilton San Francisco Airport - South San Francisco,3.5,1624,.84
+81553,Best Western Plus Grosvenor Airport Hotel,4,2076,.08
+81553,Hilton Garden Inn San Francisco Airport North,4,988,1.04
+81669,The Westin St. Francis San Francisco on Union Square,4,5698,.47
+81669,San Francisco Marriott Marquis,4,5812,.21
+81669,The St. Regis San Francisco,4.5,1329,.07
+81669,Palace Hotel,4.5,1346,.20
+81765,Best Western Plus San Pedro Hotel & Suites,4,738,.69
+81765,DoubleTree by Hilton Hotel San Pedro,4,1282,1.39
+81765,Del Mar Hotel,3,1,2.65
+81768,Best Western Plus San Pedro Hotel & Suites,4,738,.07
+81768,Crowne Plaza Los Angeles Harbor Hotel,3.5,601,.67
+81768,DoubleTree by Hilton Hotel San Pedro,4,1282,1.73
+81782,Travelodge San Francisco Central,2,1095,.11
+81782,Days Inn San Francisco Downtown/Civic Center Area,3.5,749,.31
+81803,"Hotel Carlton, a Joie de Vivre hotel",4,2932,.12
+81803,The Alise - A Staypineapple Hotel,4.5,600,.20
+81803,Beresford Arms,4,1201,.16
+81803,Commodore Hotel,3.5,3,.11
+81976,Orchard Garden Hotel,4.5,1528,.02
+81976,San Francisco Marriott Union Square,4,1840,.17
+81976,Hotel Triton,4,1914,.01
+81976,Hotel des Arts,3.5,610,.03
+81985,Hilton San Francisco Union Square,3.5,2826,.11
+81985,The Alise - A Staypineapple Hotel,4.5,600,.08
+81985,Clift Hotel San Francisco,4,3603,.02
+81985,Hotel Nikko San Francisco,4,3746,.14
+82114,Hotel Drisco,5,1501,.45
+82114,Marina Motel,4,604,.03
+82114,Cow Hollow Inn and Suites,4,1179,.36
+82116,Hotel Drisco,5,1501,.48
+82116,Cow Hollow Inn and Suites,4,1179,.36
+82578,Farmer's Daughter Hotel,4,1077,.22
+82578,Le Montrose Suite Hotel,4,1001,1.55
+82578,Sofitel Los Angeles at Beverly Hills,4.5,2944,.74
+82578,Park Plaza Lodge Hotel,3.5,312,.85
+84440,Hilton Woodland Hills/Los Angeles,4,1337,3.77
+84440,Tarzana Inn,4,170,2.47
+84440,Best Western Plus Carriage Inn,4,1186,4.58
+84440,Airtel Plaza Hotel,4,555,2.80
+84502,Hollywood Orchid Suites,4.5,2194,.16
+84502,Holiday Inn Express Hotel & Suites Hollywood Hotel Walk of Fame,4,1968,.29
+84502,Loews Hollywood Hotel,4.5,3859,.21
+84502,The Hollywood Roosevelt,4.5,2039,.24
+84522,Kimpton Hotel Palomar Los Angeles Beverly Hills,4,1712,1.99
+84522,The Beverly Hilton,4,3746,3.21
+84522,Luxe Sunset Boulevard Hotel,4,1183,.08
+84522,Comfort Inn Santa Monica,3.5,628,2.67
+84561,Farmer's Daughter Hotel,4,1077,.65
+84561,Sofitel Los Angeles at Beverly Hills,4.5,2944,.34
+84561,Elan Hotel,4.5,1405,.25
+84993,Hampton By Hilton Miami-Coconut Grove/Coral Gables,4.5,1708,1.38
+84993,Hampton Inn & Suites by Hilton - Miami Brickell Downtown,4.5,3443,2.29
+84993,Sonesta Coconut Grove Miami,4,1463,1.61
+84993,The Mutiny Hotel,4.5,870,1.56
+85005,Comfort Suites Miami Airport North,4.5,1419,.75
+85005,Sheraton Miami Airport Hotel & Executive Meeting Center,4,4320,.77
+85005,Regency Hotel Miami,4,1906,1.61
+85005,Courtyard by Marriott Miami Airport,4,1036,1.38
+85007,Cambria hotel & suites Miami Airport - Blue Lagoon,4,609,.47
+85007,PULLMAN Miami Airport hotel,4,4062,1.38
+85007,DoubleTree by Hilton & Miami Airport Convention Center,3.5,1747,.26
+85027,Miami Marriott Biscayne Bay,4,3205,1.42
+85027,Hampton Inn & Suites by Hilton - Miami Brickell Downtown,4.5,3443,.62
+85027,InterContinental Miami,4.5,6445,.32
+85027,Holiday Inn Port of Miami Downtown,3.5,2412,.52
+85029,"Mandarin Oriental, Miami",4.5,2626,.52
+85029,Miami Marriott Biscayne Bay,4,3205,1.26
+85029,Hampton Inn & Suites by Hilton - Miami Brickell Downtown,4.5,3443,.87
+85029,Holiday Inn Port of Miami Downtown,3.5,2412,.41
+85031,Doubletree by Hilton Grand Hotel Biscayne Bay,4,2075,.04
+85031,InterContinental Miami,4.5,6445,1.26
+85031,Hilton Miami Downtown,4,3790,.15
+85031,Holiday Inn Port of Miami Downtown,3.5,2412,.90
+85046,Miami Marriott Biscayne Bay,4,3205,.04
+85046,InterContinental Miami,4.5,6445,1.30
+85046,Hilton Miami Downtown,4,3790,.17
+85046,Holiday Inn Port of Miami Downtown,3.5,2412,.94
+85147,Marenas Beach Resort,4,1577,1.29
+85147,Trump International Beach Resort,4,2221,.88
+85147,Acqualina Resort & Spa on the Beach,5,1006,.71
+85147,Sole on the Ocean,4,1893,.41
+85192,Comfort Suites Miami Airport North,4.5,1419,.85
+85192,Sheraton Miami Airport Hotel & Executive Meeting Center,4,4320,.85
+85192,Regency Hotel Miami,4,1906,1.74
+85192,Courtyard by Marriott Miami Airport,4,1036,1.49
+85205,Cambria hotel & suites Miami Airport - Blue Lagoon,4,609,1.03
+85205,Hampton Inn & Suites by Hilton - Miami Airport / Blue Lagoon,4.5,3019,.31
+85205,HYATT house Miami Airport,4,1463,.14
+85205,Hilton Miami Airport,4,3249,.81
+86951,"Moana Surfrider, A Westin Resort & Spa",4,5277,.98
+86951,Lotus Honolulu at Diamond Head,4.5,1045,.06
+86951,Hyatt Place Waikiki Beach,4.5,3056,.68
+86951,Waikiki Beach Marriott Resort & Spa,4,1058,.68
+86957,Prince Waikiki,4.5,326,.31
+86957,Hilton Hawaiian Village Waikiki Beach Resort,4,15291,.60
+86957,The Modern Honolulu,4.5,4169,.41
+86957,The Equus Hotel,4,1527,.28
+86959,"Moana Surfrider, A Westin Resort & Spa",4,5277,.28
+86959,Vive Hotel Waikiki,4.5,2542,.14
+86959,Waikiki Sand Villa Hotel,3.5,1141,.02
+86959,Hyatt Place Waikiki Beach,4.5,3056,.42
+86978,Hilton Waikiki Beach,4,4552,.19
+86978,Park Shore Waikiki,4.5,1626,.05
+86978,Hyatt Place Waikiki Beach,4.5,3056,.09
+86978,Hotel Renew,4.5,2299,.03
+87008,Ala Moana Hotel by Mantra,3.5,3098,.28
+87008,Prince Waikiki,4.5,326,.06
+87008,Hilton Hawaiian Village Waikiki Beach Resort,4,15291,.32
+87008,The Modern Honolulu,4.5,4169,.12
+87015,Waikiki Gateway Hotel,4.5,252,.28
+87015,Luana Waikiki Hotel & Suites,4,1622,.25
+87015,Hilton Hawaiian Village Waikiki Beach Resort,4,15291,.48
+87015,DoubleTree by Hilton Alana - Waikiki Beach,4,1600,.12
+87016,Grand Waikikian by Hilton Grand Vacations,4,1322,.13
+87016,Ilikai Hotel & Luxury Suites,4.5,2159,.16
+87016,Prince Waikiki,4.5,326,.33
+87016,The Modern Honolulu,4.5,4169,.21
+87017,Pacific Marina Inn Airport,2.5,459,1.15
+87017,Best Western The Plaza Hotel,3.5,1446,.29
+87018,Aqua Palms Waikiki,4,1915,.08
+87018,Ilikai Hotel & Luxury Suites,4.5,2159,.14
+87018,Hilton Hawaiian Village Waikiki Beach Resort,4,15291,.24
+87018,The Equus Hotel,4,1528,.16
+87024,"Moana Surfrider, A Westin Resort & Spa",4,5277,.29
+87024,Coconut Waikiki Hotel,4.5,642,.22
+87024,"The Royal Hawaiian, a Luxury Collection Resort",4.5,3896,.32
+87024,"The Laylow, Autograph Collection",4.5,180,.09
+87031,"Moana Surfrider, A Westin Resort & Spa",4,5277,.19
+87031,Hilton Waikiki Beach,4,4551,.17
+87031,Vive Hotel Waikiki,4.5,2542,.03
+87031,Hyatt Place Waikiki Beach,4.5,3056,.29
+87044,"Moana Surfrider, A Westin Resort & Spa",4,5277,.16
+87044,Vive Hotel Waikiki,4.5,2542,.10
+87044,"The Royal Hawaiian, a Luxury Collection Resort",4.5,3896,.25
+87044,Hyatt Regency Waikiki Resort & Spa,4,5535,.11
+87052,Halekulani Hotel,4.5,2589,.05
+87052,Hilton Hawaiian Village Waikiki Beach Resort,4,15291,.41
+87052,Trump International Hotel Waikiki,4.5,2949,.12
+87052,Embassy Suites by Hilton Waikiki Beach Walk,4.5,3546,.11
+87072,Provident Doral at The Blue Miami,4,1089,.84
+87072,Cambria hotel & suites Miami Airport - Blue Lagoon,4,609,2.76
+87072,Hilton Garden Inn Miami Airport West,4,1232,.96
+87072,Hyatt Place Miami Airport-West/Doral,4,926,.37
+87076,Cambria hotel & suites Miami Airport - Blue Lagoon,4,609,2.37
+87076,PULLMAN Miami Airport hotel,4,4060,2.53
+87076,Hilton Garden Inn Miami Airport West,4,1232,.19
+87076,Hyatt Place Miami Airport-West/Doral,4,926,.70
+87084,Sheraton Miami Airport Hotel & Executive Meeting Center,4,4320,1.21
+87084,Regency Hotel Miami,4,1906,1.26
+87084,PULLMAN Miami Airport hotel,4,4062,1.21
+87084,Courtyard by Marriott Miami Airport,4,1036,1.22
+87091,Best Western The Plaza Hotel,3.5,1446,.86
+87091,Aston at the Executive Centre Hotel,4,270,3.01
+87091,Airport Honolulu Hotel,3.5,1054,1.15
+87099,Miami Marriott Biscayne Bay,4,3205,1.32
+87099,Hampton Inn & Suites by Hilton - Miami Brickell Downtown,4.5,3443,.72
+87099,InterContinental Miami,4.5,6445,.29
+87099,Holiday Inn Port of Miami Downtown,3.5,2412,.42
+87102,Outrigger Waikiki Beach Resort,4.5,4923,.06
+87102,Sheraton Waikiki,4,6137,.23
+87102,"The Royal Hawaiian, a Luxury Collection Resort",4.5,3896,.11
+87102,Hyatt Regency Waikiki Resort & Spa,4,5535,.11
+87104,"Moana Surfrider, A Westin Resort & Spa",4,5277,.07
+87104,Holiday Inn Resort Waikiki Beachcomber,4,2806,.12
+87104,Outrigger Waikiki Beach Resort,4.5,4923,.12
+87104,Hyatt Regency Waikiki Resort & Spa,4,5535,.08
+87108,"Moana Surfrider, A Westin Resort & Spa",4,5277,.23
+87108,"The Royal Hawaiian, a Luxury Collection Resort",4.5,3896,.12
+87108,Embassy Suites by Hilton Waikiki Beach Walk,4.5,3546,.16
+87111,"Moana Surfrider, A Westin Resort & Spa",4,5277,.27
+87111,Hilton Waikiki Beach,4,4551,.09
+87111,Hyatt Place Waikiki Beach,4.5,3056,.15
+87111,Waikiki Beach Marriott Resort & Spa,4,1058,.11
+87115,Regency Hotel Miami,4,1906,.07
+87115,Miami Airport Marriott,4,1354,.23
+87115,Courtyard by Marriott Miami Airport,4,1036,.32
+87115,Best Western Premier Miami International Airport Hotel & Suites,4,2095,.67
+87149,"Moana Surfrider, A Westin Resort & Spa",4,5277,.30
+87149,Aqua Aloha Surf Waikiki,3.5,1672,.02
+87149,OHANA Waikiki East Hotel,4,1919,.14
+87149,Vive Hotel Waikiki,4.5,2542,.14
+89033,Hotel Monteleone,4.5,7630,.54
+89033,Best Western Plus French Quarter Landmark Hotel,4,1380,.05
+89033,Holiday Inn New Orleans - Chateau Lemoyne,4.5,445,.43
+89033,Bourbon Orleans Hotel,4.5,6281,.23
+89049,Hotel Monteleone,4.5,7630,.17
+89049,New Orleans Marriott,4,3551,.15
+89049,Royal Sonesta New Orleans,4.5,4323,.22
+89049,Omni Royal Orleans,4.5,4878,.17
+89083,InterContinental New Orleans,4.5,1525,.07
+89083,JW Marriott New Orleans,4,2407,.07
+89083,Hotel Monteleone,4.5,7630,.22
+89083,Sheraton New Orleans Hotel,4,2361,.08
+89091,Drury Inn & Suites New Orleans,4.5,2023,.07
+89091,InterContinental New Orleans,4.5,1525,.17
+89091,Hampton Inn & Suites New Orleans Downtown (French Quarter Area),4.5,1978,.17
+89101,JW Marriott New Orleans,4,2407,.12
+89101,Hotel Monteleone,4.5,7630,.13
+89101,Royal Sonesta New Orleans,4.5,4323,.23
+89101,Sheraton New Orleans Hotel,4,2361,.07
+89115,Hotel Le Marais,4.5,3295,.09
+89115,Hotel Monteleone,4.5,7630,.19
+89115,Holiday Inn New Orleans - Chateau Lemoyne,4.5,445,.22
+89115,Royal Sonesta New Orleans,4.5,4323,.14
+89118,Bourbon Orleans Hotel,4.5,6281,.24
+89118,Omni Royal Orleans,4.5,4878,.39
+89118,Place d'Armes Hotel,4,2313,.17
+89119,Prytania Oaks Hotel,4,239,.06
+89119,The Pontchartrain Hotel,4.5,387,.36
+89119,Maison St. Charles Hotel and Suites,3.5,1046,.19
+89148,Hotel Le Marais,4.5,3295,.13
+89148,Holiday Inn New Orleans - Chateau Lemoyne,4.5,445,.17
+89148,Royal Sonesta New Orleans,4.5,4323,.10
+89148,Hotel Mazarin,4.5,4558,.06
+89150,InterContinental New Orleans,4.5,1525,.09
+89150,Hotel Monteleone,4.5,7630,.23
+89150,Sheraton New Orleans Hotel,4,2361,.07
+89150,"Q&C HotelBar New Orleans, Autograph Collection",4.5,1313,.07
+89158,Hotel Monteleone,4.5,7630,.34
+89158,Harrah's New Orleans,4.5,5445,.11
+89158,Loews New Orleans Hotel,4.5,2615,.09
+89158,New Orleans Marriott,4,3551,.21
+89568,Lenox Hotel,4.5,3413,.48
+89568,Taj Boston,4,2865,.41
+89568,DoubleTree by Hilton Hotel Boston - Downtown,4,1583,.32
+89568,"Fairmont Copley Plaza, Boston",4.5,3236,.34
+89575,Hilton Boston Downtown / Faneuil Hall,4,2047,.18
+89575,InterContinental Boston,4.5,4521,.19
+89575,"The Langham, Boston",4.5,2393,.23
+89575,Boston Marriott Long Wharf,4,2172,.26
+89585,Lenox Hotel,4.5,3413,.62
+89585,Taj Boston,4,2865,.16
+89585,"Fairmont Copley Plaza, Boston",4.5,3236,.47
+89585,W Boston,4.5,1756,.18
+89620,Hilton Boston Downtown / Faneuil Hall,4,2047,1.34
+89620,Renaissance Boston Waterfront Hotel,4,1421,1.01
+89620,Hilton Boston Logan Airport,4,3513,.60
+89620,Seaport Boston Hotel,4.5,4963,1.00
+90015,Outrigger Reef Waikiki Beach Resort,4.5,6003,.05
+90015,Hilton Hawaiian Village Waikiki Beach Resort,4,15291,.46
+90015,Trump International Hotel Waikiki,4.5,2949,.15
+90015,Embassy Suites by Hilton Waikiki Beach Walk,4.5,3546,.12
+90017,Aqua Palms Waikiki,4,1915,.18
+90017,Hilton Grand Vacations at Hilton Hawaiian Village,4,1444,.15
+90017,Luana Waikiki Hotel & Suites,4,1622,.20
+90017,Hilton Hawaiian Village Waikiki Beach Resort,4,15291,.36
+93034,Hotel Le Marais,4.5,3295,.05
+93034,Hotel Monteleone,4.5,7630,.10
+93034,Holiday Inn New Orleans - Chateau Lemoyne,4.5,445,.10
+93034,Hotel Mazarin,4.5,4558,.04
+93047,Hotel Le Marais,4.5,3294,.08
+93047,Hotel Monteleone,4.5,7630,.16
+93047,Holiday Inn New Orleans - Chateau Lemoyne,4.5,445,.06
+93047,Royal Sonesta New Orleans,4.5,4323,.06
+93051,Hotel Monteleone,4.5,7630,.29
+93051,Holiday Inn New Orleans - Chateau Lemoyne,4.5,445,.20
+93051,Royal Sonesta New Orleans,4.5,4323,.19
+93051,Omni Royal Orleans,4.5,4878,.16
+93164,Harrah's New Orleans,4.5,5445,.13
+93164,Omni Riverfront Hotel,4.5,1002,.17
+93164,Loews New Orleans Hotel,4.5,2615,.17
+93340,Lotte New York Palace,4.5,3565,.18
+93340,Omni Berkshire Place,4.5,4021,.11
+93340,Doubletree Hotel Metropolitan - New York City,3.5,4967,.24
+93340,Warwick New York,4.5,4451,.33
+93457,Crowne Plaza Times Square Manhattan,4,9835,.18
+93457,New York Marriott Marquis,4,11313,.32
+93457,Hilton Garden Inn Times Square,4.5,7342,.14
+93457,Park Central Hotel New York,4,4878,.26
+93459,Best Western Plus St. Charles Inn,4.5,575,.04
+93459,The Pontchartrain Hotel,4.5,387,1.03
+93459,Henry Howard Hotel,4.5,270,1.03
+93589,Crowne Plaza Times Square Manhattan,4,9835,.13
+93589,Sheraton New York Times Square Hotel,4,8392,.07
+93589,Hilton Garden Inn Times Square,4.5,7342,.21
+94330,Hilton Boston Downtown / Faneuil Hall,4,2047,.81
+94330,InterContinental Boston,4.5,4521,.63
+94330,Renaissance Boston Waterfront Hotel,4,1420,.13
+94330,The Westin Boston Waterfront,4,2710,.25
+94344,The Bostonian Boston,4,1720,.16
+94344,Hilton Boston Downtown / Faneuil Hall,4,2047,.12
+94344,Boston Harbor Hotel,4.5,1960,.27
+94344,Boston Marriott Long Wharf,4,2172,.14
+94350,Lenox Hotel,4.5,3413,.43
+94350,Taj Boston,4,2865,.88
+94350,Sheraton Boston Hotel,4,2454,.19
+94350,Boston Marriott Copley Place,4,3304,.30
+94399,The Bostonian Boston,4,1720,.32
+94399,Hilton Boston Downtown / Faneuil Hall,4,2047,.24
+94399,Omni Parker House,4,7969,.17
+94399,InterContinental Boston,4.5,4521,.32
+98606,Hyatt Regency Dallas,4,4201,.80
+98606,Magnolia Hotel Dallas Downtown,4.5,3405,.39
+98606,Sheraton Dallas Hotel,4,2813,.38
+98606,Omni Dallas Hotel,4.5,7046,.74
+98629,The Fairmont Dallas,4,2122,.60
+98629,Magnolia Hotel Dallas Downtown,4.5,3405,1.00
+98629,Hotel ZaZa Dallas,4.5,1191,.15
+98629,Omni Dallas Hotel,4.5,7046,1.30
+98639,Hyatt Place Dallas-North,4,499,1.00
+98639,Embassy Suites by Hilton Dallas Near the Galleria,4,925,.88
+98639,The Westin Galleria Dallas,4.5,1238,.34
+98639,Hilton Dallas Lincoln Centre,4,1402,.50
+98641,Holiday Inn Express Hotel & Suites Dallas (Galleria Area),4,240,.91
+98641,Dallas/Addison Marriott Quorum by the Galleria,4.5,505,1.92
+98641,The Westin Galleria Dallas,4.5,1238,.44
+98641,Le Meridien Dallas by the Galleria,4,798,.47
+98644,Hawthorn Suites by Wyndham Dallas Park Central,4,788,.51
+98644,Wyndham Dallas Suites - Park Central,4,1389,.50
+98644,Hyatt Place Dallas / Park Central,4,586,.73
+98644,Hilton Dallas Lincoln Centre,4,1402,3.16
+98679,The Fairmont Dallas,4,2122,.80
+98679,The Adolphus,4.5,2661,.61
+98679,Magnolia Hotel Dallas Downtown,4.5,3405,.65
+98679,Omni Dallas Hotel,4.5,7046,.29
+98710,Doubletree by Hilton Dallas Market Center,4,994,.57
+98710,Hilton Anatole,4,3570,.35
+98710,Hilton Garden Inn Dallas / Market Center,4,854,.12
+98719,Doubletree by Hilton Dallas Market Center,4,994,.22
+98719,Magnolia Hotel Dallas Downtown,4.5,3405,2.07
+98719,Hilton Anatole,4,3570,.16
+98719,Omni Dallas Hotel,4.5,7046,2.14
+98726,Warwick Melrose - Dallas,4.5,1107,.34
+98726,Magnolia Hotel Dallas Downtown,4.5,3405,1.73
+98726,Hotel ZaZa Dallas,4.5,1191,.77
+98727,The Fairmont Dallas,4,2122,1.67
+98727,Magnolia Hotel Dallas Downtown,4.5,3405,2.07
+98727,Hilton Anatole,4,3570,1.24
+98728,Dallas/Addison Marriott Quorum by the Galleria,4.5,505,1.49
+98728,Cooper Hotel Conference Center & Spa,4.5,303,1.45
+98728,Le Meridien Dallas by the Galleria,4,798,.19
+98728,Hilton Dallas Lincoln Centre,4,1402,.44
+98731,Warwick Melrose - Dallas,4.5,1107,1.24
+98731,Doubletree by Hilton Dallas Market Center,4,994,.23
+99371,Pod 51 Hotel,4,4982,.12
+99371,Fifty NYC–an Affinia hotel,4.5,1405,.13
+99371,Hilton Garden Inn New York/Manhattan-Midtown East,4.5,1308,.06
+99371,Doubletree Hotel Metropolitan - New York City,3.5,4967,.10
+100504,Motif Seattle,4,508,.23
+100504,Kimpton Alexis Hotel,4.5,2092,.20
+100504,Sheraton Seattle Hotel,4,4663,.26
+100504,The Fairmont Olympic Seattle,4.5,3135,.10
+100505,Mayflower Park Hotel,4.5,2300,.17
+100505,The Westin Seattle,4,2701,.14
+100505,Hyatt Place Seattle/Downtown,4.5,1628,.37
+100505,Sheraton Seattle Hotel,4,4663,.41
+100506,Motif Seattle,4,508,.20
+100506,Sheraton Seattle Hotel,4,4663,.24
+100506,Kimpton Hotel Monaco Seattle,4.5,2400,.04
+100506,The Fairmont Olympic Seattle,4.5,3135,.08
+100507,Motif Seattle,4,508,.25
+100507,Sheraton Seattle Hotel,4,4663,.36
+100507,The Fairmont Olympic Seattle,4.5,3135,.36
+100507,Seattle Marriott Waterfront,4,1774,.28
+100509,Belltown Inn,4,1076,.17
+100509,"The Edgewater, A Noble House Hotel",4,3862,.19
+100509,Hyatt Place Seattle/Downtown,4.5,1628,.36
+100509,Seattle Marriott Waterfront,4,1774,.24
+100527,Motif Seattle,4,508,.21
+100527,Grand Hyatt Seattle,4.5,3223,.31
+100527,Sheraton Seattle Hotel,4,4663,.18
+100527,The Fairmont Olympic Seattle,4.5,3135,.09
+100537,Hampton Inn & Suites Seattle Downtown,4.5,2034,.44
+100537,The Maxwell Hotel - A Staypineapple Hotel,4.5,2783,.27
+100537,Mediterranean Inn,4,1578,.07
+100537,Hyatt Place Seattle/Downtown,4.5,1628,.61
+100540,Hampton Inn & Suites Seattle Downtown,4.5,2034,.46
+100540,The Maxwell Hotel - A Staypineapple Hotel,4.5,2782,.28
+100540,Mediterranean Inn,4,1578,.14
+100540,Hyatt Place Seattle/Downtown,4.5,1628,.71
+100544,Kimpton Alexis Hotel,4.5,2092,.50
+100544,The Paramount Hotel,4.5,1826,.38
+100544,Inn at the Market,5,2731,.12
+100544,Four Seasons Hotel Seattle,4.5,1518,.30
+100554,Motif Seattle,4,508,.32
+100554,Grand Hyatt Seattle,4.5,3223,.42
+100554,Sheraton Seattle Hotel,4,4663,.29
+100554,The Fairmont Olympic Seattle,4.5,3135,.18
+100561,Hampton Inn & Suites Seattle Downtown,4.5,2034,.39
+100561,Holiday Inn Express Seattle City Center,3.5,803,.03
+100561,Hyatt Place Seattle/Downtown,4.5,1628,.12
+100561,Holiday Inn Seattle Downtown,4,575,.07
+100562,Motif Seattle,4,508,.12
+100562,Grand Hyatt Seattle,4.5,3223,.13
+100562,The Westin Seattle,4,2701,.29
+100562,The Fairmont Olympic Seattle,4.5,3135,.16
+100565,Mayflower Park Hotel,4.5,2300,.11
+100565,The Westin Seattle,4,2701,.09
+100565,Sheraton Seattle Hotel,4,4663,.35
+100565,Warwick Seattle,4,1958,.06
+100567,Hyatt Place Seattle/Downtown,4.5,1628,.54
+100567,Inn at the Market,5,2731,.53
+100567,Seattle Marriott Waterfront,4,1774,.25
+100569,Motif Seattle,4,508,.43
+100569,Grand Hyatt Seattle,4.5,3223,.40
+100569,Sheraton Seattle Hotel,4,4663,.33
+100569,The Fairmont Olympic Seattle,4.5,3135,.33
+100574,Hampton Inn & Suites Seattle Downtown,4.5,2034,.42
+100574,Holiday Inn Express Seattle City Center,3.5,803,.04
+100574,Hyatt Place Seattle/Downtown,4.5,1628,.09
+100574,Holiday Inn Seattle Downtown,4,575,.09
+100577,Watertown Hotel - A Staypineapple Hotel,4.5,1169,.81
+100577,University Inn - A Staypineapple Hotel,4.5,853,.86
+100577,University Motel Suites,4,81,.66
+100577,Hotel Deca,4,1387,.63
+100581,Hampton Inn & Suites Seattle Downtown,4.5,2034,2.62
+100581,Watertown Hotel - A Staypineapple Hotel,4.5,1169,.11
+100581,Hyatt Place Seattle/Downtown,4.5,1628,3.00
+100581,Hotel Deca,4,1387,.29
+100584,Hampton Inn & Suites Seattle Downtown,4.5,2034,.32
+100584,Hyatt Place Seattle/Downtown,4.5,1628,.21
+100584,Holiday Inn Seattle Downtown,4,575,.11
+100585,Motif Seattle,4,508,.24
+100585,Sheraton Seattle Hotel,4,4663,.23
+100585,Kimpton Hotel Monaco Seattle,4.5,2400,.08
+100585,The Fairmont Olympic Seattle,4.5,3135,.10
+100597,Hampton Inn and Suites Seattle-Airport/28th Ave,4.5,1761,.25
+100597,Cedarbrook Lodge,4.5,2390,.30
+100597,Crowne Plaza Seattle Airport,4,526,.78
+100597,Hilton Seattle Airport & Conference Center,4,1738,.63
+100602,Homewood Suites Seattle - Tacoma Airport / Tukwila,4,795,.52
+100602,Cedarbrook Lodge,4.5,2390,2.62
+100602,Courtyard Seattle Southcenter,4,362,.68
+100602,Crowne Plaza Seattle Airport,4,526,2.59
+100603,Hampton Inn and Suites Seattle-Airport/28th Ave,4.5,1761,.35
+100603,Best Western Seattle Airport Hotel,4,2359,.83
+100603,Sleep Inn SeaTac Airport,4,1420,.67
+100603,Crowne Plaza Seattle Airport,4,526,1.30
+100617,Hampton Inn and Suites Seattle-Airport/28th Ave,4.5,1761,.82
+100617,Cedarbrook Lodge,4.5,2390,.64
+100617,Seattle Airport Marriott,4,914,.16
+100617,Crowne Plaza Seattle Airport,4,526,.15
+100619,Hampton Inn and Suites Seattle-Airport/28th Ave,4.5,1761,.53
+100619,Doubletree by Hilton Seattle Airport,4,3036,.34
+100619,Crowne Plaza Seattle Airport,4,526,.44
+100619,Hilton Seattle Airport & Conference Center,4,1738,.30
+109367,Homewood Suites Dallas-Market Center,4.5,730,.59
+109367,Doubletree by Hilton Dallas Market Center,4,994,.93
+109367,Embassy Suites by Hilton Dallas - Market Center,3.5,1016,.40
+109367,Hilton Garden Inn Dallas / Market Center,4,854,.39
+109412,HYATT house Dallas/Addison,4.5,541,.30
+109412,Dallas/Addison Marriott Quorum by the Galleria,4.5,505,.37
+109412,The Westin Galleria Dallas,4.5,1238,1.84
+109412,Hilton Dallas Lincoln Centre,4,1402,2.25
+109413,The Fairmont Dallas,4,2122,.39
+109413,The Adolphus,4.5,2661,.04
+109413,Hyatt Regency Dallas,4,4201,.65
+109413,Omni Dallas Hotel,4.5,7046,.45
+109426,The Fairmont Dallas,4,2122,.35
+109426,Hyatt Regency Dallas,4,4201,.49
+109426,Magnolia Hotel Dallas Downtown,4.5,3405,.46
+109426,Omni Dallas Hotel,4.5,7046,.54
+109452,"Country Inn & Suites By Carlson, Dallas-Love Field (Medical Center)",4,427,.20
+109452,Embassy Suites by Hilton Dallas Love Field,4,919,2.36
+109452,Holiday Inn Express Hotel & Suites Dallas/Stemmons Fwy(I-35 E),3.5,130,.16

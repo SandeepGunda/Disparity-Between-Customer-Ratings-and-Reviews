@@ -1,0 +1,255 @@
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "SEXYDIVA55" , 
+"Date" : new Date("2008-08-03"), 
+"Overall" : 1, 
+"Value" : 1, 
+"Room" : 1, 
+"Location" : 3,
+"Cleanliness" : 1, 
+"Checkin/frontdesk" : 1, 
+"Service" : 1, 
+"BService" :1, 
+"SentimentRate" :-0.330, 
+"Sentiment" : "negative" ,
+"Reviews":"THE WORST HOTEL (MOTEL)!!!! This was THE WORST hotel (motel) I have ever stayed in. The room was filthy. I would not recommend this motel to anyone... not even my worst enemy. Room service was also terrible.... we never had our room serviced for the 2 days we stayed. The bed was very hard which gave myself and especially my husband bad back spasms. There was NO free internet access. The way the motel looked and smelled...parking should have been free. There was no kind of professional customer service. If this motel was to give us a free weekend stay...it would be a DEFINITE NO!! DO NOT STAY AT THIS MOTEL!! DO NOT STAY AT THIS MOTEL!!I rate this motel a (-10) negative ten. "}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "tagzz" , 
+"Date" : new Date("2008-08-19"), 
+"Overall" : 3, 
+"Value" : 2, 
+"Room" : 3, 
+"Location" : 4,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 1, 
+"Service" : -1, 
+"BService" :-1, 
+"SentimentRate" :0.183, 
+"Sentiment" : "mixed" ,
+"Reviews":"Bad Customer Service When I first checked in, I walk to the front desk welcomed by the female employee on her cell phone and her friend taking a picture of her. I don't think that was a part of customer service training. When I get up to the room, nice but small. Parking at the hotel was convenient yet pricey, Parking attendants need training. Other than that it was allright. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "trav3l3rMe" , 
+"Date" : new Date("2008-08-03"), 
+"Overall" : 1, 
+"Value" : 1, 
+"Room" : 1, 
+"Location" : -1,
+"Cleanliness" : -1, 
+"Checkin/frontdesk" : -1, 
+"Service" : -1, 
+"BService" :-1, 
+"SentimentRate" :-0.153, 
+"Sentiment" : "negative" ,
+"Reviews":"Stay Away!!! This is. by far, the worst hotel I've ever stayed! Dirty room full of cockroaches, very noisy, smelly and expensive. Also, this hotel apparently found an extra source of income... prostitution. Just go to floors 7 or 8 and wait for few minutes around 11PM. I have no idea how this hotel got 2 stars! Based on what? The only good thing I wasn't bitten by bedbugs...lucky me."}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "sgv_azn" , 
+"Date" : new Date("2008-03-06"), 
+"Overall" : 1, 
+"Value" : 1, 
+"Room" : 2, 
+"Location" : 1,
+"Cleanliness" : 2, 
+"Checkin/frontdesk" : 2, 
+"Service" : 2, 
+"BService" :1, 
+"SentimentRate" :0.000, 
+"Sentiment" : "neutral" ,
+"Reviews":"No wireless internet as promised! There is no wireless internet. I called the hotwire staff right after I made the reservations and the representative helped me to phone the hotel right away and confirmed the hotel have wireless internet access. But there is no wireless internet when I got there even on the lobby of the hotel. I had to pay extra for the wireless internet but the connection was still soooooooooooooooo slow.It's totally not what the hotwire representative told me! "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "XtineD" , 
+"Date" : new Date("2008-02-27"), 
+"Overall" : 2, 
+"Value" : 2, 
+"Room" : 2, 
+"Location" : 5,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 2, 
+"Service" : 2, 
+"BService" :-1, 
+"SentimentRate" :0.216, 
+"Sentiment" : "mixed" ,
+"Reviews":"We stayed only out of desperation We only had 24 hours on Oahu and planned our vacation to the letter except for our stay here. No hotels available so we booked this place through hotwire. We arrive at the front desk at 10:30 p.m. and they didn't have our reservation. We were almost opting to sleep on the beach after watching the parade of interesting people and working girls around the construction site of a lobby. After getting hotwire on the phone to resolve our reservation problem and checking out the room, we decided to stay. Our room was clean. The carpet was new and the bathroom very clean. Old but clean. The rooms are independently owned so some can be much newer than others. I was looking for clean and moderately priced and that's what I got. Think of a cinderblock high rise, because that's what this place is. The location is great, but one night was enough for me. Never again if I can help it. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "kaikamahine" , 
+"Date" : new Date("2008-01-16"), 
+"Overall" : 1, 
+"Value" : 1, 
+"Room" : 1, 
+"Location" : 1,
+"Cleanliness" : 1, 
+"Checkin/frontdesk" : 3, 
+"Service" : 2, 
+"BService" :2, 
+"SentimentRate" :-0.260, 
+"Sentiment" : "negative" ,
+"Reviews":"Perplexed Compared to many, I have been lucky not to find bed bugs. However, the toilette didn't flush, and the drain was clogged with hair. The walls are extremely thin so to hear the tenants next to you. In my case, I ended up with a gay couple as neighbors, who was totally unbearable. I had to fight with my neighbors to have them shut up. They would fight at 3 a.m. for instance.I work and study and on a budget, so i couldn't just say, enough I'm leaving. The carpet was disgusting and the bed covers had cigarette burns and bugers. The good side was that the previous tenant left two sets of towels, dishes and burners. The management was also helpful...they fixed the flush and replaced malfunctioning appliances for free. The downside is that your comfort is dependant on your neighbors. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "casanova_chickie" , 
+"Date" : new Date("2007-12-30"), 
+"Overall" : 1, 
+"Value" : -1, 
+"Room" : -1, 
+"Location" : -1,
+"Cleanliness" : -1, 
+"Checkin/frontdesk" : -1, 
+"Service" : -1, 
+"BService" :-1, 
+"SentimentRate" :-0.666, 
+"Sentiment" : "negative" ,
+"Reviews":"donot book with hotels.com Be very careful of your reservation. Don't book with them, they are scammers and will steal you money! I booked and then had to cancel 2 days after and they wouldnt refund the money! Their policy was outdated and was inconsistent to their online policy of cancellation either 24, 48 or 72 hours prior...STAY AWAY FROM BOOKING WITH THEM. "}])
+
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "Jetear" , 
+"Date" : new Date("2007-08-18"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 3, 
+"Location" : 2,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 5, 
+"Service" : -1, 
+"BService" :-1, 
+"SentimentRate" :0.583, 
+"Sentiment" : "positive" ,
+"Reviews":"Good value for the price! We were very pleased with our room for the price that we paid. It was in fair condition and clean. The staff was courteous and let us check-in 2 hours before the official time. I would highly recommend this hotel for those who want a clean, safe place to sleep but would rather spend their time  money on other things. John  Rachel "}])
+
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "Lidia1126" , 
+"Date" : new Date("2007-07-23"), 
+"Overall" : 2, 
+"Value" : 2, 
+"Room" : 2, 
+"Location" : 3,
+"Cleanliness" : 3, 
+"Checkin/frontdesk" : 4, 
+"Service" : 3, 
+"BService" :2, 
+"SentimentRate" :0.269, 
+"Sentiment" : "positive" ,
+"Reviews":"Ok for the modest price Ok for the price and only if your are staying a day or two. This is one of the least expensive ok hotels in Waikiki and is in fair location (a little far to lug things to the beach, close to shopping and other Waikiki activities, good from a driving point of view)Parking is $12. Room had microwave and small frig. Free Internet was available only in the lobby.Bathroom toilet wasn't flushing but housekeeping was there within 2 minutes both times we called.Room was adequate and clean and was worth the modest price (Hotwire).There are a few better hotels under $100 if you are planning a longer stay."}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "familyGoldcoast" , 
+"Date" : new Date("2007-06-25"), 
+"Overall" : 2, 
+"Value" : 2, 
+"Room" : 1, 
+"Location" : 5,
+"Cleanliness" : 1, 
+"Checkin/frontdesk" : 5, 
+"Service" : 1, 
+"BService" :-1, 
+"SentimentRate" :-0.286, 
+"Sentiment" : "negative" ,
+"Reviews":"good location I travelled to Honolulu, with my family from Australia we firstly booked the sister hotel the Resortquest Circle would definately never recommend that hotel for any family, the room was like a shoe box. Requested to be moved out, so stayed at the Monarch and was put on the 20th floor with good views, only problem we had 2 single beds and a sofa for a family, not really practical. The maid service was very bad, in 10 days did not have linen changed, beds just pulled up and sofa not even touched, did not vaccum floors, wipe benches. Air con very noisy and didnt seem to cool the room down.The spa was out of order for half the vacation, which was very inconvenient.The lady on the front desk was very helpful and kind. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "nickiwms" , 
+"Date" : new Date("2007-06-24"), 
+"Overall" : 3, 
+"Value" : 3, 
+"Room" : 3, 
+"Location" : 3,
+"Cleanliness" : 3, 
+"Checkin/frontdesk" : 3, 
+"Service" : 3, 
+"BService" :-1, 
+"SentimentRate" :0.000, 
+"Sentiment" : "neutral" ,
+"Reviews":"Geat for the Price... Don't expect the Ritz View from Hotel Room"}])
+
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "SteveM15" , 
+"Date" : new Date("2007-06-09"), 
+"Overall" : 2, 
+"Value" : 2, 
+"Room" : 2, 
+"Location" : 3,
+"Cleanliness" : 2, 
+"Checkin/frontdesk" : 3, 
+"Service" : 2, 
+"BService" :-1, 
+"SentimentRate" :-0.213, 
+"Sentiment" : "negative" ,
+"Reviews":"Just okay Got this as part of an Orbitz package... It was adequate, except the room had twin beds, and the shower curtain was mildewed and smelly. Finally got that replaced after two calls to the desk. Quite a distance from the beach, but TheBus stops a block away. Close to Ala Moana shopping"}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "Monarch_Penhouse_fan" , 
+"Date" : new Date("2007-05-09"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 4, 
+"Service" : 5, 
+"BService" :5, 
+"SentimentRate" :1.130, 
+"Sentiment" : "positive" ,
+"Reviews":"Loved the Hawiian Monarch Penhouse! Penhouse Living room ocean view"}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "alohajgirl" , 
+"Date" : new Date("2007-04-18"), 
+"Overall" : 2, 
+"Value" : -1, 
+"Room" : -1, 
+"Location" : -1,
+"Cleanliness" : -1, 
+"Checkin/frontdesk" : -1, 
+"Service" : -1, 
+"BService" :-1, 
+"SentimentRate" :0.015, 
+"Sentiment" : "mixed" ,
+"Reviews":"hotel for just sleeping and shower I was a bit worried to stay this hotel because of bad reviews. But my room was OK fortunately, no bugs, no dirty carpet. There was bath tab (but really dirty).As somebody said the blanket was smelly. I think traveler should bring room shoes and Fabreze!If you look for a hotel just for sleep and shower, this hotel will be reasonable price and close to Waikiki and Ala Moana.PS. My floor was 15F. Elevator area was dirty cause they are painting wall, door, everywhere. I saw a lot of notice there. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87015, 
+"Author" : "AmyPC" , 
+"Date" : new Date("2007-04-08"), 
+"Overall" : 1, 
+"Value" : 1, 
+"Room" : 1, 
+"Location" : 4,
+"Cleanliness" : 1, 
+"Checkin/frontdesk" : 5, 
+"Service" : -1, 
+"BService" :-1, 
+"SentimentRate" :-0.014, 
+"Sentiment" : "mixed" ,
+"Reviews":"Needs to be torn down. We had a 12 hour stopover in Honolulu on our way home to Australia and I booked this through Priceline.com without knowing the hotel name - just the general location. Well the location was fine (walk to Waikiki action) but the hotel, if you could call it that, was vile. The very best thing about it was the girl on the desk, who was lovely. The room was hideous, pubic hair was on the bathroom floor, stained and chipped mismatched furniture throughout, dank hallways, it felt like I was going to crash through the bath bottom while showering (oddly the water pressure was good though). Terrible curtains that did nothing to block out the morning sun. There was a big cigarette burn in the bedspread. Need I go on? It really does need to be torn down. The one redeeming feature is Cheeseburger in Paradise, which has great burgers and is across the road. We've backpacked through Southeast Asia and stayed in many dives, for some reason, this dump just seemed so much worse - probably because it cost 9 times as much as something similar in Southeast Asia!!! "}])
+

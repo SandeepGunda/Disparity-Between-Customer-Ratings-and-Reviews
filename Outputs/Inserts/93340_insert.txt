@@ -1,0 +1,450 @@
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "KimKBigFlats_NY" , 
+
+"Date" : Dec 26, 2008, 
+
+"Overall" : 1, 
+
+"Value" : 1, 
+
+"Room" : 1, 
+
+"Location" : 3,
+
+"Cleanliness" : 1, 
+
+"Checkin/frontdesk" : 1, 
+
+"Service" : 1, 
+
+"BService" : 2, 
+
+"SentimentRate" : -0.586, 
+
+"Sentiment" : "Negative",
+
+"Reviews" : "Bed Bugs My husband and I stayed for two nights and went home with what our doctor said were bed bug bites. I notified the hotel manager who said he had an exterminator inspect our room, and denied the existence of bed bugs. ??????No offer of a refund or any other type of restitution for medical bills etc. was made by the hotel manager. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "thenoddlers" , 
+
+"Date" : Dec 20, 2008, 
+
+"Overall" : 3, 
+
+"Value" : 2, 
+
+"Room" : 3, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 1, 
+
+"Service" : 3, 
+
+"BService" : -1, 
+
+"SentimentRate" : -0.130, 
+
+"Sentiment" : "Negative",
+
+"Reviews" : "Give Us Your Money Unpleasant and unhelpful front of desk staff. If you are paying by debit card please be aware that you will require the funds for your hotel stay to be fully available at check-in as the desk staff will contact your bank to confirm this. If you do not you will need to pay each night cash in advance or by credit card. Also rooms on the ninth floor at the front of the building do not seem to be sound proofed and are subject to constant noise from rubbish collections on the main street. Room decor is tired and dated and carpets need replacing.In addition the front of desk staff do not wish to accomodate requests for information concerning tours of the city.The main advantage of this hotel is it's central location. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "Idlewildmemories" , 
+
+"Date" : Dec 18, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 4, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" :0.438 , 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Wonderful stay I have just returned from a 2 night stay at the Hotel Elysee and what a wonderful stay it was. We were a group of 5 women celebrating a belated 60th birthday. Every year we make an overnight stay in Manhattan at Christmastime but this was our first stay at the Elysee and from the looks of things, it won't be our last. Everyone ( from Mr. Avina to the young women who set up refreshments in the Club room) was professional, courteous, and gracious. We had a suite and a double room and were able to close off a hallway door to make a 2 bedroom suite. The rooms were large and very comfortable(even the pull-out couch was comfortable). There is a complimentary continental breakfast every morning, delicious cookies and coffee all day, and cheese and crackers, wine and Prosecco in the early evening. Everything was delightful! The location is outstanding, the hotel is outstanding, and most of all the staff is outstanding. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "SamanthainNJ" , 
+
+"Date" : Dec 13, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : 3, 
+
+"SentimentRate" : 0.543, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Loved the Hotel Elysee My husband and I stayed at the Elysee mid-week during December and were quite impressed. The location on E. 54th St. is fantastic and the hotel is reasonably priced by NYC standards. Although our visit would have been special under any conditions (loved the second floor library for breakfast, complementary wine and cheese, newspapers, and all day cookies and fruit), we were overwhelmed when the staff upgraded our room to a suite when we checked in! The suite was absolutely beautiful, with fireplace, dining room table, kitchenette, and large screen tvs. We felt like rock stars! Additionally, the staff could not have been nicer or more accomodating...the doorman offered an umbrella when we went outside and was most helpful hailing taxis. We can't wait to stay here again! We used to stay at the Carlysle, but the Elysee is our new favorite. We highly recommend it. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "KRRI" , 
+
+"Date" : Dec 10, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" :0.617 , 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Perfect in EVERY way! Stayed there for one night and couldn't find a single thing wrong with this wonderful Manhattan gem!The location is perfect for every NYC attraction....the staff was friendly beyond belief...the room was clean, comfortable, and in good shape...small, cozy, friendly, priced right....a 2nd floor lounge serving coffee, croissants, and hors d'oeuvres in the evening...what else could we ask for? Will absolutely stay there over and over and recommend it to everyone who asks. The Monkey Bar will be up and running by the spring which will be a huge plus! "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "XComsGirl" , 
+
+"Date" : Dec 8, 2008, 
+
+"Overall" : 3, 
+
+"Value" : 3, 
+
+"Room" : 3, 
+
+"Location" : 3,
+
+"Cleanliness" : 3, 
+
+"Checkin/frontdesk" : 3, 
+
+"Service" : 3, 
+
+"BService" : -1, 
+
+"SentimentRate" : 0.302, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Nothing Special My husband and I stayed at the Hotel Elysee for 2 nights in early September. We chose this hotel based on the great reviews it got. However, there really wasn't anything special about this place. I have nothing negative to say about this hotel, however I have nothing positive either. The room was average sized, and the bed was comfortable enough to sleep in. There were no major problems, and the front desk was polite. The restaurant attached to the hotel was closed for renovations while we were there, so we stuck to eating out (the first night we were so tired from traveling we just ate food from the deli across the street. I wouldn't suggest that if you have enough energy to walk down a block or to to an actual restaurant). Also, don't be confused by the minibar. It doesn't really cool things. It's not really a refrigerator. Plus, according to their brochure, if you take something out, it will automatically be charged for it. We read this part after moving things around to put our own drinks in, but we quickly replaced everything and were not charged.So overall, this place is okay. I would definitely recommend finding another place to stay, though, if you can. However, if you won't be spending much time in your hotel room anyway, this place should be just fine for you. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "califanglophile" , 
+
+"Date" : Dec 6, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : 5, 
+
+"SentimentRate" : 0.360, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : " The City That Never Sleeps . . . Do you know WHY the city never sleeps???? Because its innumerable skyscrapers generate a colossal amount of refuse--all of which must be compacted . . . slowly . . . late at night . . . by jarringly-noisy garbage trucks. Please read on, because I do love this hotel, but if you stay there, ask for a room that doesn't face the street. Though I was located on the 11th floor behind double-paned windows during this visit, the bewitching-hour garbage runs were a bit disturbing. Now, the good news. This was the second time that I have stayed at the Elysee while leading a tour group. I've never had anything but praise from the more than 40 travelers I have taken there, and I wouldn't hesitate to use the hotel again. (I doubt that even the nearby Waldorf-Astoria or St. Regis have been engineered well enough to drown out those cursed trucks.) The location is superb. The staff is very friendly and accomodating. On both stays, I have had a spacious, immaculate, and very nicely appointed room. As others have noted, the second floor lounge/library space is one of the hotel's most pleasing assets. It is the perfect spot to relax and feel at home for a mid-afternoon break with coffee and a newspaper or for a pre-theatre glass of wine and hors d'oevres. (Bonus: the nearby 21 Club offers a prix-fixe, pre-theatre dinner that is both a memorable experience and a good value.)"}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "bagueili" , 
+
+"Date" :Dec 6, 2008 , 
+
+"Overall" : 1, 
+
+"Value" : 1, 
+
+"Room" : -1, 
+
+"Location" : 5,
+
+"Cleanliness" : 4, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : -1, 
+
+"BService" : 3, 
+
+"SentimentRate" : -0.105, 
+
+"Sentiment" : "Negative",
+
+"Reviews" : " Bad experience kills good location The location is excellent but killed by 3 negative things:1) Very old and unsufficient furniture, we paid 600 USD a night and had our suite nr 103 has NO DRAWERS :how can you stay 9 nghts in a room with NO drawers and 6 hangers: part of our clothes had to be remained in bags and suitcases2)No room on street side has correct sound proof windows. And no room on back side has correct lights: you then live quite like in a cellar , the suites faces a wall, and the room inside has poor lights.On the second floor, there is however a nice tea room ,with good sound proof windows: why not the same in the street rooms ?3) People on reception desk are smiling, nice ...and give bad service.They were unable to find out the correct number of tthe Blue Note, the room service brought us one day tea without spoons,the other day cold water ,the next hot water without tea bags...etc etc. At the reception desk,we asked for yoghurts, they answered us we have none, go and buy them yourself at the shop opposite of the hotel"}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "Pauldundalkireland" , 
+
+"Date" : Dec 4, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : 5, 
+
+"SentimentRate" : 0.521, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Understated Perfection We decided to treat ourselves with a 4 star hotel in the big apple  it turned out to be a highlight of our trip.The very friendly staff were always courteous  helpful but not overbearing. For me a hotel is somewhere where you can feel comfortable, safe  you don't feel like asking for anything was a chore  this hotel excelled in these respects. The complimentary internet access, complimentary breakfast, papers  evening wine, cheeses  also coffee 24/7 all made the experience more satisfying. The central location whilst in a quite locality was another plus. Overall I would recommend the hotel for anyone willing to spend a little bit more for a near cast iron guarantee of getting your money's worth. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "dallastraveler29" , 
+
+"Date" : Dec 3, 2008, 
+
+"Overall" : 2, 
+
+"Value" : 2, 
+
+"Room" : 2, 
+
+"Location" : 2,
+
+"Cleanliness" : 3, 
+
+"Checkin/frontdesk" : 3, 
+
+"Service" : 4, 
+
+"BService" : 3, 
+
+"SentimentRate" : 0.139, 
+
+"Sentiment" : "Mixed",
+
+"Reviews" : "Disappointed While the staff was friendly and helpful, and the location terrific, the room left a lot to be desired. Dated/drab furniture, very noisy, no window (lower level floor), and the television (if that is important to you) may have been the smallest/oldest I've seen in a hotel room in awhile. If you stay, consider pushing for a higher level floor away from the stairwell (in order to avoid the noise and get a view - any view). "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "OntheR0ad08" , 
+
+"Date" : Dec 1, 2008, 
+
+"Overall" : 2, 
+
+"Value" : 2, 
+
+"Room" : 1, 
+
+"Location" : 4,
+
+"Cleanliness" : 3, 
+
+"Checkin/frontdesk" : 4, 
+
+"Service" : 4, 
+
+"BService" : -1, 
+
+"SentimentRate" : 0.120, 
+
+"Sentiment" : "Mixed",
+
+"Reviews" : "Great service, not so great room. We stayed at the Hotel Elysee after reading the great reviews it received. While the location and service were very good, the room was very disappointing with dated furniture. For the price, you can do better - even in New York. With updated room decor and furnishings, we would reconsider staying here again - until then, we will choose another property. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "vepvip" , 
+
+"Date" : Jan 2, 2009, 
+
+"Overall" : 4, 
+
+"Value" : -1, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : 4, 
+
+"SentimentRate" : 0.151, 
+
+"Sentiment" : "Mixed",
+
+"Reviews" : "almost 10 Very good hotel in good position. we stay in deluxe roomRoom are spacius and clean.Good also the bathroom.Staff is very friendly .breakfast is ok.in the afternoon small free breakfast in the second floor.Points no good: lift always busy!and some people from the breakfast are not so friendly as the other staff from the hotel "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "Gertrude73" , 
+
+"Date" : Dec 30, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 5, 
+
+"Room" : 4, 
+
+"Location" : 4,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" : 0.503, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Lovely ambience at Elysee I tried the Elysee after the Library Hotel, where I've often stayed , was less than efficient at handling the reservation. The Elysee is less hip but, for me, more convenient and pleasant in its own way. The reservationist asked my preferences and then seemed pleased to offer a room with 2 exposures. With a chandelier, the well-appointed room (comfortable bed!) was peacefully Old New York-y, though the tub was shallow and there was big noise, even 10 floors up, from some semi-continuous garbage operation down 54th. Adding to noise were rambunctious kids on my floor. The front desk offered to address the issue, but, since I was staying only 2 nights, we just made a joke of it. Breakfast and the evening wine offerings were satisfying, in a comfy atmosphere. The staff were unfailingly polite and helpful; the hotel supplied an umbrella; and when I traipsed in from my wet wanderings, the Elysee truly felt like a refuge. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "musedir" , 
+
+"Date" : Dec 30, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 4, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 4, 
+
+"Checkin/frontdesk" : 4, 
+
+"Service" : 4, 
+
+"BService" : 4, 
+
+"SentimentRate" : 0.732, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : " A Comfortable Hotel in New York As a frequent guest over the past ten years, The Elysee is a very conveniently located hotel for both business and pleasure. The amenities are limited but the ones offered are quite nice. The rooms are simple but large and comfortable. Nice upgrade with the new flat screen TVs. The one elevator can at times be a challenge, but in the end, that is not a problem. The staff are very accommodating and the hotel is maintained in a clean and attractive manner. The Monkey Bar was closed, which was a bit of a disapointment, but Bill's across the street is always a fun place for a nightcap. Highly recommend this hotel."}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "momo58California" , 
+
+"Date" : Dec 29, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 4, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : -1, 
+
+"BService" : 5, 
+
+"SentimentRate" : 0.865, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Love the Elysee' This stay was our 4th and as the other three stays we enjoyed our stay immensely! From the valet to the front desk staff we were accorded the best and most friendly service you would expect from a wonderful boutique hotel such as this one. Right in the heart of Manhatten, everything was just perfect. Looking for ward to our next visit next spring.Merci Beaucoup!Maureen and Ray Russell "}])
+

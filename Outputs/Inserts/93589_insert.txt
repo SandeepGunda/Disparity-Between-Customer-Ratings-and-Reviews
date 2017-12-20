@@ -1,0 +1,391 @@
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "Doctor01" , 
+
+"Date" : Dec 30, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.509, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Great Hotel Just got back from a two night stay in NYC. My wife and I brought our 18 yr old exchange student from France and our 19 yr old daughter and booked two rooms at the Michelangelo Dec 27 and 28 2008. I booked on the web site and paid 295 dollars a night for large rooms with King beds. The location was fabulous. Right next to Rockerfeller Center and Times Square but the rooms were incredibly Quiet! Nice bathrooms, comfortable beds, complimentary continental breakfast, friendly, courteous staff. We would definitely stay at the Michelangelo again. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "JimBobTraveler" , 
+
+"Date" : Dec 28, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 4, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.659, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Now our favorite in NYC The size of the room, the cleanliness and freshness of the entire hotel greatly exceeded expectations. We've paid far more gotten far less in NYC in our many trips there. The continental breakfast featured European-quality pastries and fabulous Italian coffee, far superior to the nearby Starbucks, and it was all included in the price of the room. Concierge James put us onto a neighborhood Italian restaurant, Vice Versa, where we had one of the best meals ever in NYC. We will be back to both! "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "apalmero" , 
+
+"Date" : Dec 20, 2008, 
+
+"Overall" : 1, 
+
+"Value" : -1, 
+
+"Room" : -1, 
+
+"Location" : -1,
+
+"Cleanliness" : -1, 
+
+"Checkin/frontdesk" : -1, 
+
+"Service" : -1, 
+
+"BService" :-1, 
+
+"SentimentRate" : -0.600, 
+
+"Sentiment" : "negative",
+
+"Reviews" : "stay away from restaurant how on earth did restaurant insieme get one star from Michelin? soulless food and a waitress who dared to bring warm white wine to the table of a restaurant where one ends up with a 100$ per person bill. Stay away from it. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "Aussie-Marg" , 
+
+"Date" : Dec 2, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 4, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.694, 
+
+"Sentiment" : "positive",
+
+"Reviews" : "Loved the Michelangelo Beautiful hotel, we had a lovely junior suite - very spacious and luxurious. Great position, close to Times Square and the Theatre District. Good value for money. Great service too. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "california4477" , 
+
+"Date" : Dec 1, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 4, 
+
+"Room" : -1, 
+
+"Location" : -1,
+
+"Cleanliness" : -1, 
+
+"Checkin/frontdesk" : -1, 
+
+"Service" : -1, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.476, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "50th Wedding Anniversary Based on online reviews, I booked the Michelangelo for a 50th wedding anniversary getaway for my parents. They appreciate high quality accommodations, and the Michelangelo lived up to expectations. They raved about the hotel: the room, the lobby, the service, and the location. (Additionally, I think the front desk may have generously upgraded them from a deluxe room to a suite.)Bargain-hunting tip: I found that hotels.com seemed to consistently offer the best rates for this hotel. I also found that it pays to check this website a few times a week for two weeks, since the rates being offered seemed to fluctuate considerably. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "BellaBella08" , 
+
+"Date" : Nov 25, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.614, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Loved the Michelangelo!! 11/25/08 Just returned from a weekend at the Michelangelo. It is as beautiful and elegant in person as it is in the pictures. Great location to everything...within walking distance of Radio City Music Hall and Rockefeller Center.  Service was great right from the check-in. Doorman was always available and ready/willing to call a cab. (Although we were told by a private car company that the doormen have a deal worked out with the cab drivers)......the Concierge was very knowledgeable and quickly made dinner reservations for us.  The room was beautiful and they were kind enough to upgrade our room due to our special occasion. The rooms were beautifully decorated and had wonderful comforts such as a down duvet, thick bath towels and plush bathrobes. There was even a TV in the bathroom vanity area!!! And the bed turn-down in the evening with chocolates was another pampering touch!! There was a complimentary continental breakfast off the lobby area with coffee, biscottis and croissants. And there was complimentary coffee/expresso daily along with a daily paper delivered to your room. I could go on and on....It definitely meets the 4 star rating that it was given, including the price. We lucked out and obtained a wonderful price online.....otherwise it would have been outside our budget. But it would be a wonderful splurge!!! Would definitely return....depending on the cost. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "K8TF" , 
+
+"Date" : Nov 24, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 4, 
+
+"Service" : 5, 
+
+"BService" :3, 
+
+"SentimentRate" : 0.510, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Absolutely wonderful! The Michaelangelo is in a great location close to Rockefeller Center, 5th Avenue and Times Square. We booked our room through the iPrefer program (which is free!) and when we checked in, we were upgraded to a junior suite. I don't know if this was become we are iPrefer members, but this is the 2nd time it has happened. There was a box of Godiva chocolate waiting for us when we got back to the room later that evening.The room was immaculate and the biggest hotel room I've been in NYC. My ONLY complaint is that there is not a separate shower, and the tub is very deep, so it's a little tricky to get in and out of it.There is free coffee, latte and cappucino in the lobby in the morning, along with biscotti and croissants.We will definitely stay at The Michaelangelo our next time in NYC. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "slrdds" , 
+
+"Date" : Nov 24, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.540, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "exactly what i wanted I chose this hotel based on reviews like this  I couldn't have been happier. They held our bags for us while we went to our show  when we returned to check in we were upgraded to a junior suite. The room was lovely, large,  clean. The staff was friendly, the lobby was beautiful,  the coffee was hot. The location is great  the hotel itself really rounded out a great NY experience! "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "Doctor01" , 
+
+"Date" : Nov 19, 2008, 
+
+"Overall" : -1, 
+
+"Value" : -1, 
+
+"Room" : -1, 
+
+"Location" : -1,
+
+"Cleanliness" : -1, 
+
+"Checkin/frontdesk" : -1, 
+
+"Service" : -1, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.422, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Great Location  I recently stayed at the Michelangelo Hotel for 3 nights. Upon a late arrival, I was given an upgrade (without asking for one), The room was beautiful, spacious, and very clean. The bathroom was large and roomy with a huge bathtub and soft, large towels. The only drawback was no view from the windows in this particular room, but it was quiet and very clean which was a plus to me. The hallways are lovely. The staff is not bothersome, but very helpful when you need them. The elevators are quick as well!! It is in a convenient location that can't be beat. I enjoyed my stay immensely and when I mentioned that all that lacked was a view, the staff said they would place me on the list for a room with a view the next time I stayed. I will definitely stay here again! "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "KJ22302" , 
+
+"Date" : Nov 18, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 4, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 4, 
+
+"Checkin/frontdesk" : 4, 
+
+"Service" : 4, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.416, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Great weekend stay My boyfriend and I recently stayed at The Michelangelo at 51st between 6th and 7th Avenues in Manhattan for 3 nights. We've been to New York a number of times and we've stayed at different hotels each time. This is the first hotel I think we'll be going back to. The hotel itself isn't the height of luxury, and staff don't fall all over themselves for you. But if you don't need that, then this is a great place. It doesn't hurt that our room was upgraded for our stay. We found ourselves in a really big, comfortable and quiet room. The room was a little musty when we came in, but we turned the air on and that took care of it. Again, the room wasn't the height of luxury, but it was very nice - a big comfy bed, a well-stocked mini bar, a huge closet and a big bathtub. The location is hard to beat - our weekend events included a Broadway show and a recital at Carnegie Hall - both a short walk away. No problems with coming back to an unmade room. One thing we loved (and this is going to sound strange) - the elevators. We've been to many hotels where you end up waiting a surprisingly long time for an elevator (and when one finally arrives, it's already full). Not at all an issue here. Our last night, we asked if the hotel had any hairspray they could send up, and were really pleased with the basket of various bathroom amenities we received. It was a nice end to a really nice stay. We did encounter an overcharge upon checking out (we were charged for something from the minibar that we didn't take), but the hotel immediately reimbursed us for the charge. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "BCMck" , 
+
+"Date" : Nov 17, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 4, 
+
+"Room" : 4, 
+
+"Location" : 4,
+
+"Cleanliness" : 4, 
+
+"Checkin/frontdesk" : 4, 
+
+"Service" : 4, 
+
+"BService" : 4, 
+
+"SentimentRate" : 0.518, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Right on Times Square We stayed at the Michelangelo for the second half of our NY stay in October/Nov 2008. The hotel is just around the corner from Times Square and only a block from the starting points of the NY Hop On/Hop Off bus tours which are a great way to see the city. The rooms by NY standards are quite large with very comfortable king beds. The staff were friendly enough, although we didnt really have to deal with them much as we spent some much time out of the hotel. Breakfast is complimentary crossaints and biscotti, with a variety of coffees - however juice is charged at $5US a glas (go figure). Overall, the hotel is clean, spacious and very convenient to all NY has to offer, we would definitely recommend it to anyone looking for a good base in NY. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "ute_fan" , 
+
+"Date" : Oct 17, 2008 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.468, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Great hotel We recently stayed at The Michelangelo following a cruise which departed from New York City. After reading several reviews talking about small, expensive hotel rooms in New York City, we were delighted to find this hotel.We had originally booked another hotel near the financial district, but decided it would make more sense to stay near Times Square. About two weeks before our sailing date, we were able to find what we felt was a great price for this hotel, compared with prices on other hotels in the area. We booked on the hotel's website, and then contacted them via phone to ask some questions about luggage storage since we knew we'd be arriving prior to the stated check-in time, and would need to leave our luggage after we checked out. They were very courteous, and told us that they had a storage room for luggage and that the doorman could handle it for us.When we arrived at the hotel after leaving the pier, we checked our luggage with the doorman. He told us they would deliver it to our room once it was ready, and suggested that we pre-register so that it would be waiting for us when we returned from sight-seeing. To our delight, our room was ready (this was about 10:30 AM), and we were given our keys. We went to our room and our luggage was delivered about five minutes later. Throughout our one-night stay, we continued to receive excellent service, and the staff was very willing to answer our many questions, as we were first-time travelers to New York.Our room was much larger than I had expected. The king-size bed was extremely comfortable, the room was very clean, the linens in the bathroom were wonderful, and the bathroom itself was quite large. We were extremely satisfied with our stay, and would definitely put this hotel near the top of our list should we find ourselves in New York in the future. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93589, 
+
+"Author" : "fpk1005" , 
+
+"Date" : Oct 6, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 4, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.626, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "elegant but not overdone My husband and I just got back from an overnight stay in NY at the Michelangelo Hotel. It was very european in style and in service. The hotel is elegant but not overdone. The staff was very kind and helpful. The room was large and very clean as was the bathroom. The hotel has all amenities of a 4 star hotel and the location is quite convenient to the theatre district. If you want to know where to eat..the concierge will tell you many good places. We cannot wait to go back again. "}])
+
+

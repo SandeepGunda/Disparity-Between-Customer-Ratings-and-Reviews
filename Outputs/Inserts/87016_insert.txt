@@ -1,0 +1,219 @@
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "stace120" , 
+"Date" : new Date("2009-01-08"), 
+"Overall" : 3, 
+"Value" : 3, 
+"Room" : 3, 
+"Location" : 5,
+"Cleanliness" : 2, 
+"Checkin/frontdesk" : 5, 
+"Service" : 5, 
+"BService" :2, 
+"SentimentRate" :0.176, 
+"Sentiment" : "mixed" ,
+"Reviews":"Perfect for those new to Hawaii I have stayed at this hotel a total of 32 nights in the last year. I will say on the plus side that this is a great hotel for those new to Hawaii or those looking for a great place to stay without having to see the rest of Oahu. For those Gold and Diamond Hilton member beware. You can't get a room upgrade unless you pay about $40 extra a night. And an upgrade isn't really an upgrade. It just means you may be on the right side of the building to see fire works.. I was on the side that had to hear the noise from the from paid celebrations all night long. Not only couldn't I be moved without paying (as a Diamond member); when I tried to transfer to te Embassy Suites they threatened to fine me $ for leaving early. This was not satisfactory. I think if you are coming to Hawaii for the first time this is a good place. If you are a frequent visitor for business try the Embassy Suites. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "mcguires54" , 
+"Date" : new Date("2009-01-06"), 
+"Overall" : 4, 
+"Value" : 2, 
+"Room" : 4, 
+"Location" : 4,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 2, 
+"Service" : 4, 
+"BService" :5, 
+"SentimentRate" :0.007, 
+"Sentiment" : "mixed" ,
+"Reviews":"Nice but bring plenty of money Beautiful place. Plenty of places to eat and shop on grounds and very nice rooms. We stayed in Tapa tower and were very happy with the rooms. The Gym is great as is the spa. The beach is nice but very crowded. They charge you for everything here!!! Want to use the gym $12.00. Want to use the shower at the gym? $18.00. Want to use a chair on the beach or a lounge? $25.00. Want to use a boogie board? $20.00. Want to use a kayak or a tricycle or pedal boat on the lagoon? $25.0 - $50.00. The staff is rude at the rentals and they don't take names if you are waiting to use something. That leads to you having to wait right by the stand the whole time, or you lose your spot. Guests start fighting over the rentals. Run very poorly and the nickle and diming is uncalled for as the place is very expensive.The restauarants and shops are very pricey. A soda is more than $5.00Do yourself a favor. Never eat breakfast on grounds. Very expensive. Walk out across the street. There is a 24 hour diner with excellent breakfasts that are very cheap. Cheaper than on the mainland.All in all a very nice place, but they need to be a bit kinder to the guests when it comes to charging for everything. The staff said everyone complains about it, and that they also agreed it is ridiculous."}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "mcguires54" , 
+"Date" : new Date("2009-01-06"), 
+"Overall" : 4, 
+"Value" : 2, 
+"Room" : 4, 
+"Location" : 4,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 2, 
+"Service" : 4, 
+"BService" :5, 
+"SentimentRate" :0.007, 
+"Sentiment" : "mixed" ,
+"Reviews":"Nice but bring plenty of money Beautiful place. Plenty of places to eat and shop on grounds and very nice rooms. We stayed in Tapa tower and were very happy with the rooms. The Gym is great as is the spa. The beach is nice but very crowded. They charge you for everything here!!! Want to use the gym $12.00. Want to use the shower at the gym? $18.00. Want to use a chair on the beach or a lounge? $25.00. Want to use a boogie board? $20.00. Want to use a kayak or a tricycle or pedal boat on the lagoon? $25.0 - $50.00. The staff is rude at the rentals and they don't take names if you are waiting to use something. That leads to you having to wait right by the stand the whole time, or you lose your spot. Guests start fighting over the rentals. Run very poorly and the nickle and diming is uncalled for as the place is very expensive.The restauarants and shops are very pricey. A soda is more than $5.00Do yourself a favor. Never eat breakfast on grounds. Very expensive. Walk out across the street. There is a 24 hour diner with excellent breakfasts that are very cheap. Cheaper than on the mainland.All in all a very nice place, but they need to be a bit kinder to the guests when it comes to charging for everything. The staff said everyone complains about it, and that they also agreed it is ridiculous. "}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "king1california" , 
+"Date" : new Date("2009-01-05"), 
+"Overall" : 1, 
+"Value" : 1, 
+"Room" : 3, 
+"Location" : 3,
+"Cleanliness" : 3, 
+"Checkin/frontdesk" : 3, 
+"Service" : 3, 
+"BService" :-1, 
+"SentimentRate" :-0.052, 
+"Sentiment" : "negative" ,
+"Reviews":"hated this hotel The conference I attended was terrific. However, the outrageous unnecessary expenses make this a poor hotel choice in my opinion. Internet usage, for example, costs $16.00 per day, and you have no choice!!! Using the fitness center costs $13.00 per day. This is AFTER you have spent a great deal for each room. 3 minutes away you can stay at the Hawaiian Prince which has an ocean view for each room, is also beautiful, and has a more mellow and helpful atmosphere. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "susie6505" , 
+"Date" : new Date("2009-01-05"), 
+"Overall" : 4, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" : 5, 
+"BService" :-1, 
+"SentimentRate" :0.000, 
+"Sentiment" : "neutral" ,
+"Reviews":"Great Hotel Front part of room"}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "Rndthewrld" , 
+"Date" : new Date("2009-01-04"), 
+"Overall" : 3, 
+"Value" : 3, 
+"Room" : 4, 
+"Location" : 2,
+"Cleanliness" : 3, 
+"Checkin/frontdesk" : 1, 
+"Service" : 3, 
+"BService" :3, 
+"SentimentRate" :0.029, 
+"Sentiment" : "mixed" ,
+"Reviews":"Crazy busy place. If you want lots of action, nightlife and shopping this is a great spot. Waikiki isn't a good Hawaii beach. It is dirty, very crowded and the water is cloudy. If you want excellent shopping and chain restaurants than this is the place. Besides that I'd say go to the Hilton on the Big Island for pristine beaches, great snorkeling, Hawaiian culture and endless outdoor activities"}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "mtrayandrhonda" , 
+"Date" : new Date("2008-12-31"), 
+"Overall" : 2, 
+"Value" : 2, 
+"Room" : 2, 
+"Location" : 1,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 2, 
+"Service" : 1, 
+"BService" :1, 
+"SentimentRate" :0.232, 
+"Sentiment" : "positive" ,
+"Reviews":"diasppointed Hilton I am a Hilton Honors and Hiltion Grand Vacation Club ownerHilton prides itself on tremendous hospitality. Every other Hilton hotel I have stayed at gave great service and was most accommodating. Internet always FREE.We received no customer service or help to resolve issues at Hilton Hawaiian Village - Kalia Tower.Long lines/ delays at check inNo in-room coffeemakersHilton Honors and Hilton Grand Vacation Club Owners received no special treatment or perks.Reservation was confirmed for an ocean view room in the Tapa Tower. Was in the Kalia Tower - no view except of parking lot.No complimentary internet access - paid $68 for 5 days internet use - power outage for 17 hours unable to use internet during power outage and internet acccess cutoff early (received only 3-1/2 days internet use) - a total rip off :(Power outage was for 17 hours other towers provided flashlights in their rooms - no flashlights in our tower.Kalia tower was the last to receive power - we called to report we were still without power when all other towers and shops had power restored 2-1/2 hours earlier. Power came back on after we called within 10 minutes.Although, it was nice water hot/cold  toilets worked and one elevator worked in Kalia tower"}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "whobeanie" , 
+"Date" : new Date("2008-12-30"), 
+"Overall" : 5, 
+"Value" : 4, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 4, 
+"Service" : 4, 
+"BService" :5, 
+"SentimentRate" :0.000, 
+"Sentiment" : "neutral" ,
+"Reviews":"Everything you need in the heart of Waikiki Rainbow tower corner suite "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "becki26" , 
+"Date" : new Date("2008-12-29"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" : 4,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 4, 
+"Service" : 4, 
+"BService" :4, 
+"SentimentRate" :0.980, 
+"Sentiment" : "positive" ,
+"Reviews":"Best Hotel in Waikiki!       View of Diamond Head from our room "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "missiechick" , 
+"Date" : new Date("2008-12-29"), 
+"Overall" : 3, 
+"Value" : 4, 
+"Room" : 2, 
+"Location" : 2,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 3, 
+"Service" : 3, 
+"BService" :4, 
+"SentimentRate" :0.360, 
+"Sentiment" : "positive" ,
+"Reviews":"Just ok I came here with a friend since she had some Hilton Points to use. How can anyone complain about Hawaii? The stay was OK. we were in what they considered the nice tower but we looked at a garage roof...it was a strain to see the beach. I don't prefer this environment because tourists don't want to leave! there is so much more to see and experience here. Too many of the same shops, and those cookies they leave you aren't so hot. But besides that, the location is a bit out of the way and you sit forever in traffic to get to it. walking isn't convienient to get down into the heart of Waikiki. The beach however, is great in front of the Hilton, hardly any coral, although each time I go back to the beach it seems to change. no matter where I stay I end up walking down the beach until I reach the strip by the Hilton. It's just not as crowded. But staying here, probably wouldn't do it again unless I got an amazing deal. I hardly spend time in a room anyhow. There is just so much to see and do. 8th time there will be a charm, and my goodness I still haven't done all there is to do."}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "mistletoe" , 
+"Date" : new Date("2008-12-27"), 
+"Overall" : 3, 
+"Value" : 3, 
+"Room" : 4, 
+"Location" : 3,
+"Cleanliness" : 3, 
+"Checkin/frontdesk" : 3, 
+"Service" : 4, 
+"BService" :-1, 
+"SentimentRate" :0.000, 
+"Sentiment" : "neutral" ,
+"Reviews":"Okay, but not up to expectations.       Entrance to Hawaiian Village "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "LuSadler" , 
+"Date" : new Date("2008-12-27"), 
+"Overall" : 3, 
+"Value" : 2, 
+"Room" : 3, 
+"Location" : 1,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 1, 
+"Service" : 3, 
+"BService" :-1, 
+"SentimentRate" :0.213, 
+"Sentiment" : "mixed" ,
+"Reviews":"Stuck up! We were so looking forward to going there! We'd travelled to New York and Las Vegas and Hawaii was our third and final destination on our honeymoon. Our journey leaving Las Vegas came to a halt when the airline we were due to travel on went bust! So after a long wait and long flight I was very excited to be arriving at our hotel! When we got there the guy behind the reception was VERY rude and patronising to us. Ok, we did not look our best as we'd been travelling for ages but he was so rude to us. Only when he saw that we had booked one of the nicest suites for our stay, he then couldn't do enough for us.Once we reached our room I was very disappointed. Although it was large-it was nothing special at all. The bed was uncomfortable and there was no great luxury to it. The rest of the hotel however was very nice with Flamingos and parrots and lovely restaurants! We finished our honeymoon by staying at the Wikiki Beach Hotel (which we had previously decided to book so we could access the other side of wikiki) I must say I loved it there and if I do ever go back to Hawaii- The Wikiki beach hotel will be my first choice as the Hilton was over priced for what it was. "}])
+
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87016, 
+"Author" : "sydmikery" , 
+"Date" : new Date("2008-12-21"), 
+"Overall" : 3, 
+"Value" : 2, 
+"Room" : 3, 
+"Location" : 2,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 3, 
+"Service" : 5, 
+"BService" :4, 
+"SentimentRate" :0.655, 
+"Sentiment" : "mixed" ,
+"Reviews":"Nice, but busy I earned a trip to this resort through work. My husband and I were very excited as neither of us had been to Hawaii and we decided to take our 3 kids with us. Once in a lifetime trip, right? Well, the staff was very friendly and the facilities and rooms were nice. Nothing special. What caught me the most was how busy it was and the price. Thank goodness for the 24 hour coffee shop around the corner that offered reasonable meals. I would not stay here again, but since I did not pay for it, what the heck! "}])

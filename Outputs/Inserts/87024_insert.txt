@@ -1,0 +1,217 @@
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "KokoSadie" , 
+"Date" : new Date("2008-11-11"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 4, 
+"Location" : 4,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :-1, 
+"SentimentRate" : 0.640, 
+"Sentiment" : "positive" ,
+"Reviews" :"Good Value at the I'lima       Cloudy morning along the Ala Wai Canal - great for walking and jogging! "}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "H-B_Family" , 
+"Date" : new Date("2008-10-11"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 4, 
+"Location" : 4,
+"Cleanliness" : 3, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :3, 
+"SentimentRate" : 0.000, 
+"Sentiment" : "neutral" ,
+"Reviews" :"Older but Nice Bed  Balcony "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "kittycat44" , 
+"Date" : new Date("2008-10-04"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :-1, 
+"SentimentRate" : 0.433, 
+"Sentiment" : "positive" ,
+"Reviews" :"Loved the Ilima! I stayed at the Ilima for 8 nights in a studio superior room with my husband because of all of the positive reviews we read. We stayed in room 901, which had a beautiful view of the mountains, the Ala Wai Canal and the Ala Wai golf course. This hotel is a great value for $115/night with the 5th night free! I'd highly recommend this room because of the view. Plus, it was very quiet- street noise was not a problem with the balcony door closed. The room was impeccably clean. Make sure you request a mountain view when making your reservation because some rooms only have views of the street and other buildings. Noise might be a problem on lower floors, but it wasn't an issue on the 9th floor. I was extremely surprised to read some other reviewers complain about rude staff because every staff member I encountered during my stay was very friendly and helpful! One staff member offered to lend me a beach umbrella for the week when I inquired about where to buy one. Another staff member suggested a great alternative to the nearby expensive supermarket and gave us detailed directions. The location (10-minute walk to Waikiki beach) was fantastic. The pool was very warm, but refreshing in the evenings when it was a bit cooler outside. The lobby is very pleasant and attractive. I highly recommend this hotel for budget conscious travelers who do not require room service, concierge services, etc. Save your money and stay at the Ilima! This is a hidden jewel! "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "Sophie040" , 
+"Date" : new Date("2008-09-30"), 
+"Overall" : 4, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" : 5,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 4, 
+"Service" :5, 
+"BService" :-1, 
+"SentimentRate" : 0.335, 
+"Sentiment" : "positive" ,
+"Reviews" :"Just what was needed The last two days of our Hawaiian holiday were spent here and we couldn't have chosen better. Having the car park was great, nearness to the shops and restaurants was a bonus, the rooms were large and comfortable and the staff were very friendly and helpful. Would always try and stay here, if I ever have the chance to go back "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "AnonVirginia" , 
+"Date" : new Date("2008-09-29"), 
+"Overall" : 4, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" : 4,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 4, 
+"Service" :4, 
+"BService" :4, 
+"SentimentRate" : 0.408, 
+"Sentiment" : "positive" ,
+"Reviews" :"Great for families I picked this hotel from reviews I read here, and they are spot on. The location is great, with a small grocery 3 blocks away so one can take advantage of the kitchen facilities. The room is spacious (much bigger than our company-paid room for the other half of our trip at twice the price). The firm beds took a little getting used to, but were fine. The extras like the chocolate-covered macadamia nuts for check-in and the shell leis at check-out were nice. When we arrived Friday morning during the sing-along, we were still able to check in, and although our room wasn't ready yet, we were still able to get towels from the desk and go to the beach. The free parking in the small garage was never a problem, although we did make it a point to be there by late afternoon and do our evenings on foot. The safe was big enough for the laptop. The only minor disappointment was that the pool was closed for repairs when we were there, but these things happen. I would go back again, and heartily recommend it to anyone with kids. If you want valet parking, spas, onsite gourmet meals, etc. go elsewhere. Check the hotel's website (and keep checking back) for great deals. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "LavaJava96" , 
+"Date" : new Date("2008-09-12"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :-1, 
+"SentimentRate" : 0.517, 
+"Sentiment" : "positive" ,
+"Reviews" :"Great hotel! We've been to Waikiki several times and stayed in a few different hotels, but this is one hotel that we would love to go back to.The hotel is located about two blocks from Waikiki beach, off of Kuhio Avenue, where there are tons of restaurants! Upon checking in, they gave us Hawaiian cookies. That was nice. Our studio room was nice, clean, and very spacious, especially for our family of 4, which included 2 young kids. We liked the free parking, and if you come back early enough, there wasn't a problem getting a spot. My husband had difficulty one night finding a spot and he simply parked on the street. The bathrooms were modern, the beds were comfy. They had coin operated washers and dryers, and sold detergent for a nominal fee. The rooms had kitchens with a full size fridge which was convenient. With all the restaurants surrounding us, we never cooked. The hotel offered beach towels and beach mats, which is a nice touch. They also gave us newspapers every day. Upon check out, we each received a shell lei.We got a great rate off of the website. I thought it was great value, a nice place, and an extremely convenient location. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "Mcgeesies" , 
+"Date" : new Date("2008-09-06"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 4,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :5, 
+"SentimentRate" : 0.334, 
+"Sentiment" : "positive" ,
+"Reviews" :"Very Pleasant Stay If you're looking for a boutique hotel or 5 stars with room service and a restaurant, keep looking. The Ilima is a nice spacious studio with everything that an independent traveler needs. The rooms are simple and clean with a generic d茅cor and firmly comfortable beds. With a fridge, microwave, stove, pots, pans, coffee maker and coffee the only thing you need is your own food. There's a coin operated laundry room on the property. The hotel staff seems to work hard to keep things in good order. There was a problem with an appliance in my room and it was fixed immediately. There is a small pool and dry sauna. Parking is free and I never had a problem finding a spot. All of the staff were cheerful, knowledgeable and professional and it made for a pleasant stay. Thanks Ilima. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "VolcanoMom" , 
+"Date" : new Date("2008-08-31"), 
+"Overall" : 4, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :-1, 
+"SentimentRate" : 0.380, 
+"Sentiment" : "positive" ,
+"Reviews" :"Happy to stay here We had a quick two-night stay at the Ilima to see Pearl Harbor and recover from the jet lag before continuing our trip. Friendly and knowledgeable staff, clean and comfortable room (we had 3 adults and 2 children in a 2 bedroom suite with kitchen) good location (a block from the bus to Pearl Harbor) with the International Marketplace, Waikiki Beach and several good restaurants close by. It was a pleasant start to our vacation. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "Jonno82" , 
+"Date" : new Date("2008-08-17"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :5, 
+"SentimentRate" : 1.686, 
+"Sentiment" : "positive" ,
+"Reviews" :"Value for money, highly recommended! View "}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "Bill5925" , 
+"Date" : new Date("2008-06-11"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" :4,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :4, 
+"SentimentRate" : 0.488, 
+"Sentiment" : "positive" ,
+"Reviews" :"A real deal! View from balcony - That's the "Pink Palace" Royal Hawaiian Hotel right of center."}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "MinneSurfSider" , 
+"Date" : new Date("2008-03-02"), 
+"Overall" : 4, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" :4,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :-1, 
+"SentimentRate" : 0.000, 
+"Sentiment" : "neutral" ,
+"Reviews" :"Great Waikiki value for families Pool"}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "ThisNThat" , 
+"Date" : new Date("2008-03-01"), 
+"Overall" : 2, 
+"Value" : 2, 
+"Room" : -1, 
+"Location" :-1,
+"Cleanliness" : -1, 
+"Checkin/frontdesk" : -1, 
+"Service" :-1, 
+"BService" :-1, 
+"SentimentRate" : -0.365, 
+"Sentiment" : "negative" ,
+"Reviews" :"Affordable but dumpy I'm kind of shocked to read all the great reviews of this hotel. It was an inexpensive hotel for the area yes, but grungy and worn. The bed was very uncomfortable. Maybe people are happy not to see bugs or whatnot, but nothing really great to relay about this place. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87024, 
+"Author" : "GlenFromSydney" , 
+"Date" : new Date("2008-02-13"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" :4,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :4, 
+"SentimentRate" : 0.590, 
+"Sentiment" : "positive" ,
+"Reviews" :"Great Value, clean and friendly staff. Stayed at the Ilima for three nights - one night in January and two nights in February. Our plabe arrived quite early - 7am and we arrived at the Ilima at about 8.30am after quite a long shuttle ride. Even though check-in time was 3pm the friendly staff at the desk made a room available and checked us in straight away. This was really appreciated after the flight from Sydney. The rooms are definitely above average in size with a small kitchen and a full size fridge. The room and bathroom were very clean and everything worked. We stayed in two different rooms, firstly on level 11 and then on level 5, both rooms were quiet. Another nice touch is that the reception area has some nice paintings.I'd recommend the Ilima to anyone who wants a hotel in a good location at a reasonable price especially if you plan to do some cooking whilst on holidays. "}])

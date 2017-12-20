@@ -1,0 +1,450 @@
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "SouthEastTX_8" , 
+
+"Date" : Oct 23, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.473, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : " Great Stay Second stay at this hotel - great location, clean, comfortable, staff was very friendly and helpful. After 5 trips to the French Quarter in the last year and a half, we have decided that this is the hotel we will stay at on all future trips. Within walking distance for all of the French Quarter, less than a block off Bourbon St. Good rates, great value for the quality and location."}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "Broms14" , 
+
+"Date" : Oct 9, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :4, 
+
+"SentimentRate" : 0.574, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Fabulous Hotel! Great Staff! Wonderful Location! Our recent stay was four days, three nights. We would go back in a second. The hotel was wonderful. Beautiful courtyard, fabulous staff, great location, great amenities. You could not ask for a better hotel! We will stay there again and again whenever we return to New Orleans! "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "mikem42194" , 
+
+"Date" : Oct 4, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 3, 
+
+"Room" : 3, 
+
+"Location" : 4,
+
+"Cleanliness" : 4, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.345, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "perfect spot We booked this stay in August wanting to experience a different culture...and boy did we. The hotel was very nice with cleanliness and welcoming crew all the way around. We stayed in room 520 which didn't have much of a view but we didn't really need one considering we were always on the go. We used the pool on a couple of occasions, usually just to rest and eat a muffuletta and have a cold beer. The mornings were nice downstairs with coffee, juice and either a danish or croisant and of course my morning paper. We were far enough from Bourbon street that we didn't here the noise but close enough to enjoy the excitement of all the fun things to experience. You can walk to everything if you enjoy walking and have good pair of sneakers. We always like to have a resteraunt in our hotel but was told that theirs was under construction, but it looked like it was just closed down. try this place you'll be happy..Mike and Mary Beth from Norwood,pa "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "BigBaldBaldie" , 
+
+"Date" : Sep 30, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.276, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : " Mediocre Experience I stayed at the St. Marie just about a year ago...The best thing it has going for it is the location. Even though it's a stone's throw from Bourbon Street, the noise wasn't really a factor. The room was okay, clean for the most part. Mold in the window sills and a partially clogged shower drain were low-lights. The hotel pool was not clean. The most striking and disturbing part of the experience was the front desk person who literally growled In or out! when guests approached the counter. I immediately told her out because I didn't want to be growled at. Professionalism and training was sorely lacking here. Overall, great location, good rates, okay room, but improvements are definitely needed."}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "RiverRidgeTraveler" , 
+
+"Date" : Sep 23, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.642, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "A jewel in the Quarter! My friend was getting married a downtown church. So my husband and I decided to make it a get a way weekend in our own area. We live in River Ridge a community a few miles from New Orleans. We choose the St. Marie because of its perfect location. But we love it because of its wonderful staff. They made us feel so special! They greeted us each time we came and went thru the lobby (frequently, because we could go back to the hotel so easily). But even the housekeeping staff was friendly and pleasant (this has not been my experience in other hotels).Now about specifics: our room was clean and well appointed (perhaps a bit dated in colors and design) but very nice and comfortable. The hotel has valet parking, which is important to us because of the parking difficulties in the French Quarter. The pool and beautiful patio was charming. We met our friends in the patio before going out the night before the wedding. Everyone said that we had found a jewel in the Quarter. Many of the rooms have balconies, ours did not but it was still lovely and the view from our windows was great. I have mentioned the staff, but I must say again how friendly and pleasant everyone was all of the time.We will stay there again, should we do a weekend in the Quarter and we will reccomend it to our friends who come to New Orleans. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "saltofjoy" , 
+
+"Date" : Sep 19, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 5, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 3, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 1.171, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Better than expected! The hotel was clean and the staff was very friendly! We weren't sure what to expect since hurricane Gustav had just came through, but hotel was great! Great location and the upgrade to the balcony room was great! Would definitely stay here again and will recommend it to friends. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "clogtoe" , 
+
+"Date" : Sep 8, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.454, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "We will always go back to the Hotel St Marie very clean bathroom "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "GregStLouis" , 
+
+"Date" : Sep 2, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 3, 
+
+"BService" :5, 
+
+"SentimentRate" : 0.076, 
+
+"Sentiment" : "Mixed",
+
+"Reviews" : "OK Experience We had an ok experience at Hotel St Marie. The hotel is in a good location if you want to see Bourbon Street every night. If you want to avoid Bourbon Street stay somewhere else. Even if you don't plan on hanging out on Bourbon Street, you'll have to cross the street everytime you go back to the hotel. The hotel staff was good and helpful. However, the rooms have paper thin walls and you can hear everything happening in the room next door...such as people coming back to their room late at night, door slamming, fights, and people getting sick in their bathrooms. If you're a partier and you dont' mind all of this, then this is the hotel for you. If you're a family or a romantic couple, stay somewhere else. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "lake4belle" , 
+
+"Date" : Aug 24, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 4, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 3, 
+
+"Checkin/frontdesk" : 4, 
+
+"Service" : 4, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.850, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Great Place to Stay Great location, nice staff, comfortable rooms, I'd stay there again and again and again! "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "raginasian238" , 
+
+"Date" : Aug 10, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.407, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "A steal I had a lovely experience here. The hotel was pretty, well-kept, and in a great location. Even if you're like me and want to steer clear of Bourbon Street (the next street), the hotel was within walking distance of many other low-key (i.e., less touristy/loud) bars, as well as the jazz clubs on Frenchmen St., Cafe du Monde, and the riverwalk/casino area downtown. My room was large and clean. All the basic amenities worked just fine (internet, iron, cable tv). The valet parking was free, and the valets were friendly/quick. There isn't much of a sign to direct you, though; it's the narrow driveway after the main entrance on the left. The woman at the front desk was knowledgeable. The bellman was quick to offer help for me and another guest who was checking in at the same time, although neither of us needed his assistance. For $60/night, this room was a steal. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "DiamondOneDecatur_GA" , 
+
+"Date" : Aug 7, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 5, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.592, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Great Location for Family Reunion The Stewart Family Union selected New Orleans to host its 43rd Family Reunion. We were pleased with the response from Valentino New Orleans Hotels, specifically the Hotel Saint Marie, which went out of its way to accommodate our reunion. A special thanks to a dedicated staff which accommodate our every needs at the Hotel Saint Marie and the Prince Conti Hotel. Many family members traveled from GA and FL and everyone is still talking about this year's experience. Thanks to a dedicate and professional staff. A special thanks to Karla Schaubhut, Group Sales Manager for working with me to host this year's most successful family reunion!!!"}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "LouisianaFireball" , 
+
+"Date" : Dec 25, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 2, 
+
+"Room" : 4, 
+
+"Location" : 2,
+
+"Cleanliness" : 3, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.372, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Great Location If your expecting a glamorous boutique hotel with lots of great amenities, search on, however, if you are looking for an average room, with a pool, and a location that is only 1 1/2 blocks from Bourbon, then you found your hotel. First the positives: the location is great. Located in the French Quarter on Toulouse, only a few blocks from Bourbon and other great attractions found in and around the Quarter. Although only a few blocks from Bourbon, the rooms are quite quiet in the evenings and mornings. Everything you'd need is within walking distance. Next, the price is right, for what your getting. The hotel has a pool and a wonderful little court yard. They also offer a continental breakfast, consisting of croussants, danishes, coffee and juice. Nothing fancy but it'll do if you just want a quick something before you start your day. Some of the negatives: it is a bit outdated in decor and could us a facelift. The rooms are musty smelling, but it is an older hotel; should you decide to stay here, bring a travel candle. Of course, with every hotel located on Bourbon, you can expect rowdy people coming back to their rooms at early in the morning and staying awake for about an hour or so, doing other activities...(wink). So, bring ear plugs! The restaurant and bar that are located in the hotel are now closed. For what reason, I'm not sure, but, they were locked up during our stay. Some extras worth mentioning: parking is $25.00 per night, but you can come and go as you please and valet was quick! Give 'em a few extras bucks and it's even quicker. There is internet access, small television, hairdryer, and coffee pot. There is no wet bar, room service, or jucuzzi tubs. All in all, a good stay. I may consider staying here again if I were traveling on a budget, however, I most likely will stay some where else on my next trip to New Orleans, as I like a little more updated decor with more quality amenities. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "andjwil" , 
+
+"Date" : Dec 11, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 4, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :-1, 
+
+"SentimentRate" : 0.448, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Comfortable Hotel in Quarter This is a nice comfortable hotel in the French Quarter. Very convenient for walking to many attractions in New Orleans. The valet parking has always been great. We have stayed at this hotel a handful of times in 2007 and 2008. We have gotten very attractive rates at times. We have always enjoyed our stay. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "kymb88" , 
+
+"Date" : Dec 1, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 4, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :3, 
+
+"SentimentRate" : 0.645, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Fantastic stay, loved it! I stayed at the St Marie a little over a year ago for four nights and decided to write a review after discovering this site. The hotel location is second to none, walking distance to everything you would want to see in the French Quarter. I checked in late, around 10pm, and the staff were wonderful, recommending places to eat and see.During my stay some renovations were happening and the main elevators were out of use for one day. Instead of making guests climb up and down the stairs they let us use the service elevator which was a nice touch especially as I noticed there were several older people staying there.My room was much nicer than expected. I was travelling alone and booked through the website for a little over $100 a night. Well worth it. The room was spotless, maid service great and I barely heard any noise.I would highly recommend this hotel to anyone thinking of staying in the French Quarter while visiting New Orleans! "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93051, 
+
+"Author" : "GodAnhaga" , 
+
+"Date" : Nov 24, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" :3, 
+
+"SentimentRate" : 0.020, 
+
+"Sentiment" : "Mixed",
+
+"Reviews" : " Lovely Hotel! This is a lovely hotel inhabiting some very old buildings in the French Quarter. We had a room with a nice wide balcony overlooking Toulouse - it was great! The staff was very professional, friendly and helpful, and the room, with nice furnishings that looked like New Orleans, was kept up well. The only drawback was the noise from Bourbon Street at night - but that's a common problem in the Quarter. I suspect if we'd had a room further back in the hotel, noise wouldn't have been such a problem - but we wouldn't have had the great balcony and view! Lovely stay - will stay there again."}])
+

@@ -1,0 +1,329 @@
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "lethargo" , 
+
+"Date" : Jan 7, 2009, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" :0.446 , 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Nice hotel - good location! We stayed for the USM vs Troy football game at the New Orleans Dome. Hotel staff very nice, hotel very clean. Room was spacious and comfortable. We had a room amidst 100's of band member college kids and never heard a peep in the hallways! The hotel is in good walking distance to the casino and French Quarter. Self parking was easy and reasonably priced. If in the area we'd stay here again. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "lovet-travel11" , 
+
+"Date" : Dec 4, 2008, 
+
+"Overall" : 2, 
+
+"Value" : 2, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 4, 
+
+"Checkin/frontdesk" : 3, 
+
+"Service" : 4, 
+
+"BService" : 4, 
+
+"SentimentRate" :-0.305 , 
+
+"Sentiment" : "Negative",
+
+"Reviews" : "very overpiced My only reason to stay in this hotel is to attend a convention that is held in the hotel. The hotel has good facilities. But it is very overpriced and it tries to charge fees for a lot of things: in room Internet access $14.95/night, a small fridge in room $10/night. Fitness club needs a fee. Swimming pool is outdoor but free of charge.There are many many hotel within 0.5 mile distance from this hotel. Others are better deal. Try to avoid this one. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "defresh" , 
+
+"Date" : Dec 3, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" :0.314 , 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Nice Stay! I didn't pay much for the room so I can't be to picky. Overall it was nice. I asked for an upper level room with a view and my wish was easily granted. The room was clean with a nice LCD. The beds were a bit soft for me but just a preference. Not much to complain about. It was a great location but with that comes $30 self parking. It does give the hotel guest in/out privledges and that was helpful. I don't think it is cheaper to park anywhere else. I would like to know if it is. Looking forward to going back. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "GraftonTraveler24" , 
+
+"Date" : Nov 19, 2008, 
+
+"Overall" : 3, 
+
+"Value" : 3, 
+
+"Room" : 4, 
+
+"Location" : 4,
+
+"Cleanliness" : 3, 
+
+"Checkin/frontdesk" : 3, 
+
+"Service" : 3, 
+
+"BService" : 3, 
+
+"SentimentRate" :0.000 , 
+
+"Sentiment" : "Neutral",
+
+"Reviews" : "Average Cruise ship passing our window "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "eaikens" , 
+
+"Date" : Nov 3, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 4, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" :0.374 , 
+
+"Sentiment" : "Positive",
+
+"Reviews" : " Nice for us Contrary to many other recent reviews of the Hilton Riverside, I thought the staff, rooms, and amenities were beyond satisfactory. I received a good deal, yet would have been just as pleased with my stay had I paid full price. Many staff members were Eastern European, but this did not create any language problems. Good location, not a bad walk from the French Quarter for a reasonably fit person (maybe 10-15 minutes). One specific complaint I can think of is the high fee for the self-park in the attached parking deck. I knew it would be high and was not surprised, but still frustrating that it is only 5 or 6 dollars less than valet (and significantly higher than other decks in the area). Reading the hotel's reviews, I was a bit uneasy going in, but there is nothing to be worried about here."}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "lovemyboys2" , 
+
+"Date" : Sep 28, 2008, 
+
+"Overall" : 1, 
+
+"Value" : 2, 
+
+"Room" : 2, 
+
+"Location" : 4,
+
+"Cleanliness" : 2, 
+
+"Checkin/frontdesk" : 3, 
+
+"Service" : -1, 
+
+"BService" : -1, 
+
+"SentimentRate" :0.070 , 
+
+"Sentiment" : "Mixed",
+
+"Reviews" : "Hilton needs help Goodness where to start...first and foremost the worst part of the room was the walls were paper thin. I could hear the entire conversation next door. Also, we could not sleep because as everyone on the floor came in for the night their door would slam. There was mildew on the grout in the bathroom..yuck! The room was outdated. The only positve things are location and the beds were very comfortable. 4 blks from French Quarter and French Market. Sits right at the Riverwalk and has a trolly stop right at the hotel. We ate at Mother's.after some reviews recommended it...was very disappointed..it was not good. We also ate at Landry's. OMG..it was delicious. From the salad to the tuna..yum! All in all we would not stay there again. There are hotels closer to the things that are more reasonable. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "lsuchipman" , 
+
+"Date" : Sep 21, 2008, 
+
+"Overall" : 1, 
+
+"Value" : 1, 
+
+"Room" : 1, 
+
+"Location" : 4,
+
+"Cleanliness" : 2, 
+
+"Checkin/frontdesk" : 2, 
+
+"Service" : 2, 
+
+"BService" : 3, 
+
+"SentimentRate" :0.011 , 
+
+"Sentiment" : "Mixed",
+
+"Reviews" : " No Good I would like to start by saying this was the worst experience in a hotel I have ever spent. Harrahs casino set me up at the Hilton New Orleans Riverside for 2 nights, and all I can say is NO SLEEP!!! You can hear everything going on in the rooms next door and in the halls.Good thing we did not have children in the room because the things we heard was xxx-rated, noisy, plus cursing, laughing, tv,music, etc. I called front desk to make a complaint and they said they were very sorry and they would send security up there. After about 30 minutes the noise became so loud I called back the front desk to see if they were going to do something and they said they told them to keep it down. But that did not happen. They asked if we wanted to transfer rooms so I said Yes, But then they tell me they only have 2 double beds instead of king that the wife and I had before. So at 3:45a.m. in the morning I check out of the room after being so tired from not getting no sleep for two days. The wife and I walked to the parking lot where we park the truck.(NOT THE SAFEST AT THAT TIME OF NIGHT) Then drove home with no sleep. The only good thing about this is that Harrahs paid the room. I am so glad it only cost me sleep and not money too."}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "cbgaines" , 
+
+"Date" : Sep 19, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" :0.316 , 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Super elegant property We drove a rental car from airport. The hotel was easy to find at the foot of Poydras and Canal Streets. Valet parking only a few bucks more than self-park, so we thought it was worth it. Entering the lobby, you have to go up to second floor to check in. This was the one draw back to the experience. There are several agents at registration, but no line control. Guests were standing around trying to figure out who is next, if/where there is a line. The plan must be that there are enough agents so you don't have to wait. And even though another agent came out to man a position, we still waited and wondered with the other guests.A nice touch after check in was giving us bottled water. I thought it was even better getting chocolate chip cookies at Doubletree.We are Hilton Honors members, so we got upgraded to Executive Level. We had requested King sized bed, but got two Queen instead. A bit of a let down, but maybe that's another reason they gave us the Executive Level. That gives you access to free continental breakfast in the morning and cocktails (no-host bar) and appetizers in the evening.Room was clean, easy to find amenities (iron, hair dryer, etc.), and great views. The hotel was very busy with conventions, but we were there on our own and found it easy to walk to French Quarter for dining, shopping, and entertainment. When we needed to drive, valet generally had car waiting for us when we called before leaving our room. But be sure you actually get the valet desk. Once when we called, the phone was busy so it automatically went to another garage desk, and they never gave the message to the valet. Be sure you're talking to the valet desk.Housekeeping ladies couldn't have been more accommodating with our towel requests. Be sure to tip your housekeeping. Always.We will stay here again on our next trip to The Big Easy. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "VenueQuest" , 
+
+"Date" : Aug 18, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" :0.129 , 
+
+"Sentiment" : "Mixed",
+
+"Reviews" : "Don't waste your money I stayed at this hotel for a convention I was attending. My first impression of the hotel was that it was very average, just a great big box with no personality and character, which is unusual for a city like New Orleans where the vibe of the city is so permeating that the spirit and charm of the city can be found almost anywhere. The hotel is located next to the railroad tracks and very close to the river. The location is okay, but a little off the beaten path, it is only convenient to Harrah's Casino next door, and the riverfront mall. The front desk personnel were cold, slow and unwelcoming and I did not feel like anyone in the hotel went out of their way to ensure good service, unlike my recent stay at the Loews New Orleans in February, where the entire staff was very gracious and welcoming. In addition, during my stay at the Hilton, I had two expensive text books that were somehow removed from my room (I believe that housekeeping may have accidentally thrown them away, but no one will admit to it) and the hotel basically gave me the run around for over a week and then their security firm called to tell me that unless I can prove that the books were in there, they will not be responsible for them and that I should have secured them better if they were important. An associate that was with me also had her Coach purse stolen from her chair while she was eating dinner at the hotel. There are too many great hotel options in New Orleans to waste time and money on such an average hotel with below average staff. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "aktx" , 
+
+"Date" : Aug 11, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" :-0.079 , 
+
+"Sentiment" : "Negative",
+
+"Reviews" : "Not so great I was quite disappointed with this hotel. I was promised a non-smoking room, but upon arrival all they had left were smoking rooms. What really irked me is they didn't tell me this until I entered the room and realized it was smoking room. I called down to the front desk and was told that was all they had left. Grrr.The furnishings were worn, the room was a bit dirty and it was very dark, even with the drapes wide open. The room did have a fantastic view of the river and the bridge.This hotel nickel and dimes you for everything, so be careful.The hotel is HUUUUGE and it takes forever to get to your room. It's located a bit too far from everything too. I wouldn't stay here again. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93340, 
+
+"Author" : "Chrissydb" , 
+
+"Date" : Aug 7, 2008, 
+
+"Overall" : 2, 
+
+"Value" : 3, 
+
+"Room" : 3, 
+
+"Location" : 3,
+
+"Cleanliness" : 3, 
+
+"Checkin/frontdesk" : 3, 
+
+"Service" : 2, 
+
+"BService" : 2, 
+
+"SentimentRate" :0.249 , 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Great Location, but they charge extra for everything! We just returned from a week in New Orleans. We had a great time and really grew to love the city and the people. My husband and I stayed at the Hilton Riverside because I was attending a conference in the hotel so it was ideal for our situation. The good: Very clean, good location and nice employees. This hotel is located right next door to the Riverside Mall which has numerous places to get a quick bite and even a Cafe du Monde. Harrahs is right across the street and if you walk directly thru the casino you come out on Canal St. It was very hot on the days we visited so the little air conditioned stroll helped out. The not so good: The hotel check in was pretty easy but they didn't have any remodeled rooms when I checked in. Our room was on the inside and over looked the Starbucks and reception area. The room was clean but noisy at times. After staying at an Embassy Suites last year we were a bit spoiled. There was no complimentary breakfast or cocktail hour and they even charged me $15 to ship a Fed-Ex package, this didn't include the actual shipping charges. If you are not a Hilton Honors Silver or above they charge $13 a day to use the gym!! The business services offered internet but it was $5 for 15 minutes. All of these services were free at Embassy Suites. There is a street car stop out front of the hotel (if you have the patience to wait for it), it's only $1.25 per ride and will take you down to the French Quarter and you can get passes from the Concierge which seemed helpful. As far as food, everywhere we ate was wonderful, we really enjoyed the French Market Cafe with the live Jazz even during breakfast. If I went back just for fun I'd find a hotel with more perks, but we had a great time overall. "}])

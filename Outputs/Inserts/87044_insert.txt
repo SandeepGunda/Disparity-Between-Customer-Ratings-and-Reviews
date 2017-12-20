@@ -1,0 +1,248 @@
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "iainincanada" , 
+"Date" : new Date("2009-01-05"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :-1, 
+"SentimentRate" : 0.094, 
+"Sentiment" : "mixed" ,
+"Reviews" :"Just Perfick ! We spent 2 weeks here at Christmas and New Year. Ideal location, great room, we were upgraded at no charge because they thought we'd need a bigger room. Can't say enough......just pure dead brilliant ! "}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "sridd29" , 
+"Date" : new Date("2009-01-04"), 
+"Overall" : 3, 
+"Value" : 3, 
+"Room" : 3, 
+"Location" : 5,
+"Cleanliness" : 3, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :-1, 
+"SentimentRate" : 0.000, 
+"Sentiment" : "neutral" ,
+"Reviews" :"Nice, adequate place to stay... sunset from waikiki beach "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "KezOz" , 
+"Date" : new Date("2008-12-12"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 5, 
+"Location" : 4,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 4, 
+"Service" :4, 
+"BService" :3, 
+"SentimentRate" : 0.255, 
+"Sentiment" : "positive" ,
+"Reviews" :"Location, Location, Location...... I recently stayed in a one bedroon suite with kitchenette for 11 nights at the Ohana East  was very impressed.We arrived at the hotel mid morning  we were told our room was ready so the early check in was much appreciated after a 10hr flight with two young kids. 2 short blocks to the beach, ABC stores, Food Pantry, restaurants  shops all surrounding the hotel. Bus  trolley stops also across the road.Room was exactly as depicted on the hotel's website photos/video.I had read past negative reviews regarding cleanliness  small showers but I had no problems- I know for a fact our room was vacuumed regularly  our shower roomy enough to fit myself  my two young girls together(maybe that depends on room type). Front desk staff were always helpful  the bellmen always had a friendly greeting  were happy to point us in the right direction.Nice pool  pool area however pool was so cold we didn't go back, but then again, why use the pool when the beach is so close.....The only disappointment was I had requested a higher floor  allocated 8th floor (no noise problems anyway)  the balcony on the suite was tiny with no furniture, not even a single chair. There ended my dream of sipping margaritas whilst watching the world go by  also meant nowhere to hang  dry your cossies  beach towels etc. What has really impressed me though, is on arrival home I realised I had left my swimming costume  hat in the room. I emailed the hotel  it is now being forwarded on to me in Australia. What service but I guess that's the Ohana way! "}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "Travelgal81" , 
+"Date" : new Date("2008-11-11"), 
+"Overall" : 4, 
+"Value" : 3, 
+"Room" : 3, 
+"Location" : 4,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 4, 
+"Service" :4, 
+"BService" :-1, 
+"SentimentRate" : 0.318, 
+"Sentiment" : "positive" ,
+"Reviews" :"Nice hotel in Honolulu First time in Hawaii..We were looking for a basic hotel in a great location, and we found it. We did the touristy thing and did not stay in the hotel much. We did love the fridge and went and bought some snacks and sandwich stuff to save money. I think parking was about $20 a night, and the parking attendants were great. The front desk staff was great and answered all of our questions! The beach is very close by and there are hundreds of stores and resturants within walking distance! "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "littlemumu" , 
+"Date" : new Date("2008-10-26"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :5, 
+"SentimentRate" : 0.252, 
+"Sentiment" : "positive" ,
+"Reviews" :"Not one complaint! My husband, myself and 2 adult children spent 5 nights at the Ohana East and the experience could not have been better! I scoured the internet for weeks looking at travel offers, reading reviews,etc. and decided what I could afford was the Ohana East even though some of the reviews weren't that great. I don't know what some people are expecting but we were very pleased with the Ohana. I booked through the online Ohana Family website-great people-for a lower price than any of the trip planning companies (like Expedia, Orbitz). I told them I was a light sleeper and they made sure I had a room on the 15th floor and away from the elevator. Our rooms had great views, one with a limited ocean view and one with a mountain view (realy nice at night). We had a room with a kitchenette(microwave, sink, dishes, frig) which made our bathroom a bit small but not THAT small. Some reviews of the Ohana East complain about the small bathrooms but they are average-please, if you think you need a huge luxury spa bath suite than have sense enough to book and pay for a luxury hotel! We were there over 4th of July and never had any problems whatsoever with anything- elevators were fast, everything was clean and in good working order, employees were great, location was awsome. We all would stay there again and will recommed it to friends and family. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "bluemaxie" , 
+"Date" : new Date("2008-09-23"), 
+"Overall" : 3, 
+"Value" : 4, 
+"Room" : 3, 
+"Location" : 3,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 4, 
+"Service" :4, 
+"BService" :3, 
+"SentimentRate" : 0.538, 
+"Sentiment" : "positive" ,
+"Reviews" :"good place [central] four of us [two rooms] had a great week, nothing too much trouble for the staff.bubbly and chocolates on friends birthdaywould stay here again"}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "janjimbla" , 
+"Date" : new Date("2008-08-27"), 
+"Overall" : 4, 
+"Value" : 5, 
+"Room" : 3, 
+"Location" : 5,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 4, 
+"Service" :3, 
+"BService" :-1, 
+"SentimentRate" : 0.438, 
+"Sentiment" : "positive" ,
+"Reviews" :"No complaints here My husband, myself and 14 yr old son arrived at aprox. 10pm, for a week. Check-in was quick and simple. I had booked the room directly through the hotel and was given exactly what we had requested. 1 Bedroom suite, kitchenette, I had requested a higher floor, which was also accommodated. We were on the 18th floor, used the express elevator, no problems with waits or cards not working. I did notice while waiting in the lobby that the main elevators also appeared to be fairly quick. We had a very large lanai that had the sun in the afternoon, which was wonderful for that afternoon cocktail. To the left was an ocean view, straight ahead was another hotel, to the right was the lush mountains, with a city view below. The size of the room was more than adequate, and yes we had a full bathtub and shower. King bed in the bedroom with plenty of room to walk around, good size closet and TV. Pull out sofa in the living room, comfort wise it wasn't too bad for a pull out. Kitchen consisted of a microwave, a bit larger fridge than normal, dishes, cutlery, toaster, coffee pot, large wok style pot for cooking in. The room was bright and clean, and it was cleaned daily. We used the free shuttle pass to go to the shopping mall and 15minutes of free calling to tell everyone at home how much fun we were having . The pool was never overcrowded, plenty of lounge chairs, nice little bar during the afternoon. We utilized the laundry facilities which was very handy. The staff at the front desk and the activity desk were always friendly. The location is great for everything, restaurants, the beach, buses, shuttles, everything is central. Overall we had a very pleasent experience and would not hesitate to stay there again on our next visit"}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "bethany63" , 
+"Date" : new Date("2008-08-19"), 
+"Overall" : 3, 
+"Value" : 3, 
+"Room" : 3, 
+"Location" : 3,
+"Cleanliness" : 3, 
+"Checkin/frontdesk" : 3, 
+"Service" :1, 
+"BService" :-1, 
+"SentimentRate" : 0.096, 
+"Sentiment" : "mixed" ,
+"Reviews" :"Good position, nice hotel Just returned from a 7 night stay at the Ohana East, the hotel is in a good position not too far from the beach. Good position for the buses and trolleys. Hotel itself is clean and comfortable. We paid extra to upgrade our room which partially overlooked the sea. On reflection I wish we had looked at the original room before paying the upgrade but it only cost us 10 dollars a night so it wasn't too bad. The only problem we had was with noisy neighbours who decided to party at 2 am in the morning!! We were a bit annoyed with the hotel staff who did not appear to have much power to stop the noise - it was left to another room to bang on their door in the middle of the night! We used the local buses to get to Pearl Harbour which was well worth the visit so I would suggest that you do it yourself as it is free when you get there. We also went all around the island for 2 dollars each(120 miles in all) you can also get off for up to 2 hours and not have to pay again as long as you ask for a transfer. Excellent value for money. Went to a beautiful beach at Hanauma Bay, again on the local bus, which is a conservation area. It is a great snorkelling area with not too many people on it because you have to pay 5 dollars to use it. Would deinitely use this hotel again. "}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "BigP" , 
+"Date" : new Date("2008-07-21"), 
+"Overall" : 3, 
+"Value" : 3, 
+"Room" : 2, 
+"Location" : 4,
+"Cleanliness" : 3, 
+"Checkin/frontdesk" : 4, 
+"Service" :-1, 
+"BService" :3, 
+"SentimentRate" : 0.346, 
+"Sentiment" : "positive" ,
+"Reviews" :"Adequate But The Ohana East Hotel, as many other reviewers have pointed out, is convenient to both shopping and the beach and several buses stop right outside the door for those wishing to use them to go to Pearl Harbor or downtown Honolulu. The front-desk staff are all uniformly friendly and efficient. That having been said, however, there is little else positive to note. Though the room rates are anything but cheap, the rooms themselves are small and cramped. There is a mini-refrigerator and one does get copies of the local newspaper every day (including Sunday) but no complimentary breakfast, which would have been nice, nor, indeed, any restaurant for anyone who might want it. Admittedly, neither my wife nor I had ever been to Honolulu before our recent trip so we have nothing with which to compare the Ohana East but surely there must be a good many better places to stay while one is in the city. Certainly if we are back again, we'll unquestionably try to find them. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "DONNA063" , 
+"Date" : new Date("2008-06-13"), 
+"Overall" : 3, 
+"Value" : -1, 
+"Room" : -1, 
+"Location" : -1,
+"Cleanliness" : -1, 
+"Checkin/frontdesk" : -1, 
+"Service" :-1, 
+"BService" :-1, 
+"SentimentRate" : 0.720, 
+"Sentiment" : "positive" ,
+"Reviews" :"Great Location       Island Cafe at Kings Court "}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "ladygolfer9" , 
+"Date" : new Date("2008-06-11"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 4, 
+"Location" : 5,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :-1, 
+"SentimentRate" : 0.550, 
+"Sentiment" : "positive" ,
+"Reviews" :"Better than Expected My friend and I stayed at the Ohana East Hotel on May 30,2008 for a one night pre cruise stay. We arrived about 9:00pm that evening. The staff was very friendly and allowed me an extra hour late check-out, which we really didn't need afterall. I was celebrating my 50th birthday and the staff offered me a bottle of champagne or chocolates. I took chocolates. After going out and returning to our room, there was both champagne and chocolates waiting for me.I have to say, the hotel room was better than I had expected after reading dozens of reviews. The room was clean and neat. Yes, the bathroom is small, but as one reviewer stated, it was clean and it was enough room to handle your business. As far as any noise, we didn't experience any. The elevators worked fine for us. However, you do need your room key to operate. I believe because the hotel is opened-aired. Our experience at this hotel was wonderful and it is centrally located to the beach and shops and the staff went out their way to accomodate. Good job OHANA EAST! "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "Socallawgrl" , 
+"Date" : new Date("2008-05-28"), 
+"Overall" : 4, 
+"Value" : 3, 
+"Room" : 4, 
+"Location" : 5,
+"Cleanliness" : 3, 
+"Checkin/frontdesk" : 4, 
+"Service" :3, 
+"BService" :-1, 
+"SentimentRate" : 0.275, 
+"Sentiment" : "positive" ,
+"Reviews" :"Great Location in Waikiki My husband and I stayed at the Ohana East hotel this past Memorial Day weekend. The best thing I can say about the hotel is that it has a great location, about 2 blocks from the beach. The hotel was also in walking distance to the International Marketplace as well as the shops on Lewers street. It is definitely not a new hotel and there is nothing to brag about, but the room was comfortable and had a partial ocean view. I would recommend this hotel if you are looking for a no frills place to stay that is reasonably priced for a Waikiki location. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "dannokim" , 
+"Date" : new Date("2008-05-04"), 
+"Overall" : 5, 
+"Value" : -1, 
+"Room" : -1, 
+"Location" : -1,
+"Cleanliness" : -1, 
+"Checkin/frontdesk" : -1, 
+"Service" :-1, 
+"BService" :-1, 
+"SentimentRate" : 0.386, 
+"Sentiment" : "positive" ,
+"Reviews" :"Great stay!!! Myself, spouse, 16 yr old daughter and her best friend visited Waikiki/O'ahu April 2008. We rented a 1 bdrm kitchenette for 8 nights. It was a corner unit, great space, clean room/hotel, extremely friendly staff, very accomodating. Short walk(2 blocks) to the beach and very near shopping and International Marketplace. Only complaint...pullout sofabed mattress wasn' t all that comfortable. Good pricing. Overall great experience."}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "eckythump" , 
+"Date" : new Date("2008-04-11"), 
+"Overall" : 4, 
+"Value" : 5, 
+"Room" : 3, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :4, 
+"BService" :-1, 
+"SentimentRate" : 0.400, 
+"Sentiment" : "positive" ,
+"Reviews" :"Good place to stay       View from balcony "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87044, 
+"Author" : "rokrchik" , 
+"Date" : new Date("2008-04-07"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 4, 
+"Location" : 5,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 5, 
+"Service" :4, 
+"BService" :3, 
+"SentimentRate" : 0.389, 
+"Sentiment" : "positive" ,
+"Reviews" :"Nice Hotel, Was Happy Overall Took my mom to Hawaii in November of 2005 for vacation. Asked for a room near the top, which was honored. Forgot to ask to be away from elevators, we were right next door to them and the maids closet. Neither of which was too much of a bother. Nice, clean room - however the beds were pretty hard! After a day of walking and sightseeing, they were not the most comfortable to be coming back to at the end of the night. Good AC, nice spacious bathroom save for the smallest shower I have ever used. I could barely turn around in it and had to crouch to rinse my hair, (I'm only 5'6!). Coffee maker and fridge in room. Anything you could ever want is within walking distance, access to Waikiki beach was easy. Staff very nice and helpful. Enjoyed my stay here and would stay here again. "}])

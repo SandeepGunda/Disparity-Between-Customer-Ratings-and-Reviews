@@ -1,0 +1,801 @@
+hotel_id,nearby_attraction_name,rating,reviews,distance
+72572,Pioneer Square,3.5,535,.07
+72572,Occidental Park,3.5,49,.13
+72572,Milepost 31,4.5,19,.08
+72572,Pioneer Square Antique Mall,3,5,.06
+73821,Tempe Diablo Stadium,4,186,1.72
+73821,Tempe Center for the Arts,4.5,44,1.85
+73821,Halle Heart Children's Museum,4.5,14,1.92
+73821,Pueblo Grande Museum,4,200,1.47
+73855,Wells Fargo History Museum,4.5,215,.24
+73855,Talking Sticks Resort Arena,4,339,.27
+73855,St. Mary's Basilica,4.5,210,.15
+73855,Orpheum Theater,4.5,199,.27
+73943,Joya Spa at Omni Scottsdale Resort,4.5,197,1.62
+73943,The Sanctuary Spa,4.5,61,1.36
+73943,Camelback Mountain,4.5,1950,1.23
+73943,Franciscan Renewal Center,5,40,2.02
+73950,Tempe Diablo Stadium,4,186,1.66
+73950,Tempe Center for the Arts,4.5,44,1.83
+73950,Halle Heart Children's Museum,4.5,14,1.87
+73950,Pueblo Grande Museum,4,200,1.53
+73957,Piestewa Peak,4.5,564,1.36
+73957,Wrigley Mansion,4.5,344,2.13
+73957,Phoenix Mountain Preserve,4.5,187,1.26
+73957,Dreamy Draw Recreation Area,4.5,73,1.02
+74583,Tempe Diablo Stadium,4,186,1.59
+74583,Tempe Center for the Arts,4.5,44,1.96
+74583,Halle Heart Children's Museum,4.5,14,1.77
+74583,Pueblo Grande Museum,4,200,1.62
+74626,SEA LIFE Arizona,4,483,3.09
+74626,Mercado Mexico,4,6,3.26
+74626,Tempe Diablo Stadium,4,186,2.84
+74626,Halle Heart Children's Museum,4.5,14,2.40
+76083,Beverly Center,4,281,.09
+76083,Robertson Boulevard,4,107,.36
+76083,Kitson,4,18,.39
+76083,3rd Street Station,4.5,6,.24
+77270,Madame Tussauds Hollywood,4.5,2768,.12
+77270,Hollywood,4,1319,.11
+77270,Hollywood Walk of Fame,3.5,12829,.10
+77270,Hollywood Boulevard,3.5,1685,.11
+77629,McMullen Museum,4.5,20,.99
+77629,Metropolitan Waterworks Museum,4.5,38,.93
+77629,Brighton Music Hall,4.5,20,.97
+77629,Chestnut Hill Reservoir,4,28,.53
+77638,Fenway Park,4.5,12837,.70
+77638,Museum of Fine Arts,5,6873,.63
+77638,Isabella Stewart Gardner Museum,4.5,2391,.39
+77638,Puppet Showplace Theater,4.5,20,.65
+77714,Little Tokyo,4,685,.19
+77714,City Hall,4.5,216,.21
+77714,East West Players,5,5,.14
+77714,Fugetsu-Do,5,15,.15
+77775,Pierce Brothers Westwood Village Memorial Park,4.5,376,.23
+77775,Hammer Museum,4,132,.35
+77775,iPic Theaters,4.5,50,.24
+77775,Geffen Playhouse,4.5,35,.46
+77804,Walt Disney Concert Hall,4.5,2536,.22
+77804,The Broad,4.5,964,.13
+77804,Bradbury Building,4.5,468,.18
+77804,OUE Skyspace LA,4,263,.27
+77827,The Getty Center,5,11758,.43
+77827,"University of California, Los Angeles (UCLA)",4.5,534,1.54
+77827,Hammer Museum,4,132,1.76
+77827,Geffen Playhouse,4.5,35,1.57
+77866,OUE Skyspace LA,4,261,.14
+77866,Los Angeles Central Library,4.5,326,.16
+77866,Pershing Square,3.5,69,.03
+77866,Oviatt Building,4.5,9,.13
+77944,Automobile Driving Museum,4.5,111,1.74
+77944,Three Weavers Brewing Company,4.5,8,1.02
+77944,Flight Path Learning Center & Museum,5,37,1.63
+77944,Otis College of Art and Design Gallery,4.5,5,1.87
+78682,Jurassic Park The Ride,5,14,.78
+78682,Transformers: The Ride - 3D,4.5,11,.78
+78682,Revenge of the Mummy - The Ride,4.5,8,.80
+78682,Despicable Me Minion Mayhem,3.5,13,.89
+78688,River Rock,4,1,.04
+78688,Pinz Bowling,-1,,.21
+78688,Ricki Criswell Skin Care and Waxing Studio,-1,,.31
+78688,Studio City Golf and Tennis,4,6,.37
+78694,Studio Tour,4.5,13,.22
+78694,The Walking Dead Attraction,3.5,22,.18
+78694,Despicable Me Minion Mayhem,3.5,13,.19
+78694,Escape Room Games,4.5,30,.18
+79500,Malaekahana State Recreation Area,4.5,35,.34
+79500,Island Princess Hawaii - Macadamia Nut Factory Outlet,5,16,.38
+79500,"DFS, Hawaii Daniel K. Inouye International Airport",3,6,.67
+79500,Blue Hawaiian Helicopters - Oahu,5,611,.93
+80275,Bayside Marketplace,4,9545,.14
+80275,Miami Beach Marina,4.5,123,.14
+80275,Freedom Tower,4,310,.16
+80275,Xcursions USA - Day Tours,3.5,60,.06
+80747,Historic Streetcars,4.5,467,.04
+80747,Nob Hill,4.5,176,.15
+80747,Chinese Historical Society of America,4.5,31,.15
+80747,Huntington Park,4,25,.16
+80756,Scenic 49 Mile Drive,4.5,368,.03
+80756,Glide Memorial United Methodist Church,4.5,114,.14
+80756,SHN Curran Theatre,4,35,.17
+80756,San Francisco Art Exchange,5,7,.16
+80771,Powell and Market Cable Car Turnaround,4,817,.10
+80771,Union Square,4,1778,.12
+80771,Market Street,3.5,473,.09
+80771,Union Street,4.5,117,.11
+80774,Union Square,4,1778,.06
+80774,Union Street,4.5,117,.05
+80774,Neiman-Marcus,4,33,.09
+80774,Martin Lawrence Galleries,4.5,5,.07
+80786,American Conservatory Theater,4.5,47,.04
+80786,SHN Curran Theatre,4,35,.06
+80786,San Francisco Art Exchange,5,7,.08
+80786,Martin Lawrence Galleries,4.5,5,.04
+80788,Golden Gate Rides Bike Rentals & Tours,5,122,.29
+80788,PanIQ Room San Francisco,4.5,76,.24
+80788,City Clues Adventures,5,21,.23
+80788,Great American Music Hall,4,36,.07
+80793,Powell and Market Cable Car Turnaround,4,817,.12
+80793,Market Street,3.5,473,.12
+80793,San Francisco Visitor Information Center,4,70,.12
+80793,American Conservatory Theater,4.5,47,.08
+80802,Scenic 49 Mile Drive,4.5,368,.13
+80802,Glide Memorial United Methodist Church,4.5,114,.07
+80802,American Conservatory Theater,4.5,47,.08
+80802,SHN Curran Theatre,4,35,.06
+80836,The Color Factory,4,8,.06
+80836,San Francisco Art Exchange,5,7,.11
+80836,Marines Memorial Theater,4,7,.02
+80836,San Francisco Playhouse,4.5,261,.09
+80879,Cellarmaker Brewing Company,4,36,.30
+80879,Vermont Street,4,13,.38
+80879,Gourmet Walks - Fun Foodie Tours,5,321,.37
+80879,Oasis,5,125,.21
+80920,Powell and Market Cable Car Turnaround,4,817,.10
+80920,Westfield San Francisco Centre,4,495,.16
+80920,Market Street,3.5,473,.12
+80920,Glide Memorial United Methodist Church,4.5,114,.15
+80930,Lombard Street,4.5,12840,.37
+80930,Ghirardelli Square,4,2865,.36
+80930,Russian Hill,4,138,.30
+80930,Bluxome Street Winery,4,11,.36
+80937,The Color Factory,4,8,.09
+80937,450 Sutter Building,4.5,8,.07
+80937,Golden Gate City Hop-On Tours,4,167,.07
+80937,Golden West Tours,5,187,.07
+80983,Lyon Street Steps,5,41,.20
+80983,Alta Plaza Park,4.5,23,.34
+80983,Mrs Doubtfire House,4,22,.39
+80983,Full House House,3.5,9,.40
+80987,Marina District,4.5,106,.19
+80987,Cow Hollow,4,20,.37
+80987,Golden Gate Bridge Bike Rentals,4.5,37,.19
+80987,Captain San Francisco Sailing Charters,5,33,.36
+80990,Dragon's Gate,4,59,.12
+80990,Crocker Galleria,3.5,23,.04
+80990,Lotta's Fountain,4,20,.12
+80990,Teuscher Chocolates of Switzerland,4.5,7,.11
+80999,Saks Fifth Avenue,4,37,.06
+80999,Teuscher Chocolates of Switzerland,4.5,7,.09
+80999,450 Sutter Building,4.5,8,.05
+80999,Holiday Ice Rink In Union Square,3.5,6,.09
+81004,Old Cathedral of St. Mary,4.5,66,.07
+81004,Dragon's Gate,4,59,.06
+81004,Notre Dame Des Victoires Church,4.5,16,.07
+81004,Teuscher Chocolates of Switzerland,4.5,7,.14
+81019,Union Square,4,1778,.08
+81019,Union Street,4.5,117,.09
+81019,American Conservatory Theater,4.5,47,.07
+81019,SHN Curran Theatre,4,35,.09
+81022,Ferry Building Marketplace,4.5,5696,.20
+81022,Ferry Plaza Farmer's Market,4.5,419,.19
+81022,San Francisco Railway Museum,4,98,.14
+81022,Autodesk Gallery,5,22,.19
+81035,Asian Art Museum,4.5,1337,.20
+81035,San Francisco City Hall,4.5,781,.29
+81035,Ocean Beach,4,335,.18
+81035,San Francisco Public Library,4,175,.13
+81038,Transamerica Pyramid,4,252,.08
+81038,Portsmouth Square,4,26,.05
+81038,Sentinel Building,4,17,.10
+81038,Transamerica Redwood Park,5,10,.09
+81042,Pepper Palace,4.5,27,.07
+81042,City Segway Tours San Francisco,5,1702,.07
+81042,Vantigo Tours,5,1174,.04
+81042,Basically Free Bike Rentals,5,388,.11
+81049,City Clues Adventures,5,21,.08
+81049,High Trails Cyclery,5,10,.28
+81049,Vertigo,4.5,11,.19
+81049,Cinch Saloon,4.5,14,.20
+81082,San Francisco Maritime National Historical Park's Visitor Center,4.5,39,.11
+81082,San Francisco Maritime Museum/Aquatic Park Bathhouse Building,4.5,79,.12
+81082,Pepper Palace,4.5,27,.02
+81082,Winery Collective,3.5,53,.10
+81103,Ferry Building Marketplace,4.5,5696,.15
+81103,Ferry Plaza Farmer's Market,4.5,419,.15
+81103,San Francisco Railway Museum,4,98,.11
+81103,Autodesk Gallery,5,22,.05
+81110,Saks Fifth Avenue,4,37,.08
+81110,Xanadu Gallery (V. C. Morris Gift Shop),4.5,23,.08
+81110,Notre Dame Des Victoires Church,4.5,16,.10
+81110,Teuscher Chocolates of Switzerland,4.5,7,.06
+81141,San Francisco Art Institute,4.5,42,.15
+81141,Pepper Palace,4.5,27,.13
+81141,City Segway Tours San Francisco,5,1702,.13
+81141,Vantigo Tours,5,1174,.07
+81165,Powell and Market Cable Car Turnaround,4,817,.05
+81165,Westfield San Francisco Centre,4,495,.12
+81165,Market Street,3.5,473,.06
+81165,Nordstrom,4,70,.10
+81169,Powell and Market Cable Car Turnaround,4,817,.16
+81169,Westfield San Francisco Centre,4,495,.10
+81169,Yerba Buena Gardens,4,251,.13
+81169,Market Street,3.5,473,.14
+81170,Venice Beach,4,8357,.09
+81170,Venice Beach Boardwalk,4,2529,.16
+81170,Abbot Kinney Boulevard,4.5,242,.36
+81170,Venice Skatepark,4.5,99,.16
+81177,Haas - Lilienthal House,4.5,69,.18
+81177,San Francisco by Gilles,5,54,.33
+81177,Mountain Bike San Francisco,5,92,.26
+81177,The Bugster Experience,5,26,.07
+81204,Transamerica Pyramid,4,252,.13
+81204,Wells Fargo History Museum,4.5,135,.16
+81204,Embarcadero Center Cinema,4.5,14,.08
+81204,Transamerica Redwood Park,5,10,.11
+81241,Asian Art Museum,4.5,1337,.16
+81241,San Francisco City Hall,4.5,781,.25
+81241,Ocean Beach,4,335,.16
+81241,San Francisco Symphony,4.5,229,.30
+81246,Cellarmaker Brewing Company,4,36,.10
+81246,Heart of the City Farmers' Market,4.5,37,.32
+81246,International Art Museum of America,3.5,24,.33
+81246,San Francisco Federal Building,3,6,.20
+81249,Octagon House,4,12,.24
+81249,Bike & View - Bicycle Rentals and Tours,4.5,135,.22
+81249,Big Swingin' Cycles - California Mountain Bike Tours,5,21,.38
+81249,Reboot Float Spa,5,12,.36
+81251,St. Mary's Cathedral,4.5,113,.23
+81251,Silver Lion Service - Private Tours,5,380,.29
+81251,PanIQ Room San Francisco,4.5,76,.30
+81251,City Clues Adventures,5,21,.24
+81315,San Francisco Museum of Modern Art (SFMOMA),4.5,1399,.17
+81315,Westfield San Francisco Centre,4,495,.14
+81315,Yerba Buena Gardens,4,251,.11
+81315,Market Street,3.5,473,.17
+81367,Lands End,4.5,2262,.02
+81367,Legion of Honor,4.5,1738,.59
+81367,Sutro Baths,4.5,325,.26
+81367,Cliff House,4.5,380,.27
+81375,Fisherman's Wharf,4,14720,.16
+81375,Madame Tussauds San Francisco,4,423,.11
+81375,Ripley s Believe It or Not! San Francisco,3.5,210,.10
+81375,ZK Gallery,4.5,8,.16
+81377,Saks Fifth Avenue,4,37,.03
+81377,The Color Factory,4,8,.07
+81377,450 Sutter Building,4.5,8,.05
+81377,TIX Bay Area,3.5,15,.07
+81394,American Conservatory Theater,4.5,47,.07
+81394,SHN Curran Theatre,4,35,.08
+81394,The Color Factory,4,8,.07
+81394,San Francisco Art Exchange,5,7,.06
+81409,Saks Fifth Avenue,4,37,.06
+81409,The Color Factory,4,8,.04
+81409,TIX Bay Area,3.5,15,.06
+81409,Wild SF Walking Tours,5,1378,.05
+81416,Japantown,4,397,.27
+81416,St. Mary's Cathedral,4.5,113,.17
+81416,Japan Center,4,108,.27
+81416,San Francisco Ghost Hunt Walking Tour,4,57,.09
+81444,The Color Factory,4,8,.06
+81444,San Francisco Art Exchange,5,7,.07
+81444,Marines Memorial Theater,4,7,.04
+81444,Martin Lawrence Galleries,4.5,5,.08
+81461,Union Square,4,1778,.05
+81461,Union Street,4.5,117,.06
+81461,Martin Lawrence Galleries,4.5,5,.04
+81461,TIX Bay Area,3.5,15,.04
+81466,Fisherman's Wharf,4,14715,.09
+81466,Madame Tussauds San Francisco,4,423,.04
+81466,Ripley s Believe It or Not! San Francisco,3.5,210,.06
+81466,ZK Gallery,4.5,8,.10
+81480,Marina District,4.5,106,.12
+81480,Cow Hollow,4,20,.22
+81480,Golden Gate Bridge Bike Rentals,4.5,37,.05
+81480,California Wine Merchant,4.5,14,.15
+1223830,SFJazz Center,5,49,.30
+1223830,Hayes Valley,4.5,51,.34
+1223830,SF Armory,4,37,.31
+1223830,San Francisco Pride,5,7,.09
+81503,Marina District,4.5,106,.06
+81503,Golden Gate Bridge Bike Rentals,4.5,37,.08
+81503,Discover Walks - San Francisco Walking Tours,5,73,.30
+81503,Reboot Float Spa,5,12,.28
+81511,Palace of Fine Arts Theatre,4.5,3908,.31
+81511,Crissy Field,4.5,1238,.55
+81511,Golden Gate Promenade,4.5,474,.47
+81511,Marina District,4.5,106,.52
+81514,Dragon's Gate,4,59,.01
+81514,Notre Dame Des Victoires Church,4.5,16,.04
+81514,Teuscher Chocolates of Switzerland,4.5,7,.07
+81514,49 Geary Street Art Galleries,3.5,5,.10
+81520,Powell and Market Cable Car Turnaround,4,817,.07
+81520,Westfield San Francisco Centre,4,495,.13
+81520,Market Street,3.5,473,.06
+81520,Union Street,4.5,117,.13
+81531,Dragon's Gate,4,59,.14
+81531,Saks Fifth Avenue,4,37,.12
+81531,Notre Dame Des Victoires Church,4.5,16,.11
+81531,The Color Factory,4,8,.14
+81553,South San Francisco Conference Center,4,30,.25
+81553,United Club - Arrivals Lounge,3.5,16,.55
+81553,The Shops at Tanforan,4,34,.89
+81553,K1 Speed San Francisco,4,17,.32
+81669,San Francisco Museum of Modern Art (SFMOMA),4.5,1399,.04
+81669,Yerba Buena Gardens,4,250,.12
+81669,Contemporary Jewish Museum,4,185,.16
+81669,Children's Creativity Museum,4.5,59,.16
+81765,Battleship USS Iowa BB-61,4.5,1230,.35
+81765,Los Angeles Maritime Museum,4.5,27,.15
+81765,Warner Grand Theatre,4.5,9,.31
+81765,Ports O' Call Village,2.5,84,.12
+81768,Battleship USS Iowa BB-61,4.5,1230,.88
+81768,Los Angeles Maritime Museum,4.5,27,.82
+81768,Warner Grand Theatre,4.5,9,.38
+81768,Ports O' Call Village,2.5,84,.78
+81782,SFJazz Center,5,49,.20
+81782,Hayes Valley,4.5,51,.27
+81782,San Francisco Pride,5,7,.18
+81782,San Francisco Zen Center,5,5,.24
+81803,Scenic 49 Mile Drive,4.5,368,.16
+81803,Golden Gate Rides Bike Rentals & Tours,5,122,.22
+81803,Orange Sky Adventures,5,25,.22
+81803,PanIQ Room San Francisco,4.5,76,.06
+81976,Dragon's Gate,4,59,.00
+81976,Notre Dame Des Victoires Church,4.5,16,.03
+81976,Teuscher Chocolates of Switzerland,4.5,7,.08
+81976,49 Geary Street Art Galleries,3.5,5,.09
+81985,Scenic 49 Mile Drive,4.5,368,.11
+81985,Glide Memorial United Methodist Church,4.5,114,.12
+81985,American Conservatory Theater,4.5,47,.07
+81985,SHN Curran Theatre,4,35,.05
+82114,Palace of Fine Arts Theatre,4.5,3908,.37
+82114,Marina District,4.5,106,.36
+82114,Lyon Street Steps,5,41,.40
+82114,Letterman Digital and New Media Arts Center,4.5,16,.32
+82116,Palace of Fine Arts Theatre,4.5,3908,.34
+82116,Marina District,4.5,106,.35
+82116,Lyon Street Steps,5,41,.43
+82116,Letterman Digital and New Media Arts Center,4.5,16,.32
+82578,Hollywood Farmers Market,4.5,117,.36
+82578,"San Diego Seaplanes, Inc",4,5,.21
+82578,Melting Pot Food Tours,5,512,.38
+82578,A-List Hollywood Tours,5,593,.32
+84440,Suwattana Spa,-1,,.31
+84440,Your Skin & I,-1,,.39
+84440,Theme Quest Escape Rooms,-1,,.52
+84440,The Bunker,-1,,.60
+84502,Madame Tussauds Hollywood,4.5,2768,.21
+84502,Hollywood Walk of Fame,3.5,12829,.22
+84502,Have Fun Tours,5,168,.21
+84502,Hollywood United Methodist Church,4,18,.19
+84522,The Getty Center,5,11758,.45
+84522,"University of California, Los Angeles (UCLA)",4.5,534,1.48
+84522,Hammer Museum,4,132,1.73
+84522,Geffen Playhouse,4.5,35,1.53
+84561,Face Haus,-1,,.03
+84561,Goal,-1,,.10
+84561,Skin Sense by Marion Simms,-1,,.10
+84561,Onsen Lab,-1,,.11
+84993,Vizcaya Museum and Gardens,4.5,5601,.66
+84993,Kennedy Park,4.5,71,.52
+84993,Ermita de la Caridad del Cobre,4.5,15,.48
+84993,Marjorie Stoneman Douglas Park,4,6,.78
+85005,Tom's NFL,4,101,.89
+85005,The Dinner Detective,4.5,6,.16
+85005,The Centurion Lounge,3.5,166,.74
+85005,Casino Miami,3.5,48,.43
+85007,Doral Central Park,4,85,2.13
+85007,Kings,4.5,34,2.13
+85007,Planet Air Sports Doral,5,23,2.07
+85007,Doral Billiards & Sports Bar,3.5,13,1.23
+85027,Miami Trolley,4.5,806,.25
+85027,Brickell City Centre,4.5,95,.31
+85027,Miami Convention Center,4,56,.01
+85027,James L. Knigth Center,4,20,.01
+85029,Bayfront Park,4,1311,.15
+85029,Ultra Music Festival,4.5,48,.12
+85029,James L. Knigth Center,4,20,.33
+85029,Bicentennial Park,3.5,16,.35
+85031,Perez Art Museum Miami,4.5,1316,.35
+85031,Phillip and Patricia Frost Museum of Science,3.5,200,.41
+85031,Florida Grand Opera,4.5,71,.31
+85031,Trinity Episcopal Cathedral,4.5,36,.05
+85046,Perez Art Museum Miami,4.5,1316,.38
+85046,Phillip and Patricia Frost Museum of Science,3.5,200,.44
+85046,Florida Grand Opera,4.5,71,.35
+85046,Trinity Episcopal Cathedral,4.5,36,.09
+85147,Pier Park,4,94,.09
+85147,Town Center Park,4.5,42,.37
+85147,Senator Gwen Margolis Park,4.5,15,.78
+85147,ESPA Acqualina,4.5,79,.71
+85192,The Dinner Detective,4.5,6,.02
+85192,The Centurion Lounge,3.5,165,.91
+85192,Casino Miami,3.5,48,.27
+85192,Wingman Adventures,4.5,7,.98
+85205,Gray Line Miami Key West Trip,3.5,59,.27
+85205,Sue Body Massage and Foot Reflexology,3.5,4,.29
+85205,Botanica Viejo Lazaro,-1,,.79
+85205,Club America,1.5,39,.97
+86951,Kapiolani Park,4.5,914,.35
+86951,Honolulu Zoo,4,2308,.53
+86951,Waikiki Aquarium,4,1484,.16
+86951,Kaimana Beach,4.5,268,.04
+86957,Ala Moana Center,4,2385,.23
+86957,Don Quijote,4,463,.19
+86957,Hawaii Convention Center,4,83,.22
+86957,Honolulu Cookie Company Ala Moana Center,4,31,.22
+86959,Food Pantry,4,360,.09
+86959,King's Guard Museum,3.5,31,.17
+86959,Makua and Kila statue,4,12,.12
+86959,Lucoral Museum,4,13,.14
+86978,Waikiki Beach,4,12972,.10
+86978,Saint Augustine by-the-Sea,4.5,425,.08
+86978,Kuhio Beach,4.5,443,.10
+86978,Honolulu Cookie Company Waikiki Beach Marriott,4.5,90,.06
+86983,Statue of Duke Kahanamoku,4.5,1417,.05
+86983,Aloha Pearl Harbor,4,41,.09
+86983,Honolulu Cookie Company Hyatt Regency Waikiki,4.5,26,.08
+86983,Waikiki Farmers Market,4.5,6,.07
+87008,Try Scuba Diving,4.5,79,.02
+87008,Lather Spa,5,34,.11
+87008,Waikiki Starlight Luau,3,248,.23
+87008,Snapper's Sports Bar & Grill,4,41,.13
+87015,Ala Wai Canal,4,81,.08
+87015,McCully Shopping Center,4,9,.19
+87015,Escape Waikiki Tours,5,384,.23
+87015,Custom Island Tours,5,401,.21
+87016,Duke Kahanamoku Beach,4,72,.07
+87016,Atlantis Submarines Waikiki,4,1433,.12
+87016,Nocturnal Adventures Hawaii,5,111,.07
+87016,Hawaiian Parasail,4.5,252,.21
+87017,Malaekahana State Recreation Area,4.5,35,.64
+87017,Island Princess Hawaii - Macadamia Nut Factory Outlet,5,16,.67
+87017,"DFS, Hawaii Daniel K. Inouye International Airport",3,6,.43
+87017,Waikiki Trolley,4,2247,.61
+87018,Honolulu Cookie Company Hilton Hawaiian Village,4.5,318,.16
+87018,KOS Tours,5,277,.13
+87018,Waikiki Segway,5,59,.15
+87018,Try Scuba Diving,4.5,79,.13
+87024,Food Pantry,4,360,.14
+87024,International Market Place,3.5,267,.18
+87024,Makua and Kila statue,4,12,.11
+87024,Ike's Hanauma Bay Tours,5,256,.08
+87031,Statue of Duke Kahanamoku,4.5,1417,.13
+87031,Food Pantry,4,360,.13
+87031,Aloha Pearl Harbor,4,41,.12
+87031,King's Guard Museum,3.5,31,.09
+87044,Food Pantry,4,360,.06
+87044,International Market Place,3.5,268,.12
+87044,King's Guard Museum,3.5,31,.04
+87044,Makua and Kila statue,4,12,.09
+87052,US Army Museum of Hawaii,4.5,1716,.08
+87052,Fort DeRussy Beach Park,4.5,1601,.07
+87052,Ainahau Triangle,4,5,.22
+87052,Holokai Catamaran,5,981,.03
+87072,Doral Central Park,4,85,.55
+87072,Jim McLean Golf School-Doral,5,8,.42
+87072,Downtown Doral Park,4,6,.74
+87072,Trump National Doral Golf Course,4,258,.53
+87076,Doral Central Park,4,85,1.44
+87076,Jim McLean Golf School-Doral,5,8,1.32
+87076,Downtown Doral Park,4,6,1.26
+87076,Trump National Doral Golf Course,4,258,1.47
+87084,Gnc,-1,,.04
+87084,InMotion Entertainment,4,1,.04
+87084,Leather & Co.,3,1,.04
+87084,Books 4Travel,4,2,.04
+87091,Malaekahana State Recreation Area,4.5,35,.54
+87091,Island Princess Hawaii - Macadamia Nut Factory Outlet,5,16,.48
+87091,Royal Star Hawaii Deluxe Tours,5,1058,.96
+87091,Makani Kai Helicopters,5,699,.87
+87097,Statue of Duke Kahanamoku,4.5,1417,.12
+87097,Aloha Pearl Harbor,4,41,.06
+87097,Honolulu Cookie Company Hyatt Regency Waikiki,4.5,26,.12
+87097,Waikiki Farmers Market,4.5,6,.10
+87099,Gesu Catholic Church,4.5,103,.27
+87099,Miami Convention Center,4,56,.10
+87099,James L. Knigth Center,4,20,.10
+87099,Miami Tower,4,9,.07
+87102,International Market Place,3.5,268,.11
+87102,Waikiki Farmers Market,4.5,6,.12
+87102,Wizard Stones of Kapaemahu,3.5,26,.10
+87102,Fourever Fab Show,5,458,.07
+87104,International Market Place,3.5,267,.08
+87104,Honolulu Cookie Company Hyatt Regency Waikiki,4.5,26,.08
+87104,Waikiki Farmers Market,4.5,6,.09
+87104,Nohea Gallery,4.5,10,.08
+87108,Royal Hawaiian Center,4,563,.13
+87108,Maita'i Catamaran,4.5,400,.05
+87108,Rock-A-Hula,4.5,662,.12
+87108,Ty Gurney Surf School,5,252,.12
+87111,Waikiki Beach,4,12972,.10
+87111,Saint Augustine by-the-Sea,4.5,425,.09
+87111,Statue of Duke Kahanamoku,4.5,1417,.14
+87111,Kuhio Beach,4.5,443,.10
+87115,Magic City Casino,3.5,169,.63
+87115,Burger Museum by Burger Beast,5,16,.63
+87115,Grapeland Water Park,3.5,35,.68
+87115,Cuban Crafters Cigars,4.5,14,.69
+87149,Food Pantry,4,360,.10
+87149,King's Guard Museum,3.5,31,.18
+87149,Makua and Kila statue,4,12,.15
+87149,Lucoral Museum,4,13,.13
+89033,Louis Armstrong Park,4,871,.15
+89033,Bourbon Street,3.5,5078,.17
+89033,New Orleans Historic Voodoo Museum,3.5,442,.17
+89033,Haunted Museum,5,11,.07
+89049,French Quarter,4.5,17178,.10
+89049,Jean Lafitte National Historical Park and Preserve,4.5,782,.07
+89049,City Segway Tours New Orleans,5,1441,.08
+89049,Bullfrog Bike Tours,5,294,.07
+89083,Audubon Butterfly Garden and Insectarium,4.5,1104,.18
+89083,Museum of Trade Finance and the Fed,4.5,18,.19
+89083,Buzz Nola Bike Tours and Rentals,5,1106,.10
+89083,Clue Carre - New Orleans' First Live Escape Game,5,960,.19
+89091,RTA - Streetcars,4.5,11470,.28
+89091,Immaculate Conception Church,5,388,.23
+89091,Lafayette Square,4,128,.20
+89091,Museum of Trade Finance and the Fed,4.5,18,.16
+89101,Audubon Butterfly Garden and Insectarium,4.5,1104,.09
+89101,Canal Place,4,94,.12
+89101,Buzz Nola Bike Tours and Rentals,5,1106,.12
+89101,City Segway Tours New Orleans,5,1442,.08
+89115,Historic New Orleans Collection,4.5,508,.08
+89115,New Orleans Pharmacy Museum,4.5,680,.04
+89115,James H. Cohen and Sons,4.5,18,.05
+89115,Museum of the American Cocktail,4,13,.05
+89118,French Market,4,1788,.09
+89118,Beauregard-Keyes House,4.5,253,.05
+89118,Old Ursuline Convent,4.5,192,.06
+89118,Gallier House,4.5,67,.10
+89119,The National WWII Museum,5,21255,.41
+89119,Magazine Street,4.5,884,.09
+89119,Southern Food and Beverage Museum,3.5,90,.33
+89119,Lee Circle,3.5,41,.38
+89148,A Gallery For Fine Photography,5,10,.07
+89148,The Michalopoulos Gallery,5,9,.07
+89148,Windsor Fine Art,5,5,.03
+89148,Caliche and Pao Gallery,4.5,5,.07
+89150,Audubon Butterfly Garden and Insectarium,4.5,1104,.16
+89150,Harrah's Casino New Orleans,4,3138,.17
+89150,Museum of Trade Finance and the Fed,4.5,18,.19
+89150,Buzz Nola Bike Tours and Rentals,5,1106,.07
+89158,Audubon Butterfly Garden and Insectarium,4.5,1106,.15
+89158,Harrah's Casino New Orleans,4,3139,.05
+89158,Canal Street / Algiers Ferry,4,890,.16
+89158,Canal Place,4,94,.16
+89568,Trinity Church,4.5,785,.33
+89568,John Hancock Tower,4,89,.27
+89568,Lyric Stage Company of Boston,4.5,32,.23
+89568,Salada Tea Doors,4.5,7,.20
+89575,Rose Kennedy Greenway,4.5,402,.17
+89575,Independence Wharf,5,5,.14
+89575,Classic Harbor Line Boston MA Day Tours,5,618,.04
+89575,Massachusetts Bay Lines,4,291,.02
+89585,Arlington Street Church,4.5,19,.15
+89585,Shubert Theatre,4,29,.18
+89585,George Washington Statue,4,17,.17
+89585,Colonial Theatre,3.5,31,.15
+89620,Houlihan's,,,.30
+89620,BookLink,4.5,3,.44
+89620,Nantucket Lightship/LV-112,-1,,.45
+89620,9/11 Memorial,5,2,.55
+90015,US Army Museum of Hawaii,4.5,1716,.13
+90015,Fort DeRussy Beach Park,4.5,1601,.11
+90015,Holokai Catamaran,5,981,.08
+90015,Gone Surfing Hawaii,5,494,.21
+90017,Ala Wai Canal,4,81,.16
+90017,KOS Tours,5,277,.20
+90017,Waikiki Segway,5,59,.05
+90017,Quality Surfboards Hawaii,5,38,.12
+93034,New Orleans Musical Legends Park,4.5,744,.02
+93034,Germaine Wells Mardi Gras Museum,4,21,.05
+93034,Keil's Antiques,4.5,5,.04
+93034,Windsor Fine Art,5,5,.07
+93047,New Orleans Musical Legends Park,4.5,744,.05
+93047,Hermann-Grima House,4.5,239,.08
+93047,Museum of Death,4,194,.08
+93047,Musee Conti Wax Museum,3.5,99,.06
+93051,Royal Street,4.5,6640,.06
+93051,Hermann-Grima House,4.5,239,.08
+93051,New Orleans Secrets Tours,5,639,.04
+93051,Drink & Learn,5,274,.01
+93164,Audubon Aquarium of the Americas,4,2594,.22
+93164,Canal Street / Algiers Ferry,4,890,.17
+93164,The Outlet Collection at Riverwalk,4,560,.19
+93164,Mulate's,3.5,24,.22
+93340,St. Thomas Church,4.5,381,.16
+93340,Paley Park,4.5,55,.09
+93340,Central Synagogue,4.5,33,.15
+93340,Seagram Building,4,32,.08
+93457,Gershwin Theater,4.5,398,.06
+93457,Broadway Theatre,4.5,410,.09
+93457,Times Square Church,4.5,158,.09
+93457,Neil Simon Theatre,4.5,211,.07
+93459,Lafayette Cemetery No.1,4.5,2188,.55
+93459,Elms Mansion,4.5,13,.36
+93459,As You Like It Silver Shop,5,9,.53
+93459,Cole Pratt Gallery,5,9,.40
+93589,Broadway Theatre,4.5,410,.10
+93589,42nd Street,4.5,320,.08
+93589,Times Square Church,4.5,158,.10
+93589,Circle In The Square Theatre,4.5,138,.08
+94330,Boston Tea Party Ships & Museum,4.5,4862,.53
+94330,Harpoon Brewery & Beer Hall,4.5,826,.38
+94330,Boston Children's Museum,4.5,810,.47
+94330,Boston Convention & Exhibition Center,4,165,.25
+94344,Quincy Market,4.5,2695,.11
+94344,Rose Kennedy Greenway,4.5,402,.11
+94344,Marriott's Custom House,4.5,83,.01
+94344,Boston Segway Tours,5,800,.05
+94350,Skywalk Observatory,4.5,1006,.24
+94350,Prudential Center,4,1356,.24
+94350,The Mapparium,4.5,682,.17
+94350,The Boston Pops,5,395,.13
+94399,Waterfront,4.5,1644,.15
+94399,Old State House,4.5,977,.17
+94399,Old South Meeting House,4,212,.09
+94399,Downtown Crossing,3.5,156,.14
+98606,Perot Museum of Nature and Science,4.5,2896,.30
+98606,Morton H. Meyerson Symphony Center,5,598,.33
+98606,Dallas Museum of Art,4.5,1658,.16
+98606,Klyde Warren Park,4.5,1659,.25
+98629,Morton H. Meyerson Symphony Center,5,598,.41
+98629,Dallas Museum of Art,4.5,1658,.45
+98629,Klyde Warren Park,4.5,1659,.36
+98629,American Airlines Center,4.5,1082,.43
+98639,Escape This,5,198,.98
+98639,Ultimate Escape Game Dallas,4.5,31,.46
+98639,Galleria Dallas,4,415,.39
+98639,The Cultured Cup,5,8,.97
+98641,Ultimate Escape Game Dallas,4.5,31,.83
+98641,Galleria Dallas,4,415,.43
+98641,Obstacle Warrior Kids,5,7,.74
+98641,HBar at Hilton Lincoln Centre,4,8,.10
+98644,Richardson Public Library,4.5,36,2.80
+98644,Alamo Drafthouse Cinema,4.5,143,2.08
+98644,Valley House Gallery,5,5,1.88
+98644,Escape the Room Dallas,4.5,298,2.88
+98679,The Sixth Floor Museum/Texas School Book Depository,4.5,7375,.24
+98679,Dallas World Aquarium,4.5,3900,.56
+98679,Dallas Cattle Drive Sculptures,4.5,755,.45
+98679,Dealey Plaza National Historic Landmark District,4.5,1994,.21
+98710,Geppetto's Theater & Workshop,5,15,.35
+98710,Peticolas Brewing Company,4.5,10,.52
+98710,Noble Rey Brewing Company,4.5,6,.54
+98710,Medieval Times Dinner & Tournament,4.5,838,.57
+98719,Community Beer Company,4.5,20,.78
+98719,Geppetto's Theater & Workshop,5,15,.16
+98719,Peticolas Brewing Company,4.5,10,.36
+98719,Reverchon Park,4.5,6,.71
+98726,Katy Trail,4.5,230,.22
+98726,Dragon Park,4,35,.21
+98726,Museum of Geometric and MADI Art,5,19,.23
+98726,Reverchon Park,4.5,6,.43
+98727,Katy Trail,4.5,230,.54
+98727,Dragon Park,4,35,.18
+98727,Dallas Theater Center,4.5,29,.53
+98727,McKinney Avenue,4.5,33,.71
+98728,Ultimate Escape Game Dallas,4.5,31,.41
+98728,Galleria Dallas,4,415,.06
+98728,Obstacle Warrior Kids,5,7,.50
+98728,HBar at Hilton Lincoln Centre,4,8,.39
+98731,Community Beer Company,4.5,20,.87
+98731,Geppetto's Theater & Workshop,5,15,.00
+98731,Peticolas Brewing Company,4.5,10,.25
+98731,Reverchon Park,4.5,6,.87
+99371,Greenacre Pocket Park,5,28,.09
+99371,Citicorp Center,3,13,.10
+99371,Saint Peter’s Church,4,8,.09
+99371,Marilyn Monroe's subway grate,2.5,6,.09
+100504,Sky View Observatory,4.5,2089,.21
+100504,Benaroya Hall,5,470,.15
+100504,Seattle Public Library,4.5,1941,.06
+100504,Seattle Art Museum,4.5,1314,.20
+100505,Seattle Glassblowing Studio,4.5,284,.15
+100505,Moore Theatre,4,34,.15
+100505,Christ Our Hope Catholic Church,5,9,.18
+100505,Dimitriou's Jazz Alley,4.5,200,.11
+100506,Benaroya Hall,5,470,.12
+100506,Seattle Public Library,4.5,1941,.09
+100506,Seattle Art Museum,4.5,1313,.17
+100506,5th Avenue Theatre,4.5,369,.13
+100507,Pike Place Market,4.5,16820,.06
+100507,Old Stove Brewing Co.,4.5,82,.04
+100507,Old Stove Brewery,4,16,.04
+100507,Antiques at Pike Place,3.5,16,.03
+100509,Belltown,4,56,.09
+100509,P-Patch Community Gardens,4,6,.12
+100509,Victoria Clipper,4,1527,.22
+100509,Seattle Food Tours,5,481,.17
+100527,Sky View Observatory,4.5,2089,.25
+100527,Benaroya Hall,5,470,.22
+100527,Seattle Public Library,4.5,1941,.11
+100527,5th Avenue Theatre,4.5,369,.11
+100537,Chihuly Garden and Glass,5,18875,.31
+100537,Seattle Center,4.5,1222,.28
+100537,International Fountain,4.5,76,.20
+100537,Seattle Children's Museum,4,205,.21
+100540,Kerry Park,4.5,2795,.35
+100540,International Fountain,4.5,76,.29
+100540,Seattle Children's Museum,4,205,.31
+100540,Pacific Northwest Ballet,4.5,123,.35
+100544,Old Stove Brewing Co.,4.5,82,.13
+100544,Moore Theatre,4,34,.01
+100544,Steinbrueck Native Gallery,5,9,.14
+100544,Christ Our Hope Catholic Church,5,9,.04
+100554,Sky View Observatory,4.5,2089,.15
+100554,Benaroya Hall,5,470,.29
+100554,Seattle Public Library,4.5,1941,.09
+100554,Columbia Center,4.5,207,.16
+100561,Chihuly Garden and Glass,5,18875,.29
+100561,Space Needle,4.5,14146,.24
+100561,Museum of Pop Culture,4,5427,.21
+100561,Seattle Center,4.5,1222,.32
+100562,5th Avenue Theatre,4.5,369,.11
+100562,Washington State Convention Center,4,148,.12
+100562,Pacific Place,4,102,.15
+100562,Nordstrom,4.5,78,.16
+100565,Nordstrom,4.5,78,.20
+100565,Nordstrom Rack,4,108,.19
+100565,Westlake Center,3.5,126,.19
+100565,Moore Theatre,4,34,.12
+100567,Olympic Sculpture Park,4,966,.33
+100567,Belltown,4,56,.23
+100567,P-Patch Community Gardens,4,6,.10
+100567,Victoria Clipper,4,1527,.10
+100569,Sky View Observatory,4.5,2089,.36
+100569,Seattle Public Library,4.5,1941,.31
+100569,Columbia Center,4.5,207,.36
+100569,5th Avenue Theatre,4.5,369,.34
+100574,Chihuly Garden and Glass,5,18875,.28
+100574,Space Needle,4.5,14146,.23
+100574,Museum of Pop Culture,4,5427,.21
+100574,Seattle Center,4.5,1222,.31
+100577,University Village,4.5,122,.11
+100577,University District,3.5,75,.59
+100577,Neptune Theater,4,35,.62
+100577,The Unity Museum,5,31,.60
+100581,University of Washington,4.5,1045,.26
+100581,University District,3.5,75,.29
+100581,Neptune Theater,4,35,.27
+100581,The Unity Museum,5,31,.28
+100584,Chihuly Garden and Glass,5,18875,.32
+100584,Space Needle,4.5,14146,.27
+100584,Museum of Pop Culture,4,5427,.20
+100584,Seattle Center,4.5,1222,.33
+100585,Sky View Observatory,4.5,2089,.20
+100585,Benaroya Hall,5,470,.21
+100585,Seattle Public Library,4.5,1941,.05
+100585,Columbia Center,4.5,207,.21
+100597,Angle Lake Park,4,130,.60
+100597,Alaska Airlines Board Room,3.5,51,.77
+100597,United Club,4,15,.45
+100597,Club at SEA,3.5,22,.44
+100602,iFLY Indoor Skydiving - Seattle,4.5,341,.43
+100602,Family Fun Center and Bullwinkle's Restaurant,4,81,.38
+100602,Acme Bowl,4,25,.45
+100602,Hydroplane and Raceboat Museum,4.5,34,2.49
+100603,Angle Lake Park,4,130,.15
+100603,United Club,4,15,.91
+100603,Club at SEA,3.5,22,.80
+100603,The Spa at Cedarbrook,4.5,8,.76
+100617,Alaska Airlines Board Room,3.5,51,.23
+100617,United Club,4,15,.32
+100617,Alaska Airlines Board Room,3.5,21,.40
+100617,Fireworks Gallery,5,5,.35
+100619,Alaska Airlines Board Room,3.5,51,.45
+100619,United Club,4,15,.20
+100619,Club at SEA,3.5,22,.33
+100619,Alaska Airlines Board Room,3.5,21,.64
+109367,Geppetto's Theater & Workshop,5,15,.72
+109367,Peticolas Brewing Company,4.5,10,.82
+109367,Noble Rey Brewing Company,4.5,6,.27
+109367,Medieval Times Dinner & Tournament,4.5,838,.96
+109412,Pete's Dueling Piano Bar,4.5,137,.29
+109412,Addison Circle Park,4.5,39,.53
+109412,WaterTower Theatre,4.5,29,.53
+109412,AMC Village On The Parkway 9,4.5,15,.30
+109413,Dallas World Aquarium,4.5,3900,.41
+109413,Dallas Cattle Drive Sculptures,4.5,755,.30
+109413,Pioneer Plaza,4.5,576,.30
+109413,Majestic Theater,4.5,110,.30
+109426,The Sixth Floor Museum/Texas School Book Depository,4.5,7375,.25
+109426,Perot Museum of Nature and Science,4.5,2896,.27
+109426,Dallas World Aquarium,4.5,3900,.09
+109426,Dealey Plaza National Historic Landmark District,4.5,1994,.28
+109452,Mandalay Canal,4,72,2.89
+109452,Cistercian Abbey,5,5,1.88
+109452,Gondola Adventures,5,27,2.66
+109452,Cowboys Dancehall Dallas,4,35,.41

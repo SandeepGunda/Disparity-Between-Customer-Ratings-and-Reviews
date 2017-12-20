@@ -1,0 +1,420 @@
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "kate0680" , 
+
+"Date" : Jan 7, 2009, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : -1, 
+
+"BService" : 5, 
+
+"SentimentRate" : 0.547, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "We'll be back. Great base in NYC Being amongst the top 20 hotels in NYC is definitely saying something, especially being so reasonably priced. So we put our trust in Trip Advisor and yet again we were not disappointed.The room was large, clean and well appointed. The bed was very comfortable and what seemed to me, exceptionally large (that said i'm used to a double). Noise was never an issue at what i'm sure is an extremely busy time of the year. We specifically asked to be on one of the upper floors and this request was obviously noted.The bathroom was reasonably large and very clean. Shower wasn't great, but not terrible. The pressure and the temperature seemed to vary a bit but not excessively.The reception/foyer area was tastefully decorated for christmas and the staff we very friendly and helpful.My one piece of advice is to get to breakfast early. On one occasion we walked past and the line was terribly long. We always tried to get in before 8am and we didn't have to wait too long. Breakfast was quite varied and substantial for a complimentary feed. We couldn't help but head out and explore our other options for breakfast around Manhattan though ;) But it was nice to have that option and we did take advantage of it on 2 mornings.A great hotel close enough to the action but away from the hustle and bustle. Gotta love NYC :) "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "DaisyHolmfirth" , 
+
+"Date" : Jan 6, 2009, 
+
+"Overall" : 5, 
+
+"Value" : 4, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : 5, 
+
+"SentimentRate" : 0.430, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Best New Year yet! We have just got back from a wonderful family holiday in New York staying 6 nights at the Hampton Inn. I booked the hotel after reading the reviews and yet again we were not diasppointed. This is a superb hotel which met our needs perfectly. There were four of us sharing a room with 2, very comfortable double beds. The bathroom was a bit small but that is my only negative comment. Although busy the breakfast was good with an excellent choice. We did get up early, and were down to breakfast for 7.30- 8am but be warned it does get busy if you go between 9am - 10am which we did on one morning. The hotel is in a fantastic location. five mins max walk from Central Park which is a must if you enjoy people watching! Times square and other mid Manhatten sites. 5th Ave and the amazing shops are 10 mins away. My recommendation to anybody visiting New York is to walk as much as you can it is so easy to get about and around every corner is another WOW experience. Times Square is very busy and in my opinion most impressive at night.We planned to go up the Empire State but changed our minds when confronted with a 3 hour line. We did go to the Top of the Rock at 8pm without a long wait and for a 3rd of the price. The view was magical.The New York Musuem ( upper East side) was interesting and gave you a real sense of the history and character of NY. This is close to the Met Art Musuem which is a must and the shop is superb.Ellis Island and Satute of Liberty was another day full of interest and Wow factor. My teenage children said this had been their favourite day, the view back over manhatten from Ellis Island as the sunset will be with me for ever. Walk down 9th the choice of restaurants is fantastic. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "cathsann" , 
+
+"Date" : Jan 5, 2009, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : 3, 
+
+"SentimentRate" : 0.651, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Couldn't ask for more There's not a lot I can add to the wonderful reviews below, but to say that we loved the Hampton Inn. The room was plenty spacious and the beds were very comfortable. Our room was on the 7th floor, 8th Avenue side, and we did hear street noises, but so what! We needed to get up anyway. The staff was always pleasant and helpful, especially our housekeeper, and the concierge (can't remember her name right now). Breakfast was plentiful, but one day we decided to eat out and walked one block to the Cosmic Diner and paid $12 for breakfast for 2 - not bad.Our favorite neighborhood spot was House of Brews, around the corner on 51st toward 9th Ave. Great drinks, great nachos, and friendly service. We really enjoyed this area, and would definitely stay again. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "AMIBeachGal" , 
+
+"Date" : Jan 4, 2009, 
+
+"Overall" : 5, 
+
+"Value" : 4, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : 3, 
+
+"SentimentRate" : 0.582, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Happy New Year at The Hampton! Great Location  We stayed at the Hampton Inn Times Square during our visit to NYC over the New Years holiday. As other reviews have stated, this hotel is a great value for NYC! The hotel is reasonably priced and centrally located in walking distance to Times Square, Rockerfeller Center, Broadway, shopping on 5th Ave., Central Park, the Museum of Modern Art, and more. We were definitely pleased that we chose to stay in Midtown Manhattan. While this hotel is not a full service hotel (i.e., there is no bar or restaurant within the hotel), it provides all of the basic accomodations needed. Breakfast is included in the price, which is also a plus. The rooms were nicely apportioned and decorated. The beds were comfortable and we were provided with extra towels without having to ask for them. Front desk staff were helpful in answering questions and assisting with restaurant reservations. We look forward to returning to this hotel in future visits to NYC! "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "greetingsfromCanada" , 
+
+"Date" : Jan 3, 2009, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : 5, 
+
+"SentimentRate" : 0.564, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Great stay at Hampton Inn during 2008 Christmas Holidays My wife and I, as well as our two adult children ( 29 and 23)arrived at the hotel December 21 and left December 27 and had a wonderful trip to New York. Our stay at this hotel was definitely a good experience all around with friendly and courteous staff, nice clean large room with very comfortable queen size beds for four adults. The breakfast was good, always plenty of food even though a very busy place. Had good meals around the hotel, such as at Uncle Nicks Greek Restaurant on Ninth Ave, pizza, mexican restaurant as well as the Cosmos dinner accross the street.Comments from Trip Advisor helped me choose this place and I would definitely come and stay here again.Philippe "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "hyacinthcourt" , 
+
+"Date" : Jan 2, 2009, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : 5, 
+
+"SentimentRate" : 0.755, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "A+ Hampton Inn Times Square made our trip wonderful.Front desk: quick, helpful, friendly.Bellmen: Great source of information, all smilesRooms: New and spotlessHousekeeping: Went out of their way to helpBreakfast: Full buffet breakfast excellent, one hot entree and all the varieties of fruit, cereal, and pastries you can imagine. Staff working breakfast were always helpful.Location: Can walk to Times Square, most plays, theater district, Fifith Avenue, Rockefeller Center, Central Park, Museums and more. Subway across the street.Rates: Totally reasonable for New York City!I would recommend this hotel to anyone! Families, Couples, or Seniors. We stayed here through New Years Eve 2008I would stay here again anytime. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "ccbozard" , 
+
+"Date" : Dec 31, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 4,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 4, 
+
+"BService" : 5, 
+
+"SentimentRate" : 0.466, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Nice hotel in great location This is a very nice hotel, comfortable accomodations, centrally located. The rooms are nice size, bed is very comfortable, and all was extremely clean. Hotel staff were very helpful with the exception of Francois the concierge, who gave bad advise on dinner reservations and tour company and couldn't provide good price on broadway tickets. Breakfast was very good - and a great bargain considering NYC prices! Overall this is a great choice for accomodations, a block or two away from theaters and great restaurants. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "greenbeltdan" , 
+
+"Date" : Dec 26, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : 5, 
+
+"SentimentRate" : 0.333, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Great Hampton Inn in NYC!!! I am a Gold HHonors member and try to stay at Hilton properties whenever possible. I was amazed, frankly, by how nice this Hampton Inn was and how well it was run. As mentioned in other reviews, this is basically a regular Hampton Inn, but in the heart of NYC, so getting a rate on Christmas Day of $119 a night was amazing. The rooms are very large by New York standards, the staff is friendly and helpful, the breakfast is adequate (although take heed of the signs that between 8:30 and 10:00 a.m., it's a 'tumultuous' experience reminiscent of standing in line at a soup kitchen), and the amenities are very nice. I would definitely consider staying here again, even at a higher rate. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "boardhead" , 
+
+"Date" : Dec 24, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 5, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 4, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" : 0.348, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "great location Stayed here on a two day holiday visit. Went to radio city, metropolitan museum and a show. The location is convenient to all these attractions, our room was well appointed and the staff helpful. We booked on the hotel website, and the rate changed twice before our visit for a savings of $100. So it pays to reprice, and on the hotel site you can cancel and rebook without penalty. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "Atravelfan" , 
+
+"Date" : Dec 22, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 4, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : -1, 
+
+"BService" : 5, 
+
+"SentimentRate" : 0.218, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Hampton Inn was great Based on a lot of research including Tripadvisor reviews, we booked our stay in Manhattan at the Hampton Inn Times Square North, and couldn't have been more pleased. The rooms were quite large and the bedding comfortable (the pillows were either very firm or very soft however). The bathrooms were a good size with hair dryer and curved shower rod. The rooms included a safe as well as iron and ironing board. The breakfast was good, with excellent biscuits. (The eggs were not anyone's favorite). The Gershwin theater is less than a block away. There are numerous good restaurants within easy walking distance, and excellent pizza across the street. We would definitely return to this hotel! "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "brilynn" , 
+
+"Date" : Dec 21, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" : 0.443, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Magic in Manhattan We stayed in the Hampton inn in December for 4 nights and we had a fantastic time. The location is perfect. We booked to see Hairspray on Broadway and it was only one block from the Hotel.The Hotel itself is very nice, the rooms spotless clean and a decent size especially for New York. We had plenty of room for the 4 of us including storage of our luggage and more importantly our shopping. I have stayed in the Ramada New Yorker in the past and their room sizes are very small in comparison. The beds are to die for at the Hampton and after shopping 10 hours a day they were a welcome sight every evening. Breakfast was great and a full choice for all. It set us before a long day shopping.The location of the Hotel is perfect for food and drink and entertainment. The Cosmic diner across the road is very nice and recommended by chef Ainsley Harriott. Rays pizza next door serves fantastic pizza and well worth a visit. The house of Brews bar around the corner is great although the cocktails are a bit pricey at $10.00 but it did not stop us having a taste of them all anyway.Overall a fantastic place to stay and looking forward staying there again when we return, "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "MeterMaid" , 
+
+"Date" : Dec 20, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 5, 
+
+"Room" : 4, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" : 0.497, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Great location, reasonable price We came to The City to see a play and decided to stay if we could find a reasonable rate near the theatre. The Hampton Inn had a very good price (anything under $200 is low for NYC) for a late booking and a midweek night. We were very pleased with the location. Less than a block to our theatre and near a wide range of restaurants and diners. The staff was very pleasant. The room was very roomy, clean and comfortable. The free breakfast and adjacent parking were bonuses. The area is as safe as any; we felt secure walking back after the play. The guests included many families with young children (it was one week before Christmas so this may not be typical) and business travelers. We felt right at home in jeans and sweaters. We definitely will check this place for our next trip, and have recommended it to others. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "Bill-Agnes" , 
+
+"Date" : Dec 17, 2008, 
+
+"Overall" : 5, 
+
+"Value" : 4, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 4, 
+
+"Checkin/frontdesk" : 4, 
+
+"Service" : 5, 
+
+"BService" : 4, 
+
+"SentimentRate" : 0.403, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "NYC in the Winter Time We spent Wed-Sun (10-14) exploring all that NYC has to offer.I used point for our 4 night stay and everything was perfect.The weather was cold but that did not stop my wife and myself.We saw 3 Broadway shows and ate at some very nice restaurants.Everything about this hotel is perfect for a visit to New York.Location, Location, Location. There was hot coffee 24/7. We neededsomething to warm us up after returning to the Hotel. A very nice breakfast is served every morning .Times Square was all lit up with many many people on the streets.Choose this place for yourself nextime. "}])
+
+db.hotels.insert([{ 
+
+"Hotel_id" : 93457, 
+
+"Author" : "lyketotravel" , 
+
+"Date" : Dec 17, 2008, 
+
+"Overall" : 4, 
+
+"Value" : 5, 
+
+"Room" : 5, 
+
+"Location" : 5,
+
+"Cleanliness" : 5, 
+
+"Checkin/frontdesk" : 5, 
+
+"Service" : 5, 
+
+"BService" : -1, 
+
+"SentimentRate" : 0.600, 
+
+"Sentiment" : "Positive",
+
+"Reviews" : "Great for the Price I Paid I got a deal for this hotel on Sunday for $135. Close to Times Square, near the 8th Ave/50th St station served by the C E and D lines. Great room for the price. However, only average for their rest of the week rate. I didn't want to pay $200+ for a room I only saw to sleep and shower so I moved on to a cheaper place. "}])
+

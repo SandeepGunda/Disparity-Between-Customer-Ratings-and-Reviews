@@ -1,0 +1,232 @@
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "dbozzy" , 
+"Date" : new Date("2009-01-05"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 4, 
+"Location" : 3,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 5, 
+"Service" : 5, 
+"BService" :3, 
+"SentimentRate" :1.320 , 
+"Sentiment" : "positive" ,
+"Reviews":"Would recommend the Coconut!       View of the canal from our room "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "cap220" , 
+"Date" : new Date("2009-01-05"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 4, 
+"Service" : 4, 
+"BService" :4, 
+"SentimentRate" :0.576 , 
+"Sentiment" : "positive" ,
+"Reviews":"Ringing in the New Year The Best Western Coconut Waikiki is a GREAT place to stay in Honolulu. The location on Waikiki is fantastic. We were able to walk to the beach, restaurants and shops within a few minutes. We were really impressed with the hip decor at the Coconut as well as the cleanliness and modernity of the hotel. The staff was really nice and helpful as well. We live in Kailua but wanted to spend the night in town for New Year's Eve. It was a great place to stay to ring in the New Year! "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "Karlie" , 
+"Date" : new Date("2009-01-04"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 4, 
+"Location" : 5,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 3, 
+"Service" : 4, 
+"BService" :5, 
+"SentimentRate" :0.500 , 
+"Sentiment" : "positive" ,
+"Reviews":"A nice option in Waikiki Bed"}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "surferreviewer" , 
+"Date" : new Date("2009-01-03"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" : 4,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" : 5, 
+"BService" :5, 
+"SentimentRate" :0.000 , 
+"Sentiment" : "neutral" ,
+"Reviews":"Great little spot View from lanai "}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "HNL815" , 
+"Date" : new Date("2009-01-01"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 4,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" : 5, 
+"BService" :5, 
+"SentimentRate" :0.658 , 
+"Sentiment" : "neutral" ,
+"Reviews":"From a travel agent This is absolutely one of the best hotels in Waikiki I stayed at so far.Rooms are spacious and very clean and provide all the amenities for a relaxing stay. I enjoyed the little kitchenette with microwave, refrigerator, coffeemaker and they even provide plates and other utensils. The beds are very comfortable and the big flatscreen TV with lots of channels was just perfect during those few rainy days. OK the breakfast buffet is rather small but good enough to start the day. Computers with free internet access in the lobby are very convenient to check on email and attractions. Staff was always very friendly and helpful. The pool is small but who needs a pool in Hawaii? If you are looking for a clean hotel that provides just about everything you need for a wonderful vacation (including beach towels) this is it."}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "drtwoboys" , 
+"Date" : new Date("2008-12-18"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" : 5, 
+"BService" :5, 
+"SentimentRate" :0.494 , 
+"Sentiment" : "positive" ,
+"Reviews":"It was the perfect place for our soccer team We stayed at the Coconut Waikiki Hotel while playing in a week-long National Soccer Tournament . 14 fourteen year old soccer players and their families (and grandparents) converged on this newly renovated hotel and we all agreed it was the ideal place for us to stay. The friendly staff was informed, patient, and more than acommodating to our large group. The nicely furnished rooms were clean and comfortable with ample amenities. When there was a problem, it was quickly remedied (if you're a light sleeper, ask for a city-view room.) Every morning a generous continental breakfast awaited us in the bright and airy lobby along with access to two computers. I loved the bowl of apples on the counter. The driving and parking area is limited but the valets made it look simple with our 2 minivans and rental cars always ready when we needed them. The pool is small but when we weren't playing on the soccer fields we were at the beach a short 3 blocks away. We highly recommend the bar  restaurant Spada nearby. Mahalo from the Beverly Hills All Stars Soccer team to the wonderful staff at the Coconut Waikiki for your gracious hospitality. We enjoyed our stay with you and look forward to visiting again. Aloha. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "Staidthere" , 
+"Date" : new Date("2008-12-28"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" : 4, 
+"BService" :5, 
+"SentimentRate" :0.000 , 
+"Sentiment" : "neutral" ,
+"Reviews":"Delightful Hotel Room 504 with porch on the right "}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "Zephon" , 
+"Date" : new Date("2008-12-17"), 
+"Overall" : 4, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" : 3,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 5, 
+"Service" : 4, 
+"BService" :5, 
+"SentimentRate" :0.299, 
+"Sentiment" : "positive" ,
+"Reviews":"Modern comfort The staff were welcoming and personable, from the moment we checked in until we checked out. The pictures don't lie. The contemporary design of the rooms are truly unique without sacrificing comfort and cleanliness. Slept like a baby everynight. The patio door could use a little more grease, but that's a minor nitpick. You might not get all the amenities and servicese that you would at one of the larger resort hotels, but there are things the other hotels don't offer, such as the manager's wii-ception. And the location in residential neighbourhood gives the Coconut a different vibe, but still convenient to everything in Waikiki - shopping, beaches, nightlife, restaurants. Also, be sure to make aquaintance with Bosley the Gorilla if you decide to stay."}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "victraveller36" , 
+"Date" : new Date("2008-12-15"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : -1, 
+"Location" : 4,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" : 5, 
+"BService" :4, 
+"SentimentRate" :0.352, 
+"Sentiment" : "positive" ,
+"Reviews":"Would stay here over and over again If you're looking for a reasonably priced, quiet, clean and friendly place to stay - look no further. The front desk staff were always friendly and helpful. The Aqua Coconut is a gem in the middle of a beautiful place to vacation. If you are looking for a fancy pool this is not the place to stay but then do you really go to Waikiki for a swimming pool? We loved our room and the beds really are as comfortable as everyone says. We never had a single bad experience during the 8 days (Nov.4-12) we were there. That includes the people, the beach, the restaurants and the car rental agency (Enterprise -an extra thank you) just down the street We loved the Cheesecake Factory for it's prices, quality of food and the fun we had sitting and people watching. Dukes was another restaurant we enjoyed many times. Sitting at Dukes for dinner and looking out over the ocean watching the sunset was a treat on it's own. We can not say enough good words to the Hawaiian people who we found without exception showed us hospitality that is hard to top. Mahalo to all of you in Wakiki and a special Mahalo to Jamal and the staff at the Aqua Coconut - I will forever be grateful for your consideration. If the fates permit it my wife and I will be back. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "fdoamerica" , 
+"Date" : new Date("2008-12-09"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 5, 
+"Location" : 4,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 5, 
+"Service" : 5, 
+"BService" :5, 
+"SentimentRate" :0.197, 
+"Sentiment" : "neutral" ,
+"Reviews":"I will definitely come back. Hotel Room "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "MelbourneMolly48" , 
+"Date" : new Date("2008-12-08"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" : 5, 
+"BService" :5, 
+"SentimentRate" :0.016, 
+"Sentiment" : "mixed" ,
+"Reviews":"Fantastic Hotel Hotel is in a wonderful position. Close to public transport and shopping, beach etc.The hotel staff could not be more helpful and the rooms are just right. Could not say a bad word about our stay here "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "cdoggHawaii" , 
+"Date" : new Date("2008-12-08"), 
+"Overall" : 5, 
+"Value" : -1, 
+"Room" : -1, 
+"Location" : -1,
+"Cleanliness" : -1, 
+"Checkin/frontdesk" : -1, 
+"Service" : -1, 
+"BService" :-1, 
+"SentimentRate" :0.721, 
+"Sentiment" : "positive" ,
+"Reviews":"Coconut Waikiki was AWESOME! I was very pleased with the overall appearance and service of the hotel. The Lobby and Reception area were well maintained, the friendliness and the eagerness of the staff was unbeatable. The decor of the room was very modern, reminiscent of a TV Redesign Show, complete with kitchenette.Continental Breakfast was a pleasant surprise and fresh coffee at any hour was a plus.I would return to the Coconut Waikiki most definitely.Great Job!"}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "dojobear" , 
+"Date" : new Date("2008-12-06"), 
+"Overall" : 4, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" : 3,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" : 5, 
+"BService" :4, 
+"SentimentRate" :0.681, 
+"Sentiment" : "positive" ,
+"Reviews":"Beds were fantastic Stayed at the Best Western Coconut Waikiki for just two nights. The staff was most helpful and accomodating. The rooms were small but nice and clean and modern. The bed was one of the most comfortable my husband and I have ever slept on. A bit of a walk to the beach but doable especially with a stop just down the street for a great three dollar mai tai."}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 86966, 
+"Author" : "cabnetman" , 
+"Date" : new Date("2008-11-24"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 5, 
+"Location" : 3,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 4, 
+"Service" : 4, 
+"BService" :5, 
+"SentimentRate" :0.830, 
+"Sentiment" : "positive" ,
+"Reviews":"Terrific stay We were looking for a place to stay for a couple of nights before and after our cruise....I found this hotel which at the time was still undergoing renovations but was scheduled to open a couple of months before our arrival.I must saw we were pleasantly surprised to get a hotel only a short walk to Waikiki beach for such a reasonable price.To our further surprise the room was terrific ( the first one was a little more spacious but they both were well decorated)The beds were extremely comfortable and the the continental breakfast had much better fruit than even the cruise were went on!!Considering we spent 124.00 per night for a hotel room in Toronto beside the 401 highway before we left on our honeymoon getting this room in Hawaii no less for 100.00 a night was incredible by my standards.We will definitely stay there when we return in a few years to enjoy more of Hawaii's beauty "}])
+

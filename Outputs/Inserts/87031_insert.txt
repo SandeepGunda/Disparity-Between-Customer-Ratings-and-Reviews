@@ -1,0 +1,252 @@
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "MarieFav" , 
+"Date" : new Date("2009-01-06"), 
+"Overall" : 5, 
+"Value" : -1, 
+"Room" : -1, 
+"Location" : -1,
+"Cleanliness" : -1, 
+"Checkin/frontdesk" : -1, 
+"Service" :-1, 
+"BService" :-1, 
+"SentimentRate" : 0.479, 
+"Sentiment" : "positive" ,
+"Reviews" :"excellent condo hotel and very personable with the best service The property is very well kept and upgraded and canatrally located with just a few steps to the beach. Surrounded by shopping and nice restaurants.Pool area nice and quaint, they even have a barbeque area for your convenience and a boutiqish style spa.Rooms are very nice and decorated like someone's home.Very good amenities and continental breakfast included every morning and one night a week a managers cocktail/snack hour.Very family friendly. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "kaushman" , 
+"Date" : new Date("2009-01-02"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 4, 
+"Location" : 5,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :3, 
+"SentimentRate" : 0.325, 
+"Sentiment" : "positive" ,
+"Reviews" :"Boutique Hotel with a personal touch! The thing we liked most about the hotel is the how you the staff gets to know you and you them over the week of stay. This is almost not possible in the big chain hotels.Hotel:1. Very close to the beach (just a 5 min walk). Leads to right to the duke statue depending the direction you take.2. Very close to the bus stop (if you plan to use the bus; more on the bus in my Oahu trip review)3. Hotel decor is very modern with an Asian influence (thailand is what the hotel wants us to believe)4. The pool area and cabanas are nice (never used it though)Rooms:1. The rooms has modern look with flat screen TV.2. The washroom is decent3. The only complaint I have it the AC. I could not barely reach the on/off switch (I am 5' 9). If I had to adjust the temp; I had to use some other extension (like a comb or a pen)4. The lanai (balcony) was big enough to put your chairs and kick back (we did that when there was no power in Oahu for 12 hrs).Staff and other amenities1. Very enthusiastic (esp Tony)2. Parking is 22 bucks a day if you valet or 20 bucks if you park across the street3. Breakfast is ok4. Pool and Spa services are on-premises; but we never used itAll in all a good value for money. Rating of the Trip Advisor Hotel Ranking should be higher than the Best Western Coconut (due to the location). "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "Fred924" , 
+"Date" : new Date("2008-12-31"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 4, 
+"Location" : 5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :4, 
+"SentimentRate" : 0.675, 
+"Sentiment" : "positive" ,
+"Reviews" :"We will be back to the Aqua Bamboo The Aqua Bamboo is in a great location. It is close to the beach at Waikiki, it is close to shopping, and close to public buses. The hotel is a great value. The hotel offers amenities that enhance one's stay (newspaper, continental breakfast, weekly cocktail hour). However, most important is the friendliness and helpfulness of the staff. The personal touch made one feel welcome and very much at home. We look forward to our next visit. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "CrocDundeeCanada" , 
+"Date" : new Date("2008-12-16"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 3, 
+"Location" :4,
+"Cleanliness" : 4, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :4, 
+"SentimentRate" : 0.523, 
+"Sentiment" : "positive" ,
+"Reviews" :"Nice Stay We didn't know what to expect at the Aqua Bamboo, but we were pleasantly surprised. It has recently been renovated and the foyer was very modern with an Asian feel to it (bamboo theme). The pool area was very relaxing and never crowded. The only negative comment for this area would be the size of the hot tub. only 4 people could squeeze into it at once. The rooms are also renovated and in very good condition, comfortable and clean. We stayed in a room with a full kitchen which was very handy for a family of four. If possible, request a room at the back of the hotel because the rooms at the front get a lot of noise from the street. The hotel is only a block away from the middle of Waikiki beach and we had no issues walking there with 2 young kids. The complimentary breakfast consisted of muffins, pastries, apples, bananas and juice. Nothing fancy but adequate for the kids. I chose to eat a healthier breakfast prepared in my room. The staff were all very friendly and helpful. They made our stay very enjoyable. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "Mrs_M85" , 
+"Date" : new Date("2008-12-13"), 
+"Overall" : 5, 
+"Value" : 5, 
+"Room" : 5, 
+"Location" :5,
+"Cleanliness" : 5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :4, 
+"SentimentRate" : 0.548, 
+"Sentiment" : "positive" ,
+"Reviews" :"Could not have asked for better The Aqua Bamboo was just stunning, especially the foyer and the inner sanctuary the pool was a little cold but the warmth of the spa made up for that. the location in Waikiki was fantastic 1 block from the beach. Our room the studio deluxe was everything we were expecting, the room was it was very clean when we arrived and the cleaning service we received over the 10 days we were there was just as great. The king size bed was very comfortable and the view from the balcony was beautiful. Being provided with the TV in the room was well welcomed after long days touring the Island. The service provided by the Bamboo staff could not be faulted, Joy was so lovely and approachable she and the other staff really made David and Myself feel very valued and welcome. The complementary breakfast every morning was a great way to start the day and the take away breakfast option is also a great service.We were extremely happy with the Aqua Bamboo.  Lauren Marett "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "sherrybinger" , 
+"Date" : new Date("2008-12-12"), 
+"Overall" : 5, 
+"Value" : -1, 
+"Room" : -1, 
+"Location" :-1,
+"Cleanliness" : -1, 
+"Checkin/frontdesk" : -1, 
+"Service" :-1, 
+"BService" :-1, 
+"SentimentRate" : 0.867, 
+"Sentiment" : "positive" ,
+"Reviews" :"Celebrating Birthdays  Aloha Spirt at it's finest is what you find at the Aqua Bamboo  Spa! From the moment we arrived to our day of departure, the staff were so wonderful to us. Joy, Leonor and Angela made our trip a fabulous one. We had business to conduct as well as quality family time to enjoy....we were able to accomplish it all.You feel like you're in your very own private paradise among the palm trees and plants surrounding the salt water pool and jacuzzi. Very nicely renovated rooms!Close to everything...Waikiki Beaches, shopping, dining, grocery store, International Market Place! Very convenient!We would recommend this property for small groups, families, honeymooners, and girl trips.Can't wait to go back! "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "DR87" , 
+"Date" : new Date("2008-12-12"), 
+"Overall" : 4, 
+"Value" : 4, 
+"Room" : 4, 
+"Location" :4,
+"Cleanliness" :5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :-1, 
+"SentimentRate" : 0.344, 
+"Sentiment" : "positive" ,
+"Reviews" :"Aqua Bamboo was the right choice My wife and I are former Hawaii residents. We go back every year - at least once - for our anniversary. We typically stay outside of Waikiki (Northshore, Kailua, Waimanalo, etc.). This is the first time in 20 years we actually booked a room in Waikiki. We were a bit skeptical and our expectations were low - after all, it's Waikiki.The Aqua Bamboo turned out to be the perfect choice. It's a small boutique hotel, one block off the beach, in the heart of Waikiki. If you're looking for a resort experience - this is not for you - but if you want a private, comfortable place to relax and still be close to the beach and Waikiki night life, this is a solid choice. We booked a studio room overlooking the courtyard/pool. The room was comfortable and just the right size for the two of us. The room has obviously been renovated recently - fresh paint, new carpet, etc. There were still signs of age however - the ceiling has some crumbling spots, the toilet didn't always flush completely. But all in all, it was a clean and comfortable room.The highlight of the hotel is the staff. WOW! Joy and her team are first rate all the way. Eager to help with any question - directions, access to the internet, etc. - always friendly and looking after the best interests of the guests. We were always greeted with a smile and an offer of is there anything we do for you today and when we had a question, we were helped right away.The Aqua Bamboo exceeded our expectations. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "MumFrankfort_Il" , 
+"Date" : new Date("2008-12-03"), 
+"Overall" :5, 
+"Value" :-1, 
+"Room" : -1, 
+"Location" :-1,
+"Cleanliness" :-1, 
+"Checkin/frontdesk" : -1, 
+"Service" :-1, 
+"BService" :-1, 
+"SentimentRate" : 0.310, 
+"Sentiment" : "positive" ,
+"Reviews" :"A Great Place to Stay The facilities at Aqua Bamboo  Spa are more than acceptable. The beds were excellent. The rooms were spotless, and we truly enjoyed sitting on the lanai after a day of touring/sun on the beach. You couldn't ask for a more convenient location, and the each and every member of the staff was pleasant. I would recommended it to anyone. "}])
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "Happy_Family08" , 
+"Date" : new Date("2008-11-30"), 
+"Overall" :5, 
+"Value" :-1, 
+"Room" : -1, 
+"Location" :-1,
+"Cleanliness" :-1, 
+"Checkin/frontdesk" : -1, 
+"Service" :-1, 
+"BService" :-1, 
+"SentimentRate" : 0.000, 
+"Sentiment" : "neutral" ,
+"Reviews" :"Aqua Bamboo        waterfalls next to the pool"}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "ColoGrl4ever" , 
+"Date" : new Date("2008-11-25"), 
+"Overall" :5, 
+"Value" :5, 
+"Room" : 5, 
+"Location" :5,
+"Cleanliness" :4, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :3, 
+"SentimentRate" : 0.323, 
+"Sentiment" : "positive" ,
+"Reviews" :"Best Hotel Staff This was my first trip to Hawaii and I could not be more pleased with my stay at the Aqua Bamboo. When I booked my hotel with the agent at the 800 number, I booked a room on the pool side away from the street noise. Upon check in the woderfully friendly staff sent us up to our room under the impression that they'd given us a free upgrade. However, when we got to our room it was street side only 2nd floor up. My boyfriend and I were initially worried that the street noise might keep us up all night, but decided to try it for at least one night before asking to be moved. We did decide to move rooms, and contacted the Guest Services Manager, Joy Adler. She really went above and beyond to appologize for the mistake and to accomidate our original request, including sending someone up with the bell cart to assist our room change. The above and beyond part is that Joy gave us a double upgrade due to the remaining poolside rooms being full and put us in the Honeymoon Suite!!! This room was STUNNING! But other than the room upgrade......the hotel staff were all very friendly and welcoming. Every time we entered and left the hotel we were greeted warmly. One tip: don't miss out on Bamboozle!! "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "Santaisretired" , 
+"Date" : new Date("2008-11-24"), 
+"Overall" :5, 
+"Value" :5, 
+"Room" : 4, 
+"Location" :4,
+"Cleanliness" :5, 
+"Checkin/frontdesk" : 4, 
+"Service" :5, 
+"BService" :3, 
+"SentimentRate" : 0.576, 
+"Sentiment" : "positive" ,
+"Reviews" :"A Great Hideaway We were very pleased with everything at the Aqua Bamboo and Spa. The hotel and its grounds were elegant yet homey; the rooms were comfortable and well stocked for every need. The hospitality was warm and helpful from every staff person. The hotel was well situated for access to the beach, shops and restaurants. We would recommend this Hotel to anyone. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "Husseynany" , 
+"Date" : new Date("2008-11-22"), 
+"Overall" :5, 
+"Value" :5, 
+"Room" : 5, 
+"Location" :4,
+"Cleanliness" :5, 
+"Checkin/frontdesk" : 4, 
+"Service" :4, 
+"BService" :4, 
+"SentimentRate" : 0.444, 
+"Sentiment" : "positive" ,
+"Reviews" :"Great location, great price! I was so surprised at how glamorous my room was. The bed was really comfortable, and the was a huge flat screen TV in my room. From my room, I could see Waikiki beach over the buildings. The location was excellent, just 2 streets back from the beach which was nothing to walk. The price was great considering the location and my room. I found that the hotel's website provided a better deal with prices that the cheap hotel booking websites. A simple breakfast was included in the price, however I generally missed it because it finished about 9 or 9.30. I would definately recommend this hotel to anyone - singles, married couples, families and would indeed stay there again myself. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "KimHarwood" , 
+"Date" : new Date("2008-11-17"), 
+"Overall" :5, 
+"Value" :5, 
+"Room" : 5, 
+"Location" :5,
+"Cleanliness" :5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :5, 
+"SentimentRate" : 0.481, 
+"Sentiment" : "positive" ,
+"Reviews" :"Best Personal Service in Honolulu! Like staying with friends and family! Upon check in at Aqua Bamboo, after a long day of traveling mania, I could not have been more welcomed by any other resort. The eager and happy doorman immediately led me into the serene entrance for Aqau Bamboo that has a calming waterfall and many other nerve soothing affects that appeal to your senses of sight, smell and sound. The staff handed me a cold bottle of water immediately. Joy Adler and Lenore Wong, the best Guest Service managers in town, treated me to incredible spoiling treats and amenities for the complete duration of my stay. From an incredibly relaxing Lomi Lomi massage that they arranged to such surprising amenities in my beautiful one bedroom suite such as goodies in gift baskets and bringing me a breakfast tray one morning, I could never find such personalized service anywhere else. Lenore Wong even made me a special Lei out of yarn and cloth that brought tears to my eyes. I have it on the wall of my living room here at home and it still brings back all the happy memories of my stay with Aqua Bamboo this month. The last day I was there she presented me with a fragrant Ginger Lei and everyone was asking what the occasion was all day long! The complete staff at Aqua is extremely helpful with directions and special dinner reservations and information. They treat you like close friends and family!I highly recommend Aqua Bamboo  Spa to anyone seeking a relaxing and rewarding visit to Honolulu. "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "beenie1976" , 
+"Date" : new Date("2008-11-15"), 
+"Overall" :5, 
+"Value" :5, 
+"Room" : 4, 
+"Location" :5,
+"Cleanliness" :5, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :5, 
+"SentimentRate" : 1.130, 
+"Sentiment" : "positive" ,
+"Reviews" :"Loved this hotel! Will definitely go back!       view from our deck "}])
+
+
+db.hotels.insert([{ 
+"Hotel_id" : 87031, 
+"Author" : "mkauai24" , 
+"Date" : new Date("2008-11-15"), 
+"Overall" :5, 
+"Value" :4, 
+"Room" : 4, 
+"Location" :5,
+"Cleanliness" :4, 
+"Checkin/frontdesk" : 5, 
+"Service" :5, 
+"BService" :4, 
+"SentimentRate" : 0.486, 
+"Sentiment" : "positive" ,
+"Reviews" :"Great place to stay A very clean hotel and some of the most friendly front line staff we've meet. Actually most the people we meet were very happy to help. The hotel is nicely located 1 block from the beach even though we spent most of your time at one of the many other beaches (less crowded ! )We definetly would return to this property and wouldn't hesitate to recommend to anyone who's travelling on a somewhat of a budget, we had a room with a small kitchen which really helped !"}])
